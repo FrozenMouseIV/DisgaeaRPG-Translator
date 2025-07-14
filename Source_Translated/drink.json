@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Kawaru Wa Milk",
+    "description": "Cocktail that gives you 1 reincarnation",
+    "drink_type": 1,
+    "effect_value": 1
+  },
+  {
+    "id": 2,
+    "name": "Sparee Driver",
+    "description": "Cocktail that gives you the highest number of reincarnations",
+    "drink_type": 2,
+    "effect_value": 1
+  },
+  {
+    "id": 3,
+    "name": "Awakening/Abandoned Ball",
+    "description": "Cocktail that gives you +1 awakening stage",
+    "drink_type": 3,
+    "effect_value": 1
+  },
+  {
+    "id": 4,
+    "name": "Super-authorized ball",
+    "description": "Cocktail that gives you +1 super awakening stage",
+    "drink_type": 4,
+    "effect_value": 1
+  },
+  {
+    "id": 5,
+    "name": "Makaizorita",
+    "description": "Cocktail with +1 magic modification stage",
+    "drink_type": 5,
+    "effect_value": 1
+  },
+  {
+    "id": 6,
+    "name": "Manatini",
+    "description": "Cocktails with +100 mana",
+    "drink_type": 6,
+    "effect_value": 100
+  },
+  {
+    "id": 7,
+    "name": "Wepomas Sour",
+    "description": "Cocktail with +1 weapon proficiency",
+    "drink_type": 7,
+    "effect_value": 1
+  },
+  {
+    "id": 8,
+    "name": "Gin Technique",
+    "description": "Cocktail with +1 skill level",
+    "drink_type": 8,
+    "effect_value": 1
+  }
+]

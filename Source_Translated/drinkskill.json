@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Produces red liqueur",
+    "m_liqueur_id": 1,
+    "drink_skill_type": 1,
+    "effect_value": 100
+  },
+  {
+    "id": 2,
+    "name": "Produces blue liqueur",
+    "m_liqueur_id": 2,
+    "drink_skill_type": 1,
+    "effect_value": 100
+  },
+  {
+    "id": 3,
+    "name": "Produces a golden liqueur",
+    "m_liqueur_id": 3,
+    "drink_skill_type": 1,
+    "effect_value": 100
+  },
+  {
+    "id": 4,
+    "name": "Produces green liqueur",
+    "m_liqueur_id": 4,
+    "drink_skill_type": 1,
+    "effect_value": 100
+  },
+  {
+    "id": 5,
+    "name": "Increased production of red liqueur",
+    "m_liqueur_id": 1,
+    "drink_skill_type": 2,
+    "effect_value": 100
+  },
+  {
+    "id": 6,
+    "name": "Increased blue liqueur production",
+    "m_liqueur_id": 2,
+    "drink_skill_type": 2,
+    "effect_value": 100
+  },
+  {
+    "id": 7,
+    "name": "Increased yellow liqueur production",
+    "m_liqueur_id": 3,
+    "drink_skill_type": 2,
+    "effect_value": 100
+  },
+  {
+    "id": 8,
+    "name": "Increased green liqueur production",
+    "m_liqueur_id": 4,
+    "drink_skill_type": 2,
+    "effect_value": 100
+  }
+]

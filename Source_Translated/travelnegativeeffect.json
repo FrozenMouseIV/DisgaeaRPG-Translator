@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Lose your magicality",
+    "description": "Lose two randomly usable magical abilities",
+    "negative_effect_type": 1,
+    "target_count": 1,
+    "effect_value": 2,
+    "travel_type": 1
+  },
+  {
+    "id": 2,
+    "name": "Status goes down",
+    "description": "Basic parameters other than HP 25% down",
+    "negative_effect_type": 2,
+    "target_count": 1,
+    "effect_value": 25,
+    "travel_type": 1
+  },
+  {
+    "id": 3,
+    "name": "Equipment effect is invalidated",
+    "description": "Equipment effect invalid",
+    "negative_effect_type": 3,
+    "target_count": 1,
+    "effect_value": 0,
+    "travel_type": 1
+  },
+  {
+    "id": 11,
+    "name": "Lose all your magical abilities",
+    "description": "Lose all available magical abilities",
+    "negative_effect_type": 1,
+    "target_count": 1,
+    "effect_value": 4,
+    "travel_type": 2
+  },
+  {
+    "id": 12,
+    "name": "Status goes down",
+    "description": "50% down on the basic parameters other than HP",
+    "negative_effect_type": 2,
+    "target_count": 1,
+    "effect_value": 50,
+    "travel_type": 2
+  },
+  {
+    "id": 13,
+    "name": "Equipment effect is invalidated",
+    "description": "Equipment effect invalid",
+    "negative_effect_type": 3,
+    "target_count": 1,
+    "effect_value": 0,
+    "travel_type": 2
+  }
+]

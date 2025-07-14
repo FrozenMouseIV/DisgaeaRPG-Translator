@@ -5,7 +5,7 @@ import shutil
 import time
 from Code.UnityHelper import UnityHelper
 from Code.config import Config, Paths
-from Translator import Translator
+from Code.Translator import Translator
 
 class Translator_Util:
     
@@ -13,8 +13,9 @@ class Translator_Util:
         self.translator = Translator()
 
     def __translate_file(self, filename):
-        source_path = os.path.join(Paths.SOURCE_DIR, f'{filename}.json')
-        out_path = os.path.join(Paths.SOURCE_TRANSLATED_DIR, f'{filename}.json')
+        print(f"       ├─ 🔁 Translating file {filename}.")
+        source_path = os.path.join(Paths.SOURCE_DIR, f'{filename}')
+        out_path = os.path.join(Paths.SOURCE_TRANSLATED_DIR, f'{filename}')
         temp_path = out_path + '.tmp'
 
         # Load JP source (list of entries)
@@ -54,25 +55,26 @@ class Translator_Util:
                         json.dump(translated_data, f, ensure_ascii=False, indent=2)
                     shutil.move(temp_path, out_path)
                 except Exception as e:
-                    print(f"❌ Error writing progress: {e}")
+                    print(f"            ├─ ❌ Error writing progress: {e}")
                     if os.path.exists(temp_path):
-                        print(f"⚠️ Temp file preserved at: {temp_path}")
+                        print(f"            ├─ ⚠️ Temp file preserved at: {temp_path}")
 
         # Final save
         with open(out_path, 'w', encoding='utf8') as f:
             json.dump(translated_data, f, ensure_ascii=False, indent=2)
 
-        print(f"✅ Done: {len(translated_data)} total entries written to {out_path}")
+        print(f"            ├─ 📝 Done: {len(translated_data)} total entries written to {out_path}")
 
     # in case the initial files are not up to date. Look for new entries, translate and update our translations
     def initial_translation(self):
+        print(f"    ℹ️ Running initial translation")
         for filename in os.listdir(Paths.SOURCE_DIR):
             file_path = os.path.join(Paths.SOURCE_DIR, filename)
             # Skip subfolders
             if not os.path.isfile(file_path):
                 continue
-            print(f"ℹ️ Translating file {filename}.")
             self.__translate_file(filename=filename)
+        print("       ├─ ✅ Completed initial setup.")
 
     # Look for files changed after last execution
     def find_updated_files(self):

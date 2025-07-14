@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Supreme Overlord",
+    "win_point": 10,
+    "win_coin": 6,
+    "lose_point": -9,
+    "lose_coin": 1
+  },
+  {
+    "id": 2,
+    "name": "Overlord",
+    "win_point": 10,
+    "win_coin": 6,
+    "lose_point": -8,
+    "lose_coin": 1
+  },
+  {
+    "id": 3,
+    "name": "Majin",
+    "win_point": 9,
+    "win_coin": 6,
+    "lose_point": -5,
+    "lose_coin": 1
+  },
+  {
+    "id": 4,
+    "name": "Fine demon",
+    "win_point": 8,
+    "win_coin": 5,
+    "lose_point": -3,
+    "lose_coin": 1
+  },
+  {
+    "id": 5,
+    "name": "Low Demon",
+    "win_point": 7,
+    "win_coin": 4,
+    "lose_point": -2,
+    "lose_coin": 1
+  }
+]

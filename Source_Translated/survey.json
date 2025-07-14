@@ -1,0 +1,3656 @@
+[
+  {
+    "id": 1,
+    "name": "The Demon World of the Forest",
+    "description": "A wide variety of dangerous plants\nThe demon world is not developed much.\nA research spot that is consistently popular.",
+    "sort": 1,
+    "exp_type": 1,
+    "available_character_material": 1,
+    "presents": [
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 29250
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 36
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 17
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000007,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 36
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 17
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 36
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 17
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 27843
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 26
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 26
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 26
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 28687
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 28125
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 31
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 14
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 31
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 14
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 31
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 14
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 31781
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 21
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 21
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 21
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 26718
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 28968
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 28
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 13
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 28
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 13
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 28
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 13
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 17381
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 22
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 10
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 22
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 10
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 22
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 10
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 16706
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 15
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 15
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 15
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 17212
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 16875
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 16368
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 18
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 18
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 18
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 17550
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 17
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 17
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 17
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8521
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8268
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8606
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8353
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8437
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8775
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 52650
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 51
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 24
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 13
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000007,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 51
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 24
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 13
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 51
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 24
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 13
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 50118
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 47
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 22
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 47
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 22
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 47
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 22
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 51637
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 50625
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 42
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 20
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 10
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 42
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 20
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 10
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 42
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 20
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 10
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 57206
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 37
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 37
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 37
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 48093
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 52143
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 31286
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 30071
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 30982
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 30375
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 29463
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 25
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 25
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 25
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 31590
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15339
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 14883
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 14
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 14
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 14
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15491
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15035
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15187
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15795
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 67275
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 55
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 26
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 14
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 55
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 26
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 14
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 55
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 26
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 14
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 63393
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 50
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 23
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 50
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 23
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 50
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 23
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 65981
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 64040
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 62746
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 45
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 21
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 45
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 21
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 45
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 21
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 40
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 18
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 40
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 18
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 40
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 18
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 66628
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 40365
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 33
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 15
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 33
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 15
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 33
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 15
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 38036
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 30
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 30
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 30
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 39588
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 38424
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 37648
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 27
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 27
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 27
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 24
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 24
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 24
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 36871
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 39976
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19600
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 16
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 16
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 16
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19018
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19794
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19212
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 18824
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 13
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 13
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 13
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 20182
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 78000
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 77
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 36
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 19
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 77
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 36
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 19
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 77
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 36
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 19
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 73500
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 70
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 33
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 18
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000007,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 70
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 33
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 18
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 70
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 33
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 18
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 76500
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 74250
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 72750
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 63
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 29
+      },
+      {
+        "present_type": 1,
+        "present_id": 1823,
+        "present_rarity": 0,
+        "present_num": 16
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 63
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 29
+      },
+      {
+        "present_type": 1,
+        "present_id": 1813,
+        "present_rarity": 0,
+        "present_num": 16
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 63
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 29
+      },
+      {
+        "present_type": 1,
+        "present_id": 1803,
+        "present_rarity": 0,
+        "present_num": 16
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 56
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 56
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 56
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 71250
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 77250
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 46800
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 46
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 46
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 46
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 44100
+      },
+      {
+        "present_type": 1,
+        "present_id": 1812,
+        "present_rarity": 0,
+        "present_num": 19
+      },
+      {
+        "present_type": 1,
+        "present_id": 1802,
+        "present_rarity": 0,
+        "present_num": 19
+      },
+      {
+        "present_type": 1,
+        "present_id": 1822,
+        "present_rarity": 0,
+        "present_num": 19
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 45900
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 44550
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 43650
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 42750
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 46350
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22725
+      },
+      {
+        "present_type": 1,
+        "present_id": 1801,
+        "present_rarity": 0,
+        "present_num": 23
+      },
+      {
+        "present_type": 1,
+        "present_id": 1821,
+        "present_rarity": 0,
+        "present_num": 23
+      },
+      {
+        "present_type": 1,
+        "present_id": 1811,
+        "present_rarity": 0,
+        "present_num": 23
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22050
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22950
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22275
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 21825
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 23400
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 21375
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "The Spirit Underworld",
+    "description": "Gentle demons and monsters writhe a little\nA haunted spot popular with young people.\nMany old graveyards are suitable for excavation.",
+    "sort": 2,
+    "exp_type": 2,
+    "available_character_material": 1,
+    "presents": [
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 29250
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1839,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000007,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1838,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1836,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1837,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 27843
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 1836,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 28687
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 28125
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 31781
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1836,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 26718
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 28968
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 17381
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 16706
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 17212
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 16875
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 16368
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 17550
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8521
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8268
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8606
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8353
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8437
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8775
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 52650
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 1839,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000007,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 1838,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 1836,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 1837,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 50118
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 51637
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 50625
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 57206
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 48093
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 52143
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 31286
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 30071
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 30982
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 30375
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 29463
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 31590
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15339
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 14883
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15491
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15035
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15187
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15795
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 67275
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 9
+      },
+      {
+        "present_type": 1,
+        "present_id": 1836,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 63393
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 65981
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 64040
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 62746
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 66628
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 40365
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 38036
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 39588
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 38424
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 37648
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 36871
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 39976
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19600
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19018
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19794
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19212
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 18824
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 20182
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 78000
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1839,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1838,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 12
+      },
+      {
+        "present_type": 1,
+        "present_id": 1836,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 1837,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 73500
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 1835,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000007,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 1834,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 11
+      },
+      {
+        "present_type": 1,
+        "present_id": 1836,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 76500
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 74250
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 72750
+      },
+      {
+        "present_type": 1,
+        "present_id": 1831,
+        "present_rarity": 0,
+        "present_num": 10
+      },
+      {
+        "present_type": 1,
+        "present_id": 1833,
+        "present_rarity": 0,
+        "present_num": 10
+      },
+      {
+        "present_type": 1,
+        "present_id": 1832,
+        "present_rarity": 0,
+        "present_num": 10
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 71250
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 77250
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 46800
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 44100
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 45900
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 44550
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 43650
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 42750
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 46350
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22725
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22050
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22950
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22275
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 21825
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 23400
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 21375
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Poisonous Demon World",
+    "description": "Because it contains strong toxins in the atmosphere,\nThe demon world is not suitable for people to live in.\nLong-term investigations are risky.",
+    "sort": 3,
+    "exp_type": 3,
+    "available_character_material": 1,
+    "presents": [
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 29250
+      },
+      {
+        "present_type": 1,
+        "present_id": 1840,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1842,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000007,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 1841,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1843,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 27843
+      },
+      {
+        "present_type": 1,
+        "present_id": 1840,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1841,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 28687
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 28125
+      },
+      {
+        "present_type": 1,
+        "present_id": 1844,
+        "present_rarity": 0,
+        "present_num": 1
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 31781
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 26718
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 28968
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 17381
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 16706
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 17212
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 16875
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 16368
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 17550
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8521
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8268
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8606
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8353
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8437
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 8775
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 52650
+      },
+      {
+        "present_type": 1,
+        "present_id": 1840,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000007,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1841,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 50118
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 51637
+      },
+      {
+        "present_type": 1,
+        "present_id": 1842,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 1843,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 50625
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 57206
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 48093
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 52143
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 31286
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 30071
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 30982
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 30375
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 29463
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 31590
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15339
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 14883
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15491
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15035
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15187
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 15795
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 67275
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 6
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 63393
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 65981
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 64040
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 62746
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 66628
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 40365
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 38036
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 39588
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 38424
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 37648
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 36871
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 39976
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19600
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19018
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19794
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 19212
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 18824
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 20182
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 78000
+      },
+      {
+        "present_type": 1,
+        "present_id": 1840,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 1841,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 73500
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 4
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 8
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000007,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 76500
+      },
+      {
+        "present_type": 1,
+        "present_id": 1842,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 1843,
+        "present_rarity": 0,
+        "present_num": 3
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 74250
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000005,
+        "present_rarity": 0,
+        "present_num": 5
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 72750
+      },
+      {
+        "present_type": 1,
+        "present_id": 1844,
+        "present_rarity": 0,
+        "present_num": 2
+      },
+      {
+        "present_type": 1,
+        "present_id": 4000006,
+        "present_rarity": 0,
+        "present_num": 7
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 71250
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 77250
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 46800
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 44100
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 45900
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 44550
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 43650
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 42750
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 46350
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22725
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22050
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22950
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 22275
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 21825
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 23400
+      },
+      {
+        "present_type": 1,
+        "present_id": 101,
+        "present_rarity": 0,
+        "present_num": 21375
+      }
+    ]
+  }
+]

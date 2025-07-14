@@ -1,0 +1,5882 @@
+[
+  {
+    "id": 101,
+    "m_item_id": 101,
+    "item_type": 1,
+    "get_areas": "Dark Gates,Abyss Gates,BINGO,Stage clear rewards, etc"
+  },
+  {
+    "id": 201,
+    "m_item_id": 201,
+    "item_type": 0,
+    "get_areas": "Stage clear rewards, mission rewards, etc"
+  },
+  {
+    "id": 202,
+    "m_item_id": 202,
+    "item_type": 0,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 301,
+    "m_item_id": 301,
+    "item_type": 0,
+    "get_areas": "MAP events, special missions, Makai Tours, RosenQueen Company Shop, etc."
+  },
+  {
+    "id": 302,
+    "m_item_id": 302,
+    "item_type": 0,
+    "get_areas": "Rosenqueen Trading Company Shop, Special Missions, etc"
+  },
+  {
+    "id": 401,
+    "m_item_id": 401,
+    "item_type": 0,
+    "get_areas": "Rosenqueen Trading Company Shop, Special Missions, etc"
+  },
+  {
+    "id": 402,
+    "m_item_id": 402,
+    "item_type": 0,
+    "get_areas": "Rosenqueen Trading Company Shop, Special Missions, etc"
+  },
+  {
+    "id": 403,
+    "m_item_id": 403,
+    "item_type": 0,
+    "get_areas": "Sugoroku, special battles, special missions, etc."
+  },
+  {
+    "id": 501,
+    "m_item_id": 501,
+    "item_type": 5,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 601,
+    "m_item_id": 601,
+    "item_type": 6,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 701,
+    "m_item_id": 701,
+    "item_type": 7,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 801,
+    "m_item_id": 801,
+    "item_type": 8,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 1001,
+    "m_item_id": 1001,
+    "item_type": 10,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 1401,
+    "m_item_id": 1401,
+    "item_type": 14,
+    "get_areas": "Raid events, special battles, Sugoroku, MAP events, special missions, Makai Passport, etc."
+  },
+  {
+    "id": 1511,
+    "m_item_id": 1511,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1512,
+    "m_item_id": 1512,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1513,
+    "m_item_id": 1513,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1514,
+    "m_item_id": 1514,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1521,
+    "m_item_id": 1521,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1522,
+    "m_item_id": 1522,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1523,
+    "m_item_id": 1523,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1524,
+    "m_item_id": 1524,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1531,
+    "m_item_id": 1531,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1532,
+    "m_item_id": 1532,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1533,
+    "m_item_id": 1533,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1534,
+    "m_item_id": 1534,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1541,
+    "m_item_id": 1541,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1542,
+    "m_item_id": 1542,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1543,
+    "m_item_id": 1543,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1544,
+    "m_item_id": 1544,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1551,
+    "m_item_id": 1551,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1552,
+    "m_item_id": 1552,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1553,
+    "m_item_id": 1553,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1554,
+    "m_item_id": 1554,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1561,
+    "m_item_id": 1561,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1562,
+    "m_item_id": 1562,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1563,
+    "m_item_id": 1563,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1564,
+    "m_item_id": 1564,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1571,
+    "m_item_id": 1571,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1572,
+    "m_item_id": 1572,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1573,
+    "m_item_id": 1573,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1574,
+    "m_item_id": 1574,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1581,
+    "m_item_id": 1581,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1582,
+    "m_item_id": 1582,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1583,
+    "m_item_id": 1583,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1584,
+    "m_item_id": 1584,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1591,
+    "m_item_id": 1591,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1592,
+    "m_item_id": 1592,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1593,
+    "m_item_id": 1593,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1594,
+    "m_item_id": 1594,
+    "item_type": 15,
+    "get_areas": "Raid events, Sugoroku, MAP events, etc"
+  },
+  {
+    "id": 1601,
+    "m_item_id": 1601,
+    "item_type": 16,
+    "get_areas": "Raid events, Sugoroku, Trials, Demon King's Tower, Rosenqueen Company Shop, etc."
+  },
+  {
+    "id": 1602,
+    "m_item_id": 1602,
+    "item_type": 16,
+    "get_areas": "Raid events, Sugoroku, Trials, Demon King's Tower, Special Battles, Makai Tours, etc."
+  },
+  {
+    "id": 1701,
+    "m_item_id": 1701,
+    "item_type": 17,
+    "get_areas": "Raid events, Sugoroku, MAP events, special missions, etc."
+  },
+  {
+    "id": 1702,
+    "m_item_id": 1702,
+    "item_type": 17,
+    "get_areas": "Raid events, Sugoroku, MAP events, special missions, etc."
+  },
+  {
+    "id": 1703,
+    "m_item_id": 1703,
+    "item_type": 17,
+    "get_areas": "Raid events, Sugoroku, MAP events, special missions, etc."
+  },
+  {
+    "id": 1704,
+    "m_item_id": 1704,
+    "item_type": 17,
+    "get_areas": "Raid events, Sugoroku, MAP events, special missions, etc."
+  },
+  {
+    "id": 1801,
+    "m_item_id": 1801,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1802,
+    "m_item_id": 1802,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1803,
+    "m_item_id": 1803,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1811,
+    "m_item_id": 1811,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1812,
+    "m_item_id": 1812,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1813,
+    "m_item_id": 1813,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1821,
+    "m_item_id": 1821,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1822,
+    "m_item_id": 1822,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1823,
+    "m_item_id": 1823,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1831,
+    "m_item_id": 1831,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1832,
+    "m_item_id": 1832,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1833,
+    "m_item_id": 1833,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1834,
+    "m_item_id": 1834,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1835,
+    "m_item_id": 1835,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1836,
+    "m_item_id": 1836,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1837,
+    "m_item_id": 1837,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1838,
+    "m_item_id": 1838,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1839,
+    "m_item_id": 1839,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1840,
+    "m_item_id": 1840,
+    "item_type": 18,
+    "get_areas": "Dark Gates, raid events, Sugoroku, Map events, special missions, etc."
+  },
+  {
+    "id": 1841,
+    "m_item_id": 1841,
+    "item_type": 18,
+    "get_areas": "Abyss Gates, raid events, Sugoroku, MAP events, etc."
+  },
+  {
+    "id": 1842,
+    "m_item_id": 1842,
+    "item_type": 18,
+    "get_areas": "Abyss Gates, raid events, Sugoroku, MAP events, etc."
+  },
+  {
+    "id": 1843,
+    "m_item_id": 1843,
+    "item_type": 18,
+    "get_areas": "Abyss Gates, raid events, Sugoroku, MAP events, etc."
+  },
+  {
+    "id": 1844,
+    "m_item_id": 1844,
+    "item_type": 18,
+    "get_areas": "Abyss Gates, raid events, Sugoroku, MAP events, etc."
+  },
+  {
+    "id": 2101,
+    "m_item_id": 2101,
+    "item_type": 21,
+    "get_areas": "Charater Gate"
+  },
+  {
+    "id": 2102,
+    "m_item_id": 2102,
+    "item_type": 21,
+    "get_areas": "Charater Gate"
+  },
+  {
+    "id": 2103,
+    "m_item_id": 2103,
+    "item_type": 21,
+    "get_areas": "Charater Gate"
+  },
+  {
+    "id": 2104,
+    "m_item_id": 2104,
+    "item_type": 21,
+    "get_areas": "Charater Gate"
+  },
+  {
+    "id": 2105,
+    "m_item_id": 2105,
+    "item_type": 21,
+    "get_areas": "Charater Gate"
+  },
+  {
+    "id": 2106,
+    "m_item_id": 2106,
+    "item_type": 21,
+    "get_areas": "Charater Gate"
+  },
+  {
+    "id": 2301,
+    "m_item_id": 2301,
+    "item_type": 0,
+    "get_areas": "USM,試闘の間,MAPイベントなど"
+  },
+  {
+    "id": 2401,
+    "m_item_id": 2401,
+    "item_type": 24,
+    "get_areas": "レイドイベント,USM,MAPイベント,特別ミッション,魔界パスポートなど"
+  },
+  {
+    "id": 2601,
+    "m_item_id": 2601,
+    "item_type": 26,
+    "get_areas": "MAPイベントなど"
+  },
+  {
+    "id": 2801,
+    "m_item_id": 2801,
+    "item_type": 28,
+    "get_areas": "キャラの左遷,VIPパスポートなど"
+  },
+  {
+    "id": 2901,
+    "m_item_id": 2901,
+    "item_type": 29,
+    "get_areas": "MAP Event, Rosenqueen Company Shop"
+  },
+  {
+    "id": 2902,
+    "m_item_id": 2902,
+    "item_type": 29,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 2903,
+    "m_item_id": 2903,
+    "item_type": 29,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 2904,
+    "m_item_id": 2904,
+    "item_type": 29,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 3001,
+    "m_item_id": 3001,
+    "item_type": 30,
+    "get_areas": "MAP Event, Rosenqueen Company Shop"
+  },
+  {
+    "id": 3101,
+    "m_item_id": 3101,
+    "item_type": 31,
+    "get_areas": "MAP events, trials, etc."
+  },
+  {
+    "id": 3102,
+    "m_item_id": 3102,
+    "item_type": 31,
+    "get_areas": "MAP events, trials, etc."
+  },
+  {
+    "id": 3103,
+    "m_item_id": 3103,
+    "item_type": 31,
+    "get_areas": "MAP events, trials, etc."
+  },
+  {
+    "id": 3104,
+    "m_item_id": 3104,
+    "item_type": 31,
+    "get_areas": "MAP events, trials, etc."
+  },
+  {
+    "id": 3105,
+    "m_item_id": 3105,
+    "item_type": 31,
+    "get_areas": "MAP events, trials, etc."
+  },
+  {
+    "id": 3106,
+    "m_item_id": 3106,
+    "item_type": 31,
+    "get_areas": "MAP events, trials, etc."
+  },
+  {
+    "id": 3201,
+    "m_item_id": 3201,
+    "item_type": 32,
+    "get_areas": "Etna's summer resort, Final Bosst laboratory, the demon world passport, the Rosenqueen company, etc."
+  },
+  {
+    "id": 3301,
+    "m_item_id": 3301,
+    "item_type": 33,
+    "get_areas": "Etna's summer resort, the final boss laboratory, the Rosenqueen Trading Company, etc."
+  },
+  {
+    "id": 3501,
+    "m_item_id": 3501,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort, Makai tours"
+  },
+  {
+    "id": 3502,
+    "m_item_id": 3502,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort, Makai tours"
+  },
+  {
+    "id": 3503,
+    "m_item_id": 3503,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort, Makai tours"
+  },
+  {
+    "id": 3504,
+    "m_item_id": 3504,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort, Makai tours"
+  },
+  {
+    "id": 3505,
+    "m_item_id": 3505,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort, Makai tours"
+  },
+  {
+    "id": 3506,
+    "m_item_id": 3506,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort, Makai tours"
+  },
+  {
+    "id": 3507,
+    "m_item_id": 3507,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort, Makai tours"
+  },
+  {
+    "id": 3508,
+    "m_item_id": 3508,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort, Makai tours"
+  },
+  {
+    "id": 3509,
+    "m_item_id": 3509,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort, Makai tours"
+  },
+  {
+    "id": 3510,
+    "m_item_id": 3510,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort, Makai tours"
+  },
+  {
+    "id": 3511,
+    "m_item_id": 3511,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3512,
+    "m_item_id": 3512,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3513,
+    "m_item_id": 3513,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3514,
+    "m_item_id": 3514,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3515,
+    "m_item_id": 3515,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3516,
+    "m_item_id": 3516,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3517,
+    "m_item_id": 3517,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3518,
+    "m_item_id": 3518,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3519,
+    "m_item_id": 3519,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3520,
+    "m_item_id": 3520,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3521,
+    "m_item_id": 3521,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3522,
+    "m_item_id": 3522,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3523,
+    "m_item_id": 3523,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3524,
+    "m_item_id": 3524,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3525,
+    "m_item_id": 3525,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3526,
+    "m_item_id": 3526,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3527,
+    "m_item_id": 3527,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3528,
+    "m_item_id": 3528,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3529,
+    "m_item_id": 3529,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3530,
+    "m_item_id": 3530,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3531,
+    "m_item_id": 3531,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3532,
+    "m_item_id": 3532,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3533,
+    "m_item_id": 3533,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3534,
+    "m_item_id": 3534,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3535,
+    "m_item_id": 3535,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3536,
+    "m_item_id": 3536,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3537,
+    "m_item_id": 3537,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3538,
+    "m_item_id": 3538,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3539,
+    "m_item_id": 3539,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3540,
+    "m_item_id": 3540,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3541,
+    "m_item_id": 3541,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3542,
+    "m_item_id": 3542,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3543,
+    "m_item_id": 3543,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3544,
+    "m_item_id": 3544,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3545,
+    "m_item_id": 3545,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3546,
+    "m_item_id": 3546,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3547,
+    "m_item_id": 3547,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3548,
+    "m_item_id": 3548,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3549,
+    "m_item_id": 3549,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3550,
+    "m_item_id": 3550,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3551,
+    "m_item_id": 3551,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3552,
+    "m_item_id": 3552,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3553,
+    "m_item_id": 3553,
+    "item_type": 35,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 3601,
+    "m_item_id": 3601,
+    "item_type": 36,
+    "get_areas": "エトナの避暑地など"
+  },
+  {
+    "id": 3602,
+    "m_item_id": 3602,
+    "item_type": 36,
+    "get_areas": "エトナの避暑地など"
+  },
+  {
+    "id": 3603,
+    "m_item_id": 3603,
+    "item_type": 36,
+    "get_areas": "エトナの避暑地など"
+  },
+  {
+    "id": 3901,
+    "m_item_id": 3901,
+    "item_type": 39,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 4101,
+    "m_item_id": 4101,
+    "item_type": 41,
+    "get_areas": "エトナの避暑地,ラスボス研究所,VIPパスポート,ローゼンクイーン商会など"
+  },
+  {
+    "id": 4201,
+    "m_item_id": 4201,
+    "item_type": 42,
+    "get_areas": "エトナの避暑地,ラスボス研究所,VIPパスポート,ローゼンクイーン商会など"
+  },
+  {
+    "id": 4701,
+    "m_item_id": 4701,
+    "item_type": 47,
+    "get_areas": "レイドイベント,試闘の間,MAPイベントなど"
+  },
+  {
+    "id": 4801,
+    "m_item_id": 4801,
+    "item_type": 48,
+    "get_areas": "Abyss Gates,レイドイベント,スペシャルバトル,USM,MAPイベント,特別ミッション,魔王の巨塔修羅など"
+  },
+  {
+    "id": 5001,
+    "m_item_id": 5001,
+    "item_type": 50,
+    "get_areas": "MAPイベント,USM,魔王の巨塔修羅,魔界ツアーズ"
+  },
+  {
+    "id": 5101,
+    "m_item_id": 5101,
+    "item_type": 51,
+    "get_areas": "魔界一武闘会"
+  },
+  {
+    "id": 5201,
+    "m_item_id": 5201,
+    "item_type": 52,
+    "get_areas": "魔界一武闘会,ローゼンクイーン商会"
+  },
+  {
+    "id": 5301,
+    "m_item_id": 5301,
+    "item_type": 53,
+    "get_areas": "MAPイベント,USM,ラスボス研究所,魔界ツアーズ,魔界パスポート"
+  },
+  {
+    "id": 5401,
+    "m_item_id": 5401,
+    "item_type": 54,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 5501,
+    "m_item_id": 5501,
+    "item_type": 55,
+    "get_areas": "MAPイベント,USM,魔王の巨塔修羅,ラスボス研究所,魔界ツアーズ,ローゼンクイーン商会"
+  },
+  {
+    "id": 5601,
+    "m_item_id": 5601,
+    "item_type": 56,
+    "get_areas": "MAPイベント,USM,魔王の巨塔修羅,ラスボス研究所,ローゼンクイーン商会"
+  },
+  {
+    "id": 6101,
+    "m_item_id": 6101,
+    "item_type": 61,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 6301,
+    "m_item_id": 6301,
+    "item_type": 63,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6302,
+    "m_item_id": 6302,
+    "item_type": 63,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6303,
+    "m_item_id": 6303,
+    "item_type": 63,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6304,
+    "m_item_id": 6304,
+    "item_type": 63,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6305,
+    "m_item_id": 6305,
+    "item_type": 63,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6401,
+    "m_item_id": 6401,
+    "item_type": 64,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6402,
+    "m_item_id": 6402,
+    "item_type": 64,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6403,
+    "m_item_id": 6403,
+    "item_type": 64,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6404,
+    "m_item_id": 6404,
+    "item_type": 64,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6405,
+    "m_item_id": 6405,
+    "item_type": 64,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6501,
+    "m_item_id": 6501,
+    "item_type": 65,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6502,
+    "m_item_id": 6502,
+    "item_type": 65,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6503,
+    "m_item_id": 6503,
+    "item_type": 65,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6504,
+    "m_item_id": 6504,
+    "item_type": 65,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6505,
+    "m_item_id": 6505,
+    "item_type": 65,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6601,
+    "m_item_id": 6601,
+    "item_type": 66,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 6701,
+    "m_item_id": 6701,
+    "item_type": 67,
+    "get_areas": "Makai Tours"
+  },
+  {
+    "id": 6801,
+    "m_item_id": 6801,
+    "item_type": 68,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 6901,
+    "m_item_id": 6901,
+    "item_type": 69,
+    "get_areas": "Rosenqueen Trading Company Shop"
+  },
+  {
+    "id": 37001,
+    "m_item_id": 37001,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37002,
+    "m_item_id": 37002,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37003,
+    "m_item_id": 37003,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37004,
+    "m_item_id": 37004,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37005,
+    "m_item_id": 37005,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37006,
+    "m_item_id": 37006,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37007,
+    "m_item_id": 37007,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37008,
+    "m_item_id": 37008,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37009,
+    "m_item_id": 37009,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37010,
+    "m_item_id": 37010,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37011,
+    "m_item_id": 37011,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37012,
+    "m_item_id": 37012,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37013,
+    "m_item_id": 37013,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37014,
+    "m_item_id": 37014,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37015,
+    "m_item_id": 37015,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37016,
+    "m_item_id": 37016,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37017,
+    "m_item_id": 37017,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37018,
+    "m_item_id": 37018,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37019,
+    "m_item_id": 37019,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37020,
+    "m_item_id": 37020,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37021,
+    "m_item_id": 37021,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37022,
+    "m_item_id": 37022,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37023,
+    "m_item_id": 37023,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37024,
+    "m_item_id": 37024,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37025,
+    "m_item_id": 37025,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37026,
+    "m_item_id": 37026,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37027,
+    "m_item_id": 37027,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37028,
+    "m_item_id": 37028,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37029,
+    "m_item_id": 37029,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37030,
+    "m_item_id": 37030,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37031,
+    "m_item_id": 37031,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37032,
+    "m_item_id": 37032,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37033,
+    "m_item_id": 37033,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37034,
+    "m_item_id": 37034,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37035,
+    "m_item_id": 37035,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37036,
+    "m_item_id": 37036,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37037,
+    "m_item_id": 37037,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37038,
+    "m_item_id": 37038,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37039,
+    "m_item_id": 37039,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37040,
+    "m_item_id": 37040,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37041,
+    "m_item_id": 37041,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37042,
+    "m_item_id": 37042,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37043,
+    "m_item_id": 37043,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37044,
+    "m_item_id": 37044,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37045,
+    "m_item_id": 37045,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37046,
+    "m_item_id": 37046,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37047,
+    "m_item_id": 37047,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37048,
+    "m_item_id": 37048,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37049,
+    "m_item_id": 37049,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37050,
+    "m_item_id": 37050,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37051,
+    "m_item_id": 37051,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37052,
+    "m_item_id": 37052,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37053,
+    "m_item_id": 37053,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37054,
+    "m_item_id": 37054,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37055,
+    "m_item_id": 37055,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37056,
+    "m_item_id": 37056,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37057,
+    "m_item_id": 37057,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37058,
+    "m_item_id": 37058,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37059,
+    "m_item_id": 37059,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37060,
+    "m_item_id": 37060,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37061,
+    "m_item_id": 37061,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37062,
+    "m_item_id": 37062,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37063,
+    "m_item_id": 37063,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37064,
+    "m_item_id": 37064,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37065,
+    "m_item_id": 37065,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37066,
+    "m_item_id": 37066,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37067,
+    "m_item_id": 37067,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37068,
+    "m_item_id": 37068,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37069,
+    "m_item_id": 37069,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37070,
+    "m_item_id": 37070,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37071,
+    "m_item_id": 37071,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37072,
+    "m_item_id": 37072,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37073,
+    "m_item_id": 37073,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37074,
+    "m_item_id": 37074,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37075,
+    "m_item_id": 37075,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 37076,
+    "m_item_id": 37076,
+    "item_type": 37,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380001,
+    "m_item_id": 380001,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380002,
+    "m_item_id": 380002,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380003,
+    "m_item_id": 380003,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380004,
+    "m_item_id": 380004,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380005,
+    "m_item_id": 380005,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380006,
+    "m_item_id": 380006,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380007,
+    "m_item_id": 380007,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380008,
+    "m_item_id": 380008,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380009,
+    "m_item_id": 380009,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380010,
+    "m_item_id": 380010,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380011,
+    "m_item_id": 380011,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380012,
+    "m_item_id": 380012,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380013,
+    "m_item_id": 380013,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380014,
+    "m_item_id": 380014,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380015,
+    "m_item_id": 380015,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380016,
+    "m_item_id": 380016,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380017,
+    "m_item_id": 380017,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380018,
+    "m_item_id": 380018,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380019,
+    "m_item_id": 380019,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380020,
+    "m_item_id": 380020,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380021,
+    "m_item_id": 380021,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380200,
+    "m_item_id": 380200,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380201,
+    "m_item_id": 380201,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380202,
+    "m_item_id": 380202,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380203,
+    "m_item_id": 380203,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380204,
+    "m_item_id": 380204,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380205,
+    "m_item_id": 380205,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380206,
+    "m_item_id": 380206,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380207,
+    "m_item_id": 380207,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380208,
+    "m_item_id": 380208,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380209,
+    "m_item_id": 380209,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380210,
+    "m_item_id": 380210,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380211,
+    "m_item_id": 380211,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380212,
+    "m_item_id": 380212,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380213,
+    "m_item_id": 380213,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380214,
+    "m_item_id": 380214,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380215,
+    "m_item_id": 380215,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380216,
+    "m_item_id": 380216,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380217,
+    "m_item_id": 380217,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380218,
+    "m_item_id": 380218,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380219,
+    "m_item_id": 380219,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380220,
+    "m_item_id": 380220,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380221,
+    "m_item_id": 380221,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380222,
+    "m_item_id": 380222,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380223,
+    "m_item_id": 380223,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380224,
+    "m_item_id": 380224,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380225,
+    "m_item_id": 380225,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380226,
+    "m_item_id": 380226,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380227,
+    "m_item_id": 380227,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380228,
+    "m_item_id": 380228,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380229,
+    "m_item_id": 380229,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380230,
+    "m_item_id": 380230,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380231,
+    "m_item_id": 380231,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380232,
+    "m_item_id": 380232,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380233,
+    "m_item_id": 380233,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380234,
+    "m_item_id": 380234,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380235,
+    "m_item_id": 380235,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380236,
+    "m_item_id": 380236,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380237,
+    "m_item_id": 380237,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380238,
+    "m_item_id": 380238,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380239,
+    "m_item_id": 380239,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380240,
+    "m_item_id": 380240,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380241,
+    "m_item_id": 380241,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380242,
+    "m_item_id": 380242,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380243,
+    "m_item_id": 380243,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380244,
+    "m_item_id": 380244,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380245,
+    "m_item_id": 380245,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380246,
+    "m_item_id": 380246,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 380247,
+    "m_item_id": 380247,
+    "item_type": 38,
+    "get_areas": "Etna's summer resort"
+  },
+  {
+    "id": 601001,
+    "m_item_id": 601001,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 601002,
+    "m_item_id": 601002,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 601003,
+    "m_item_id": 601003,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 601004,
+    "m_item_id": 601004,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 601005,
+    "m_item_id": 601005,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 602001,
+    "m_item_id": 602001,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 602002,
+    "m_item_id": 602002,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 602003,
+    "m_item_id": 602003,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 602004,
+    "m_item_id": 602004,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 602005,
+    "m_item_id": 602005,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 603001,
+    "m_item_id": 603001,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 603002,
+    "m_item_id": 603002,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 603003,
+    "m_item_id": 603003,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 603004,
+    "m_item_id": 603004,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 603005,
+    "m_item_id": 603005,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 604001,
+    "m_item_id": 604001,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 604002,
+    "m_item_id": 604002,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 604003,
+    "m_item_id": 604003,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 604004,
+    "m_item_id": 604004,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 604005,
+    "m_item_id": 604005,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 605001,
+    "m_item_id": 605001,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 605002,
+    "m_item_id": 605002,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 605003,
+    "m_item_id": 605003,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 605004,
+    "m_item_id": 605004,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 605005,
+    "m_item_id": 605005,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 606001,
+    "m_item_id": 606001,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 606002,
+    "m_item_id": 606002,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 606003,
+    "m_item_id": 606003,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 606004,
+    "m_item_id": 606004,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 606005,
+    "m_item_id": 606005,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 607001,
+    "m_item_id": 607001,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 607002,
+    "m_item_id": 607002,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 607003,
+    "m_item_id": 607003,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 607004,
+    "m_item_id": 607004,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 607005,
+    "m_item_id": 607005,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 608001,
+    "m_item_id": 608001,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 608002,
+    "m_item_id": 608002,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 608003,
+    "m_item_id": 608003,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 608004,
+    "m_item_id": 608004,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 608005,
+    "m_item_id": 608005,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 609001,
+    "m_item_id": 609001,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 609002,
+    "m_item_id": 609002,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 609003,
+    "m_item_id": 609003,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 609004,
+    "m_item_id": 609004,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 609005,
+    "m_item_id": 609005,
+    "item_type": 60,
+    "get_areas": "Final Boss laboratory"
+  },
+  {
+    "id": 2700001,
+    "m_item_id": 2700001,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700002,
+    "m_item_id": 2700002,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700003,
+    "m_item_id": 2700003,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700004,
+    "m_item_id": 2700004,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700005,
+    "m_item_id": 2700005,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700006,
+    "m_item_id": 2700006,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700007,
+    "m_item_id": 2700007,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700008,
+    "m_item_id": 2700008,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700009,
+    "m_item_id": 2700009,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700010,
+    "m_item_id": 2700010,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700011,
+    "m_item_id": 2700011,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700012,
+    "m_item_id": 2700012,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700013,
+    "m_item_id": 2700013,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700014,
+    "m_item_id": 2700014,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700015,
+    "m_item_id": 2700015,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700016,
+    "m_item_id": 2700016,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700017,
+    "m_item_id": 2700017,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700018,
+    "m_item_id": 2700018,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700019,
+    "m_item_id": 2700019,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700020,
+    "m_item_id": 2700020,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700021,
+    "m_item_id": 2700021,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700022,
+    "m_item_id": 2700022,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700023,
+    "m_item_id": 2700023,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700024,
+    "m_item_id": 2700024,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700025,
+    "m_item_id": 2700025,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700027,
+    "m_item_id": 2700027,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700028,
+    "m_item_id": 2700028,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700029,
+    "m_item_id": 2700029,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700030,
+    "m_item_id": 2700030,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700031,
+    "m_item_id": 2700031,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700033,
+    "m_item_id": 2700033,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700034,
+    "m_item_id": 2700034,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700035,
+    "m_item_id": 2700035,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700036,
+    "m_item_id": 2700036,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700037,
+    "m_item_id": 2700037,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700038,
+    "m_item_id": 2700038,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700039,
+    "m_item_id": 2700039,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700040,
+    "m_item_id": 2700040,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700042,
+    "m_item_id": 2700042,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700043,
+    "m_item_id": 2700043,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700044,
+    "m_item_id": 2700044,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700045,
+    "m_item_id": 2700045,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700046,
+    "m_item_id": 2700046,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700047,
+    "m_item_id": 2700047,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700048,
+    "m_item_id": 2700048,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700049,
+    "m_item_id": 2700049,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700051,
+    "m_item_id": 2700051,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700054,
+    "m_item_id": 2700054,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700055,
+    "m_item_id": 2700055,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700056,
+    "m_item_id": 2700056,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700057,
+    "m_item_id": 2700057,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700058,
+    "m_item_id": 2700058,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700059,
+    "m_item_id": 2700059,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700060,
+    "m_item_id": 2700060,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700061,
+    "m_item_id": 2700061,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700062,
+    "m_item_id": 2700062,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700063,
+    "m_item_id": 2700063,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700064,
+    "m_item_id": 2700064,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700065,
+    "m_item_id": 2700065,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700066,
+    "m_item_id": 2700066,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700067,
+    "m_item_id": 2700067,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700068,
+    "m_item_id": 2700068,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700069,
+    "m_item_id": 2700069,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700070,
+    "m_item_id": 2700070,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700071,
+    "m_item_id": 2700071,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700072,
+    "m_item_id": 2700072,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700073,
+    "m_item_id": 2700073,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700074,
+    "m_item_id": 2700074,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700075,
+    "m_item_id": 2700075,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700076,
+    "m_item_id": 2700076,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700077,
+    "m_item_id": 2700077,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700078,
+    "m_item_id": 2700078,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700079,
+    "m_item_id": 2700079,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700080,
+    "m_item_id": 2700080,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700081,
+    "m_item_id": 2700081,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700082,
+    "m_item_id": 2700082,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700083,
+    "m_item_id": 2700083,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700084,
+    "m_item_id": 2700084,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700085,
+    "m_item_id": 2700085,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700086,
+    "m_item_id": 2700086,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700087,
+    "m_item_id": 2700087,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700088,
+    "m_item_id": 2700088,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700089,
+    "m_item_id": 2700089,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700090,
+    "m_item_id": 2700090,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700091,
+    "m_item_id": 2700091,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700092,
+    "m_item_id": 2700092,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700093,
+    "m_item_id": 2700093,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700094,
+    "m_item_id": 2700094,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700095,
+    "m_item_id": 2700095,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700096,
+    "m_item_id": 2700096,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700098,
+    "m_item_id": 2700098,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700099,
+    "m_item_id": 2700099,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700100,
+    "m_item_id": 2700100,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700101,
+    "m_item_id": 2700101,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700102,
+    "m_item_id": 2700102,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700103,
+    "m_item_id": 2700103,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700104,
+    "m_item_id": 2700104,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700105,
+    "m_item_id": 2700105,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700106,
+    "m_item_id": 2700106,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700107,
+    "m_item_id": 2700107,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700108,
+    "m_item_id": 2700108,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700109,
+    "m_item_id": 2700109,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700110,
+    "m_item_id": 2700110,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700111,
+    "m_item_id": 2700111,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700112,
+    "m_item_id": 2700112,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700113,
+    "m_item_id": 2700113,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700114,
+    "m_item_id": 2700114,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700115,
+    "m_item_id": 2700115,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700116,
+    "m_item_id": 2700116,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700117,
+    "m_item_id": 2700117,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700118,
+    "m_item_id": 2700118,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700119,
+    "m_item_id": 2700119,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700120,
+    "m_item_id": 2700120,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700121,
+    "m_item_id": 2700121,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700122,
+    "m_item_id": 2700122,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700123,
+    "m_item_id": 2700123,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700124,
+    "m_item_id": 2700124,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700125,
+    "m_item_id": 2700125,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700126,
+    "m_item_id": 2700126,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700127,
+    "m_item_id": 2700127,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700128,
+    "m_item_id": 2700128,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700129,
+    "m_item_id": 2700129,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700130,
+    "m_item_id": 2700130,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700131,
+    "m_item_id": 2700131,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700132,
+    "m_item_id": 2700132,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700133,
+    "m_item_id": 2700133,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700134,
+    "m_item_id": 2700134,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700135,
+    "m_item_id": 2700135,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700136,
+    "m_item_id": 2700136,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700137,
+    "m_item_id": 2700137,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700138,
+    "m_item_id": 2700138,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700139,
+    "m_item_id": 2700139,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700140,
+    "m_item_id": 2700140,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700141,
+    "m_item_id": 2700141,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700142,
+    "m_item_id": 2700142,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700143,
+    "m_item_id": 2700143,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700144,
+    "m_item_id": 2700144,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700145,
+    "m_item_id": 2700145,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700146,
+    "m_item_id": 2700146,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700147,
+    "m_item_id": 2700147,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700148,
+    "m_item_id": 2700148,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700149,
+    "m_item_id": 2700149,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700150,
+    "m_item_id": 2700150,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700151,
+    "m_item_id": 2700151,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700152,
+    "m_item_id": 2700152,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700153,
+    "m_item_id": 2700153,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700154,
+    "m_item_id": 2700154,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700155,
+    "m_item_id": 2700155,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700156,
+    "m_item_id": 2700156,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700157,
+    "m_item_id": 2700157,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700158,
+    "m_item_id": 2700158,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700159,
+    "m_item_id": 2700159,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700160,
+    "m_item_id": 2700160,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700161,
+    "m_item_id": 2700161,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700162,
+    "m_item_id": 2700162,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700163,
+    "m_item_id": 2700163,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700164,
+    "m_item_id": 2700164,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700165,
+    "m_item_id": 2700165,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700166,
+    "m_item_id": 2700166,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700167,
+    "m_item_id": 2700167,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700168,
+    "m_item_id": 2700168,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700169,
+    "m_item_id": 2700169,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700170,
+    "m_item_id": 2700170,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700171,
+    "m_item_id": 2700171,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700172,
+    "m_item_id": 2700172,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700173,
+    "m_item_id": 2700173,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700174,
+    "m_item_id": 2700174,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700175,
+    "m_item_id": 2700175,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700176,
+    "m_item_id": 2700176,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700177,
+    "m_item_id": 2700177,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700178,
+    "m_item_id": 2700178,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700179,
+    "m_item_id": 2700179,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700180,
+    "m_item_id": 2700180,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700181,
+    "m_item_id": 2700181,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700182,
+    "m_item_id": 2700182,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700183,
+    "m_item_id": 2700183,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700184,
+    "m_item_id": 2700184,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700185,
+    "m_item_id": 2700185,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700186,
+    "m_item_id": 2700186,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700187,
+    "m_item_id": 2700187,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700188,
+    "m_item_id": 2700188,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700189,
+    "m_item_id": 2700189,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700190,
+    "m_item_id": 2700190,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700191,
+    "m_item_id": 2700191,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700192,
+    "m_item_id": 2700192,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700193,
+    "m_item_id": 2700193,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700194,
+    "m_item_id": 2700194,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700195,
+    "m_item_id": 2700195,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700196,
+    "m_item_id": 2700196,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700197,
+    "m_item_id": 2700197,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700198,
+    "m_item_id": 2700198,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700199,
+    "m_item_id": 2700199,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700200,
+    "m_item_id": 2700200,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700201,
+    "m_item_id": 2700201,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700202,
+    "m_item_id": 2700202,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700203,
+    "m_item_id": 2700203,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700204,
+    "m_item_id": 2700204,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700205,
+    "m_item_id": 2700205,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700206,
+    "m_item_id": 2700206,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700207,
+    "m_item_id": 2700207,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700208,
+    "m_item_id": 2700208,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700210,
+    "m_item_id": 2700210,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700211,
+    "m_item_id": 2700211,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700212,
+    "m_item_id": 2700212,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700213,
+    "m_item_id": 2700213,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700214,
+    "m_item_id": 2700214,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700215,
+    "m_item_id": 2700215,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700216,
+    "m_item_id": 2700216,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700217,
+    "m_item_id": 2700217,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700218,
+    "m_item_id": 2700218,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700219,
+    "m_item_id": 2700219,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700220,
+    "m_item_id": 2700220,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700221,
+    "m_item_id": 2700221,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700222,
+    "m_item_id": 2700222,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700223,
+    "m_item_id": 2700223,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700224,
+    "m_item_id": 2700224,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700225,
+    "m_item_id": 2700225,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700226,
+    "m_item_id": 2700226,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700227,
+    "m_item_id": 2700227,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700228,
+    "m_item_id": 2700228,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700229,
+    "m_item_id": 2700229,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700230,
+    "m_item_id": 2700230,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700231,
+    "m_item_id": 2700231,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700232,
+    "m_item_id": 2700232,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700233,
+    "m_item_id": 2700233,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700234,
+    "m_item_id": 2700234,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700235,
+    "m_item_id": 2700235,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700236,
+    "m_item_id": 2700236,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700237,
+    "m_item_id": 2700237,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700238,
+    "m_item_id": 2700238,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700239,
+    "m_item_id": 2700239,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700240,
+    "m_item_id": 2700240,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700241,
+    "m_item_id": 2700241,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700242,
+    "m_item_id": 2700242,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700243,
+    "m_item_id": 2700243,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700244,
+    "m_item_id": 2700244,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700245,
+    "m_item_id": 2700245,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700246,
+    "m_item_id": 2700246,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700247,
+    "m_item_id": 2700247,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700248,
+    "m_item_id": 2700248,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700249,
+    "m_item_id": 2700249,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700250,
+    "m_item_id": 2700250,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700251,
+    "m_item_id": 2700251,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700252,
+    "m_item_id": 2700252,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700253,
+    "m_item_id": 2700253,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700254,
+    "m_item_id": 2700254,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700255,
+    "m_item_id": 2700255,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700256,
+    "m_item_id": 2700256,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700257,
+    "m_item_id": 2700257,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700258,
+    "m_item_id": 2700258,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700259,
+    "m_item_id": 2700259,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700260,
+    "m_item_id": 2700260,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700261,
+    "m_item_id": 2700261,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700262,
+    "m_item_id": 2700262,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700263,
+    "m_item_id": 2700263,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700264,
+    "m_item_id": 2700264,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700265,
+    "m_item_id": 2700265,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700266,
+    "m_item_id": 2700266,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700267,
+    "m_item_id": 2700267,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700268,
+    "m_item_id": 2700268,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700269,
+    "m_item_id": 2700269,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700270,
+    "m_item_id": 2700270,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700271,
+    "m_item_id": 2700271,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700272,
+    "m_item_id": 2700272,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700273,
+    "m_item_id": 2700273,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700274,
+    "m_item_id": 2700274,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700275,
+    "m_item_id": 2700275,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700276,
+    "m_item_id": 2700276,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700277,
+    "m_item_id": 2700277,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700278,
+    "m_item_id": 2700278,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700279,
+    "m_item_id": 2700279,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700280,
+    "m_item_id": 2700280,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700281,
+    "m_item_id": 2700281,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700282,
+    "m_item_id": 2700282,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700283,
+    "m_item_id": 2700283,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700284,
+    "m_item_id": 2700284,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700285,
+    "m_item_id": 2700285,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700286,
+    "m_item_id": 2700286,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700287,
+    "m_item_id": 2700287,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700288,
+    "m_item_id": 2700288,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700289,
+    "m_item_id": 2700289,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700290,
+    "m_item_id": 2700290,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700291,
+    "m_item_id": 2700291,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700292,
+    "m_item_id": 2700292,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700293,
+    "m_item_id": 2700293,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700294,
+    "m_item_id": 2700294,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700295,
+    "m_item_id": 2700295,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700296,
+    "m_item_id": 2700296,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700297,
+    "m_item_id": 2700297,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700298,
+    "m_item_id": 2700298,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700299,
+    "m_item_id": 2700299,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700300,
+    "m_item_id": 2700300,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700301,
+    "m_item_id": 2700301,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700302,
+    "m_item_id": 2700302,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700303,
+    "m_item_id": 2700303,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700304,
+    "m_item_id": 2700304,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700305,
+    "m_item_id": 2700305,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700306,
+    "m_item_id": 2700306,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700307,
+    "m_item_id": 2700307,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700308,
+    "m_item_id": 2700308,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700309,
+    "m_item_id": 2700309,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700310,
+    "m_item_id": 2700310,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700311,
+    "m_item_id": 2700311,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700312,
+    "m_item_id": 2700312,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700313,
+    "m_item_id": 2700313,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700314,
+    "m_item_id": 2700314,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700315,
+    "m_item_id": 2700315,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700316,
+    "m_item_id": 2700316,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700317,
+    "m_item_id": 2700317,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700318,
+    "m_item_id": 2700318,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700319,
+    "m_item_id": 2700319,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700320,
+    "m_item_id": 2700320,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700321,
+    "m_item_id": 2700321,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700322,
+    "m_item_id": 2700322,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700323,
+    "m_item_id": 2700323,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700324,
+    "m_item_id": 2700324,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700325,
+    "m_item_id": 2700325,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700326,
+    "m_item_id": 2700326,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700327,
+    "m_item_id": 2700327,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700328,
+    "m_item_id": 2700328,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700329,
+    "m_item_id": 2700329,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700330,
+    "m_item_id": 2700330,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700331,
+    "m_item_id": 2700331,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700332,
+    "m_item_id": 2700332,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700333,
+    "m_item_id": 2700333,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700334,
+    "m_item_id": 2700334,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700335,
+    "m_item_id": 2700335,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700336,
+    "m_item_id": 2700336,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700337,
+    "m_item_id": 2700337,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700338,
+    "m_item_id": 2700338,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700339,
+    "m_item_id": 2700339,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700340,
+    "m_item_id": 2700340,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700341,
+    "m_item_id": 2700341,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700343,
+    "m_item_id": 2700343,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700344,
+    "m_item_id": 2700344,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700345,
+    "m_item_id": 2700345,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700346,
+    "m_item_id": 2700346,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700347,
+    "m_item_id": 2700347,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700348,
+    "m_item_id": 2700348,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2700349,
+    "m_item_id": 2700349,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2700350,
+    "m_item_id": 2700350,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700351,
+    "m_item_id": 2700351,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700354,
+    "m_item_id": 2700354,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2700355,
+    "m_item_id": 2700355,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701001,
+    "m_item_id": 2701001,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701002,
+    "m_item_id": 2701002,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701003,
+    "m_item_id": 2701003,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701004,
+    "m_item_id": 2701004,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701005,
+    "m_item_id": 2701005,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701006,
+    "m_item_id": 2701006,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701007,
+    "m_item_id": 2701007,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701008,
+    "m_item_id": 2701008,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701009,
+    "m_item_id": 2701009,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701010,
+    "m_item_id": 2701010,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701011,
+    "m_item_id": 2701011,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2701012,
+    "m_item_id": 2701012,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710001,
+    "m_item_id": 2710001,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710002,
+    "m_item_id": 2710002,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710003,
+    "m_item_id": 2710003,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710004,
+    "m_item_id": 2710004,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710005,
+    "m_item_id": 2710005,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710006,
+    "m_item_id": 2710006,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710007,
+    "m_item_id": 2710007,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710008,
+    "m_item_id": 2710008,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710009,
+    "m_item_id": 2710009,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710010,
+    "m_item_id": 2710010,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710011,
+    "m_item_id": 2710011,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710012,
+    "m_item_id": 2710012,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710013,
+    "m_item_id": 2710013,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710014,
+    "m_item_id": 2710014,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710015,
+    "m_item_id": 2710015,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710016,
+    "m_item_id": 2710016,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710017,
+    "m_item_id": 2710017,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710018,
+    "m_item_id": 2710018,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710019,
+    "m_item_id": 2710019,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710020,
+    "m_item_id": 2710020,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710021,
+    "m_item_id": 2710021,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710023,
+    "m_item_id": 2710023,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710025,
+    "m_item_id": 2710025,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710026,
+    "m_item_id": 2710026,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710027,
+    "m_item_id": 2710027,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710038,
+    "m_item_id": 2710038,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2710039,
+    "m_item_id": 2710039,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720001,
+    "m_item_id": 2720001,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720002,
+    "m_item_id": 2720002,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720003,
+    "m_item_id": 2720003,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720006,
+    "m_item_id": 2720006,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720008,
+    "m_item_id": 2720008,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720009,
+    "m_item_id": 2720009,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720010,
+    "m_item_id": 2720010,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720011,
+    "m_item_id": 2720011,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720012,
+    "m_item_id": 2720012,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720014,
+    "m_item_id": 2720014,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720015,
+    "m_item_id": 2720015,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720017,
+    "m_item_id": 2720017,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720018,
+    "m_item_id": 2720018,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720019,
+    "m_item_id": 2720019,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720020,
+    "m_item_id": 2720020,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720021,
+    "m_item_id": 2720021,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720022,
+    "m_item_id": 2720022,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720023,
+    "m_item_id": 2720023,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720024,
+    "m_item_id": 2720024,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720025,
+    "m_item_id": 2720025,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720026,
+    "m_item_id": 2720026,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720027,
+    "m_item_id": 2720027,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720028,
+    "m_item_id": 2720028,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720029,
+    "m_item_id": 2720029,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720030,
+    "m_item_id": 2720030,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720031,
+    "m_item_id": 2720031,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720032,
+    "m_item_id": 2720032,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720033,
+    "m_item_id": 2720033,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2720036,
+    "m_item_id": 2720036,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720037,
+    "m_item_id": 2720037,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720038,
+    "m_item_id": 2720038,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720039,
+    "m_item_id": 2720039,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720040,
+    "m_item_id": 2720040,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720041,
+    "m_item_id": 2720041,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720042,
+    "m_item_id": 2720042,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720043,
+    "m_item_id": 2720043,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720044,
+    "m_item_id": 2720044,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720045,
+    "m_item_id": 2720045,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720046,
+    "m_item_id": 2720046,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720047,
+    "m_item_id": 2720047,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720048,
+    "m_item_id": 2720048,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720049,
+    "m_item_id": 2720049,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720050,
+    "m_item_id": 2720050,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720051,
+    "m_item_id": 2720051,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720052,
+    "m_item_id": 2720052,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720053,
+    "m_item_id": 2720053,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2720054,
+    "m_item_id": 2720054,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720055,
+    "m_item_id": 2720055,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720056,
+    "m_item_id": 2720056,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720057,
+    "m_item_id": 2720057,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720058,
+    "m_item_id": 2720058,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720059,
+    "m_item_id": 2720059,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720060,
+    "m_item_id": 2720060,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720061,
+    "m_item_id": 2720061,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720062,
+    "m_item_id": 2720062,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720063,
+    "m_item_id": 2720063,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720064,
+    "m_item_id": 2720064,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720065,
+    "m_item_id": 2720065,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720066,
+    "m_item_id": 2720066,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720067,
+    "m_item_id": 2720067,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720068,
+    "m_item_id": 2720068,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720069,
+    "m_item_id": 2720069,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720070,
+    "m_item_id": 2720070,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720071,
+    "m_item_id": 2720071,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720072,
+    "m_item_id": 2720072,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720073,
+    "m_item_id": 2720073,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720074,
+    "m_item_id": 2720074,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720075,
+    "m_item_id": 2720075,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720076,
+    "m_item_id": 2720076,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720077,
+    "m_item_id": 2720077,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720078,
+    "m_item_id": 2720078,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720079,
+    "m_item_id": 2720079,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720080,
+    "m_item_id": 2720080,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720081,
+    "m_item_id": 2720081,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720082,
+    "m_item_id": 2720082,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720083,
+    "m_item_id": 2720083,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720084,
+    "m_item_id": 2720084,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720085,
+    "m_item_id": 2720085,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720086,
+    "m_item_id": 2720086,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2720087,
+    "m_item_id": 2720087,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2720088,
+    "m_item_id": 2720088,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720089,
+    "m_item_id": 2720089,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720090,
+    "m_item_id": 2720090,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720091,
+    "m_item_id": 2720091,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720092,
+    "m_item_id": 2720092,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720093,
+    "m_item_id": 2720093,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720094,
+    "m_item_id": 2720094,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720095,
+    "m_item_id": 2720095,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720096,
+    "m_item_id": 2720096,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720097,
+    "m_item_id": 2720097,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720098,
+    "m_item_id": 2720098,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720099,
+    "m_item_id": 2720099,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720100,
+    "m_item_id": 2720100,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720101,
+    "m_item_id": 2720101,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2720102,
+    "m_item_id": 2720102,
+    "item_type": 27,
+    "get_areas": "Adell's training"
+  },
+  {
+    "id": 2720103,
+    "m_item_id": 2720103,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2720104,
+    "m_item_id": 2720104,
+    "item_type": 27,
+    "get_areas": "None"
+  },
+  {
+    "id": 2720105,
+    "m_item_id": 2720105,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2721002,
+    "m_item_id": 2721002,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2721004,
+    "m_item_id": 2721004,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730001,
+    "m_item_id": 2730001,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730002,
+    "m_item_id": 2730002,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730003,
+    "m_item_id": 2730003,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730004,
+    "m_item_id": 2730004,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730005,
+    "m_item_id": 2730005,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730006,
+    "m_item_id": 2730006,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730007,
+    "m_item_id": 2730007,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730008,
+    "m_item_id": 2730008,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730009,
+    "m_item_id": 2730009,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730010,
+    "m_item_id": 2730010,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730011,
+    "m_item_id": 2730011,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730012,
+    "m_item_id": 2730012,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730013,
+    "m_item_id": 2730013,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730014,
+    "m_item_id": 2730014,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730015,
+    "m_item_id": 2730015,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730016,
+    "m_item_id": 2730016,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730017,
+    "m_item_id": 2730017,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730018,
+    "m_item_id": 2730018,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730019,
+    "m_item_id": 2730019,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730020,
+    "m_item_id": 2730020,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730021,
+    "m_item_id": 2730021,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730022,
+    "m_item_id": 2730022,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730023,
+    "m_item_id": 2730023,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730024,
+    "m_item_id": 2730024,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730025,
+    "m_item_id": 2730025,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730026,
+    "m_item_id": 2730026,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730027,
+    "m_item_id": 2730027,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730028,
+    "m_item_id": 2730028,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730029,
+    "m_item_id": 2730029,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730030,
+    "m_item_id": 2730030,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730031,
+    "m_item_id": 2730031,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730032,
+    "m_item_id": 2730032,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730033,
+    "m_item_id": 2730033,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730034,
+    "m_item_id": 2730034,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730035,
+    "m_item_id": 2730035,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730036,
+    "m_item_id": 2730036,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730037,
+    "m_item_id": 2730037,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730038,
+    "m_item_id": 2730038,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730039,
+    "m_item_id": 2730039,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730040,
+    "m_item_id": 2730040,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730041,
+    "m_item_id": 2730041,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730042,
+    "m_item_id": 2730042,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730043,
+    "m_item_id": 2730043,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730044,
+    "m_item_id": 2730044,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730045,
+    "m_item_id": 2730045,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730046,
+    "m_item_id": 2730046,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730047,
+    "m_item_id": 2730047,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730048,
+    "m_item_id": 2730048,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730053,
+    "m_item_id": 2730053,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730054,
+    "m_item_id": 2730054,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730055,
+    "m_item_id": 2730055,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730056,
+    "m_item_id": 2730056,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730057,
+    "m_item_id": 2730057,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730058,
+    "m_item_id": 2730058,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730059,
+    "m_item_id": 2730059,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730060,
+    "m_item_id": 2730060,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730061,
+    "m_item_id": 2730061,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730062,
+    "m_item_id": 2730062,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730063,
+    "m_item_id": 2730063,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730064,
+    "m_item_id": 2730064,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730065,
+    "m_item_id": 2730065,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730066,
+    "m_item_id": 2730066,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730067,
+    "m_item_id": 2730067,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730068,
+    "m_item_id": 2730068,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730069,
+    "m_item_id": 2730069,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730070,
+    "m_item_id": 2730070,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730071,
+    "m_item_id": 2730071,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730072,
+    "m_item_id": 2730072,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730073,
+    "m_item_id": 2730073,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730074,
+    "m_item_id": 2730074,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730075,
+    "m_item_id": 2730075,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730076,
+    "m_item_id": 2730076,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730077,
+    "m_item_id": 2730077,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730078,
+    "m_item_id": 2730078,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730079,
+    "m_item_id": 2730079,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730080,
+    "m_item_id": 2730080,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730081,
+    "m_item_id": 2730081,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730082,
+    "m_item_id": 2730082,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730083,
+    "m_item_id": 2730083,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730084,
+    "m_item_id": 2730084,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730085,
+    "m_item_id": 2730085,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730086,
+    "m_item_id": 2730086,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730087,
+    "m_item_id": 2730087,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730088,
+    "m_item_id": 2730088,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730089,
+    "m_item_id": 2730089,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730090,
+    "m_item_id": 2730090,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730091,
+    "m_item_id": 2730091,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730092,
+    "m_item_id": 2730092,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730097,
+    "m_item_id": 2730097,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730098,
+    "m_item_id": 2730098,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730099,
+    "m_item_id": 2730099,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730100,
+    "m_item_id": 2730100,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730105,
+    "m_item_id": 2730105,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730106,
+    "m_item_id": 2730106,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730107,
+    "m_item_id": 2730107,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730108,
+    "m_item_id": 2730108,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730113,
+    "m_item_id": 2730113,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730114,
+    "m_item_id": 2730114,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730115,
+    "m_item_id": 2730115,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730116,
+    "m_item_id": 2730116,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730117,
+    "m_item_id": 2730117,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730118,
+    "m_item_id": 2730118,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730119,
+    "m_item_id": 2730119,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730120,
+    "m_item_id": 2730120,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730125,
+    "m_item_id": 2730125,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730126,
+    "m_item_id": 2730126,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730127,
+    "m_item_id": 2730127,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730128,
+    "m_item_id": 2730128,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730129,
+    "m_item_id": 2730129,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730130,
+    "m_item_id": 2730130,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730131,
+    "m_item_id": 2730131,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730132,
+    "m_item_id": 2730132,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730133,
+    "m_item_id": 2730133,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730134,
+    "m_item_id": 2730134,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730135,
+    "m_item_id": 2730135,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730136,
+    "m_item_id": 2730136,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  },
+  {
+    "id": 2730137,
+    "m_item_id": 2730137,
+    "item_type": 27,
+    "get_areas": "Fishing fleet, Adell's training"
+  }
+]

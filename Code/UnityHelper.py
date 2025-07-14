@@ -9,24 +9,41 @@ from Code.config import Config, Paths
 
 
 class UnityHelper:
-    def __init__(self, source_path: Path = Paths.GAME_MASTERS):
-        self.source_path = source_path
-        self.env = UnityPy.load(source_path)
+    def __init__(self):
+        self.env = UnityPy.load(Paths.GAME_MASTERS)
+        self.masters_path = Path(Paths.GAME_MASTERS)        
+        self.masters_path.mkdir(parents=True, exist_ok=True)
 
-        # Ensure the output directory exists
-        self.output_dir.mkdir(parents=True, exist_ok=True)
+        #Ensure required folders exist
+        self.backup_path = Path(Paths.MASTERS_BACKUP)        
+        self.backup_path.mkdir(parents=True, exist_ok=True)
+
+        self.translation_source_path = Path(Paths.SOURCE_TRANSLATED_DIR)        
+        self.translation_source_path.mkdir(parents=True, exist_ok=True)
+
+        self.source_path = Path(Paths.SOURCE_DIR)        
+        self.source_path.mkdir(parents=True, exist_ok=True)
+
+        self.updated_files_path = Path(Paths.UPDATED_FILES_DIR)        
+        self.updated_files_path.mkdir(parents=True, exist_ok=True)
+        
+        self.output_path = Path(Paths.TRANSLATED_FILES_DIR)        
+        self.output_path.mkdir(parents=True, exist_ok=True)
 
     # Initial datamine. Returns True if the initial setup was already done. False otherwise
     def initial_datamine(self) -> bool:
         """Extract only the missing JSON files from FILES_TO_TRANSLATE."""
-        existing_files = {f.stem for f in self.output_dir.glob("*.json")}
-        missing_files = Config.FILES_TO_TRANSLATE - existing_files
-        output_dir = Paths.SOURCE_DIR
 
-        if Config.set_datetime_field(Config.INITIAL_SETUP) and not missing_files:
-            print("✅ All target files are already extracted.")
+        print(f"    ℹ️ Running initial setup")
+
+        existing_files = {f.stem for f in self.source_path.glob("*.json")}
+        missing_files = set(Config.FILES_TO_TRANSLATE) - existing_files
+
+        if Config.get_datetime_field(Config.INITIAL_SETUP) and not missing_files:
+            print("       ├─ ✅ Initial setup already completed.")
             return True
 
+        print("       ├─ 🔁 Datamining game files...")
         for obj in self.env.objects:
             if obj.type.name != "MonoBehaviour":
                 continue
@@ -38,14 +55,22 @@ class UnityHelper:
             name = data.m_Name
 
             if name in missing_files:
-                self._export_json(obj, name, Paths.SOURCE_DIR)
-                backup_path = Path(Paths.MASTERS_BACKUP) / self.source_path.name
-                backup_path.parent.mkdir(parents=True, exist_ok=True)
-                if not backup_path.exists():
-                    shutil.copy2(self.source_path, backup_path)
-                    print(f"📦 Backed up Unity asset to: {backup_path}")
+                self._export_json(obj, name)
+
+                source_file = self.masters_path / name
+                backup_file = self.backup_path / name
+                # Make sure the backup directory exists
+                backup_file.parent.mkdir(parents=True, exist_ok=True)
+
+                # Copy only if it hasn't already been backed up
+                if not backup_file.exists():
+                    try:
+                        shutil.copy2(source_file, backup_file)
+                        print(f"            ├─ 📦 Backed up Unity asset to: {backup_file}")
+                    except Exception as e:
+                        print(f"            ├─ ❌ Failed to back up {source_file}: {e}")
         
-        Config.set_datetime_field(Config.INITIAL_SETUP)
+        print("       ├─ ✅ Completed initial setup.")
         return False
 
     def datamine_files(self, files_to_datamine:list[str]) -> None:
@@ -100,7 +125,7 @@ class UnityHelper:
                     obj.save_typetree(tree)
 
         for path, env_file in self.env.files.items():
-            output_path = os.path.join(Paths.TRANSLATED_FILES_DIR, os.path.basename(path))
+            output_path = os.path.join(Paths.SOURCE_TRANSLATED_DIR, os.path.basename(path))
             filename = path[path.rfind('/') + 1:]
             if filename in Config.FILES_TO_TRANSLATE:
                 os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -113,12 +138,12 @@ class UnityHelper:
             translated_source_data=json.load(fj)
             return translated_source_data
     
-    def _export_json(self, obj, name: str, output_dir:str) -> None:
+    def _export_json(self, obj, name: str) -> None:
         """Internal helper to write JSON to output folder."""
         tree = obj.read_typetree()
-        output_path = output_dir / f"{name}.json"
+        output_path = self.source_path / f"{name}.json"
 
         with open(output_path, "wt", encoding="utf8") as f:
             json.dump(tree['DataList'], f, ensure_ascii=False, indent=4)
 
-        print(f"📝 Extracted: {name}")
+        print(f"            ├─ 📝 Extracted: {name}")

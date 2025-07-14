@@ -1,0 +1,1034 @@
+[
+  {
+    "id": 1,
+    "name": "The Prince of the Demon World and the Red Moon",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 105,
+    "sub_m_memory_effect_type_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Third Heroines!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 106,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 104
+  },
+  {
+    "id": 3,
+    "name": "The multiverse's madness",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 108,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 4,
+    "name": "Bishoujozaka, unfinished! !",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 73,
+    "sub_m_memory_effect_type_id": 2
+  },
+  {
+    "id": 5,
+    "name": "I tried playing a band in the Demon World!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 6,
+    "name": "Future babe couple",
+    "main_m_character_id": 49,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 49,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 7,
+    "name": "Demon King Party♪",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 103
+  },
+  {
+    "id": 8,
+    "name": "Disgaea 4Return",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 107,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 9,
+    "name": "Primitive ally",
+    "main_m_character_id": 40,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 40,
+    "sub_m_memory_effect_type_id": 6
+  },
+  {
+    "id": 10,
+    "name": "Disgaea 6",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 11,
+    "name": "Kai! Devilish Evil Academy",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 105,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 12,
+    "name": "Adele is raging",
+    "main_m_character_id": 126,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 126,
+    "sub_m_memory_effect_type_id": 2
+  },
+  {
+    "id": 13,
+    "name": "The strongest two!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 107,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 14,
+    "name": "The Demon King, the Angel, and the Demon",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 108,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 106
+  },
+  {
+    "id": 15,
+    "name": "Second party!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 103
+  },
+  {
+    "id": 16,
+    "name": "Boy! Have an evil spirit!",
+    "main_m_character_id": 119,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 119,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 17,
+    "name": "The beginning of the life of a fallen angel!",
+    "main_m_character_id": 34,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 34,
+    "sub_m_memory_effect_type_id": 5
+  },
+  {
+    "id": 18,
+    "name": "Disgaea D2",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 105
+  },
+  {
+    "id": 19,
+    "name": "The Idol Demon King is attractive!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 105,
+    "sub_m_character_id": 156,
+    "sub_m_memory_effect_type_id": 2
+  },
+  {
+    "id": 20,
+    "name": "La Pucelle: The Legend of the Sacred Woman of Light",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 108,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 21,
+    "name": "Third party!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 22,
+    "name": "The stupid brother and the demon's sister",
+    "main_m_character_id": 130,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 130,
+    "sub_m_memory_effect_type_id": 3
+  },
+  {
+    "id": 23,
+    "name": "Witch and Hundred Knights",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 105
+  },
+  {
+    "id": 24,
+    "name": "Let's dance with the angels and devils",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 105
+  },
+  {
+    "id": 25,
+    "name": "The legend of the end of the century's super delinquents! ! !",
+    "main_m_character_id": 74,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 74,
+    "sub_m_memory_effect_type_id": 2
+  },
+  {
+    "id": 26,
+    "name": "A promise from 400 years ago",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 38,
+    "sub_m_memory_effect_type_id": 2
+  },
+  {
+    "id": 27,
+    "name": "Those who run through the demon world",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 104
+  },
+  {
+    "id": 28,
+    "name": "What does the boy demon king think about?",
+    "main_m_character_id": 119,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 119,
+    "sub_m_memory_effect_type_id": 4
+  },
+  {
+    "id": 29,
+    "name": "Devil Buster!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 166,
+    "sub_m_memory_effect_type_id": 4
+  },
+  {
+    "id": 30,
+    "name": "The ancient warriors",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 105,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 31,
+    "name": "Third Wedding",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 178,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 32,
+    "name": "The residents of Verdim",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 103
+  },
+  {
+    "id": 33,
+    "name": "Infinite Form Disgaea",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 103
+  },
+  {
+    "id": 34,
+    "name": "The bond deeper than the darkness",
+    "main_m_character_id": 169,
+    "main_m_memory_effect_type_id": 4,
+    "sub_m_character_id": 169,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 35,
+    "name": "Beyond the happy ending",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 94,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 36,
+    "name": "The Shadow of the Super Hero and the Heart of the Demon King",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 105,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 104
+  },
+  {
+    "id": 37,
+    "name": "Hold the reason for fighting on your back",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 38,
+    "name": "Hell's inhabitants",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 105
+  },
+  {
+    "id": 39,
+    "name": "The most evil kid duo in the Demon World!",
+    "main_m_character_id": 182,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 182,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 40,
+    "name": "In search of the name of the demon king",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 105,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 104
+  },
+  {
+    "id": 41,
+    "name": "Dad, mom and mom! ?",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 105
+  },
+  {
+    "id": 42,
+    "name": "The Demon King Lahar is here!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 105
+  },
+  {
+    "id": 43,
+    "name": "Awakened Angel Pure Fron!",
+    "main_m_character_id": 186,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 186,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 44,
+    "name": "Me and your demon world",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 45,
+    "name": "The Demon King's Way",
+    "main_m_character_id": 105,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 105,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 46,
+    "name": "Congratulations! Disgaea RPG 3rd anniversary!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 108,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 106
+  },
+  {
+    "id": 47,
+    "name": "Friends connected with your heart",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 103
+  },
+  {
+    "id": 48,
+    "name": "The promise of crimson",
+    "main_m_character_id": 152,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 152,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 49,
+    "name": "Super! Super! Super reincarnation!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 50,
+    "name": "Thank you for the donation!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 20059,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 51,
+    "name": "Second Nice to meet you",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 52,
+    "name": "What does the final boss girl think?",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 20042,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 53,
+    "name": "Leave it to Raspberyl Sensei?",
+    "main_m_character_id": 20059,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 54,
+    "name": "From the Demon World, expressing gratitude for 20 years",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 108,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 55,
+    "name": "The Demon Kings on Two Screens",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 105,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 56,
+    "name": "I'm currently singing karaoke passionately!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 57,
+    "name": "An evil and bad childhood friend!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 58,
+    "name": "Attack on Robo Jennifer",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 45,
+    "sub_m_memory_effect_type_id": 2
+  },
+  {
+    "id": 59,
+    "name": "A moment of peace",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 104
+  },
+  {
+    "id": 60,
+    "name": "Its name is Dark Hero",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 219,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 61,
+    "name": "His name is Emmyzel, the Grim Reaper",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 105,
+    "sub_m_character_id": 120,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 62,
+    "name": "Fly out, friends in the demon world!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 63,
+    "name": "The Little Demon King is born!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 105,
+    "sub_m_character_id": 227,
+    "sub_m_memory_effect_type_id": 2
+  },
+  {
+    "id": 64,
+    "name": "welcome! To the evil school!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 105,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 104
+  },
+  {
+    "id": 65,
+    "name": "Girls' bathing in the sea",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 66,
+    "name": "We've started the Fuka and Desco edition.",
+    "main_m_character_id": 226,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 20074,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 67,
+    "name": "Pliny Race GO! GO!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 68,
+    "name": "Secret Photo Session",
+    "main_m_character_id": 238,
+    "main_m_memory_effect_type_id": 4,
+    "sub_m_character_id": 20040,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 69,
+    "name": "An angel and devil trio",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 103
+  },
+  {
+    "id": 70,
+    "name": "Sing it! The history of the demon world!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 71,
+    "name": "Second After",
+    "main_m_character_id": 233,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 72,
+    "name": "Demon King Etna",
+    "main_m_character_id": 201,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 201,
+    "sub_m_memory_effect_type_id": 2
+  },
+  {
+    "id": 73,
+    "name": "Aiming for the Demon King Zenon!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 103
+  },
+  {
+    "id": 74,
+    "name": "Everything is for our Lord...",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 247,
+    "sub_m_memory_effect_type_id": 2
+  },
+  {
+    "id": 75,
+    "name": "wish! 1st anniversary",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 108,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 76,
+    "name": "Gather! To the Nihon Book",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 77,
+    "name": "The Great Mid Boss",
+    "main_m_character_id": 20,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 20,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 78,
+    "name": "Congratulations! Disgaea RPG 4th anniversary!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 107,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 106
+  },
+  {
+    "id": 79,
+    "name": "The noisy demon world",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 80,
+    "name": "Control Black Santa!",
+    "main_m_character_id": 207,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 208,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 81,
+    "name": "Kotatsudan-dan-kai Evil Academy",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 82,
+    "name": "Miko Wars Shrine Maiden",
+    "main_m_character_id": 211,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 210,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 83,
+    "name": "At Yukishirobe no Sato",
+    "main_m_character_id": 147,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 84,
+    "name": "We are in the Hinomoto Demon World!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 106
+  },
+  {
+    "id": 85,
+    "name": "Invade! Big monster Fron!",
+    "main_m_character_id": 20052,
+    "main_m_memory_effect_type_id": 4,
+    "sub_m_character_id": 30,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 86,
+    "name": "Twin Heroines",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 103
+  },
+  {
+    "id": 87,
+    "name": "The Witch and the Demon King vs. the Harem Army! ?",
+    "main_m_character_id": 20047,
+    "main_m_memory_effect_type_id": 4,
+    "sub_m_character_id": 20047,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 88,
+    "name": "My treasure",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 108,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 89,
+    "name": "Angel-like devil smile (frog)",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 105,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 104
+  },
+  {
+    "id": 90,
+    "name": "Fallen Era Transcendence",
+    "main_m_character_id": 20070,
+    "main_m_memory_effect_type_id": 4,
+    "sub_m_character_id": 233,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 91,
+    "name": "Asagi in the game",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 92,
+    "name": "The powerful enemies gather together",
+    "main_m_character_id": 176,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 229,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 93,
+    "name": "Pliny of the Stoic",
+    "main_m_character_id": 174,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 175,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 94,
+    "name": "Rebels of Hell",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 105
+  },
+  {
+    "id": 95,
+    "name": "Love and hate death strawberry moon",
+    "main_m_character_id": 180,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 180,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 96,
+    "name": "A tale of revenge and rebellion",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 106
+  },
+  {
+    "id": 97,
+    "name": "Hit! A big battle in swimsuits!",
+    "main_m_character_id": 185,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 184,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 98,
+    "name": "Fron, love lesson",
+    "main_m_character_id": 284,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 99,
+    "name": "Hakure Samurai, I'm rooting for you!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 107,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 102
+  },
+  {
+    "id": 100,
+    "name": "Fantasy swimsuit beauties",
+    "main_m_character_id": 240,
+    "main_m_memory_effect_type_id": 4,
+    "sub_m_character_id": 20077,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 101,
+    "name": "Professor Chanpuru, the sinner of the family",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 108,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 103
+  },
+  {
+    "id": 102,
+    "name": "Runaway! Monster Hunter",
+    "main_m_character_id": 243,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 20079,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 103,
+    "name": "Niji Ranger",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 289,
+    "sub_m_memory_effect_type_id": 3
+  },
+  {
+    "id": 104,
+    "name": "The Adventure of the Earth Hero",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 104
+  },
+  {
+    "id": 105,
+    "name": "Halloween witches",
+    "main_m_character_id": 250,
+    "main_m_memory_effect_type_id": 4,
+    "sub_m_character_id": 249,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 106,
+    "name": "Disgaea, the Heavenly War",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 107,
+    "name": "Gathering and warriors",
+    "main_m_character_id": 199,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 199,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 108,
+    "name": "Future Warrior Preneur",
+    "main_m_character_id": 148,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 148,
+    "sub_m_memory_effect_type_id": 3
+  },
+  {
+    "id": 109,
+    "name": "Congratulations! Disgaea RPG 5th anniversary!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 107,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 110,
+    "name": "Actors large family",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 106
+  },
+  {
+    "id": 111,
+    "name": "Muscle-filled macho recommendation",
+    "main_m_character_id": 261,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 261,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 112,
+    "name": "A first visit to the worldly desires",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 107,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 113,
+    "name": "The runaway Higan Zetsukatsusai",
+    "main_m_character_id": 266,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 266,
+    "sub_m_memory_effect_type_id": 6
+  },
+  {
+    "id": 114,
+    "name": "Monochrome Tona",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 20095,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 115,
+    "name": "The new Phantom Brave",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 108,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 116,
+    "name": "Infinite Form Fron Edition",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 117,
+    "name": "Raspberyl chocolate course",
+    "main_m_character_id": 269,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 269,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 118,
+    "name": "Skull Island View",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 101
+  },
+  {
+    "id": 119,
+    "name": "SD Phantom Brave",
+    "main_m_character_id": 333,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 120,
+    "name": "Kizuna Confine",
+    "main_m_character_id": 336,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 121,
+    "name": "Seven characters join!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 101,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 103
+  },
+  {
+    "id": 122,
+    "name": "The road to \"Zeskasai\"",
+    "main_m_character_id": 223,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 223,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 123,
+    "name": "Fallen Hell, the final battle!",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 103,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 105
+  },
+  {
+    "id": 124,
+    "name": "The Great Demon Fist of Slime Cafe",
+    "main_m_character_id": 163,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 163,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 125,
+    "name": "The battle over sweets",
+    "main_m_character_id": 217,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 217,
+    "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 126,
+    "name": "The Scarlet Rice Ball Incident",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 104,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 109
+  },
+  {
+    "id": 127,
+    "name": "Etna sweets",
+    "main_m_character_id": 20095,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 104
+  },
+  {
+    "id": 128,
+    "name": "A look into the school",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 104
+  },
+  {
+    "id": 130,
+    "name": "Etna and Rahal fight",
+    "main_m_character_id": 315,
+    "main_m_memory_effect_type_id": 2,
+    "sub_m_character_id": 315,
+    "sub_m_memory_effect_type_id": 8
+  }
+]

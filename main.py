@@ -1,8 +1,13 @@
+import time
 from Code.TranslationUtil import Translator_Util
 from Code.UnityHelper import UnityHelper
 from Code.config import Config
 
 def main():
+
+    start_time = time.time()
+    
+    print(f"Started execution")
     #STEP 1 - DATAMINE GAME FILES   
     unity_helper = UnityHelper()
     initial_setup_done = unity_helper.initial_datamine()
@@ -22,6 +27,12 @@ def main():
         unity_helper.translate_game_files(Config.get_updated_files())
 
     # STEP 3 - MOVE FILES TO MASTERS FOLDER?
+    if initial_setup_done == False:
+        Config.set_datetime_field(Config.INITIAL_SETUP)
+
+    end_time = time.time()
+    elapsed = end_time - start_time
+    print(f"✅ Finished execution in {elapsed:.2f}s")
 
 if __name__ == "__main__":
     main()

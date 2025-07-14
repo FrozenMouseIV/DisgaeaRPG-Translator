@@ -1,0 +1,4722 @@
+[
+  {
+    "id": 1,
+    "episode_type": 1,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 1",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 2,
+    "episode_type": 1,
+    "no": 2,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 3,
+    "episode_type": 1,
+    "no": 3,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 3",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 4,
+    "episode_type": 1,
+    "no": 4,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 4",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 5,
+    "episode_type": 1,
+    "no": 5,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 5",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 6,
+    "episode_type": 1,
+    "no": 6,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 6",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 7,
+    "episode_type": 1,
+    "no": 7,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 7",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 8,
+    "episode_type": 1,
+    "no": 8,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 8",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 9,
+    "episode_type": 1,
+    "no": 9,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 9",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10,
+    "episode_type": 1,
+    "no": 10,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 10",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11,
+    "episode_type": 1,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 1",
+    "open_at": "2020-06-29 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 12,
+    "episode_type": 1,
+    "no": 2,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 2",
+    "open_at": "2020-08-13 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 13,
+    "episode_type": 1,
+    "no": 3,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 3",
+    "open_at": "2020-10-07 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 14,
+    "episode_type": 1,
+    "no": 4,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 4",
+    "open_at": "2020-11-19 00:00:00",
+    "close_at": ""
+  },
+  {
+    "id": 15,
+    "episode_type": 1,
+    "no": 5,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 5",
+    "open_at": "2021-01-21 00:00:00",
+    "close_at": ""
+  },
+  {
+    "id": 16,
+    "episode_type": 1,
+    "no": 6,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 6",
+    "open_at": "2021-04-07 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 17,
+    "episode_type": 1,
+    "no": 7,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "メインストーリー第2部7話",
+    "open_at": "2021-10-05 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 18,
+    "episode_type": 1,
+    "no": 8,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Part 2 Episode 8",
+    "open_at": "2022-06-07 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 19,
+    "episode_type": 1,
+    "no": 9,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Part 2 Episode 9",
+    "open_at": "2023-09-23 00:00:00",
+    "close_at": ""
+  },
+  {
+    "id": 20,
+    "episode_type": 1,
+    "no": 10,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Part 2 Episode 10",
+    "open_at": "2024-06-15 00:00:00",
+    "close_at": ""
+  },
+  {
+    "id": 100,
+    "episode_type": 8,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Ultimate Rathbone Laboratory Parts Collection",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 501,
+    "episode_type": 3,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Dark Gates",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 601,
+    "episode_type": 7,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "深淵ゲート",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 901,
+    "episode_type": 2,
+    "no": 1,
+    "series": 1,
+    "m_main_story_category_id": 0,
+    "name": "D1 Digest",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 904,
+    "episode_type": 2,
+    "no": 4,
+    "series": 4,
+    "m_main_story_category_id": 0,
+    "name": "D4 Digest",
+    "open_at": "2020-11-04 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 906,
+    "episode_type": 2,
+    "no": 2,
+    "series": 6,
+    "m_main_story_category_id": 0,
+    "name": "D5 Digest",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 907,
+    "episode_type": 2,
+    "no": 7,
+    "series": 7,
+    "m_main_story_category_id": 0,
+    "name": "D6 Digest",
+    "open_at": "2020-11-11 12:00:00",
+    "close_at": ""
+  },
+  {
+    "id": 2001,
+    "episode_type": 1,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 12,
+    "name": "Arc 1 Anecdote EP 1",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 2002,
+    "episode_type": 1,
+    "no": 2,
+    "series": 0,
+    "m_main_story_category_id": 12,
+    "name": "Arc 1 Anecdote EP 2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 2003,
+    "episode_type": 1,
+    "no": 3,
+    "series": 0,
+    "m_main_story_category_id": 12,
+    "name": "Arc 1 Anecdote EP 3",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10011,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Magical Holy Night",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10021,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Majin Etna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10041,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Snow Melody Rice Cake Festival",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10061,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Metamorphosis of Green Bro",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10081,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10101,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Modified Prinny Conquest Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10121,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Nether Beauty Pageant",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10141,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Pure Flonne",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10151,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Ms. Raspberyl's Course on Chaos",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10171,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Raid Battle Round 1",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10181,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Reflection Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10201,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Modified Prinny Conquest Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10211,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Magic Cutie Purity Party ☆",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10241,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Raid Battle Round 1",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10251,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "A Challenge from the Prism Rangers!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10261,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Cat Cafe Crisis",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10271,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Bloodis",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10281,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fairy, Conquest Version",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10291,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Undead, Conquest Version",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10301,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Sludge, Conquest Version",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10311,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10341,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Sister Artina",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10351,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fest-evil of Sport!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10361,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10381,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Disgaea Wars (Tentative)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10411,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer! Sea! Scary Seaside Resort Opening?!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10421,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Raid Battle Round 1 - Reissue",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10431,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Qixi Memorial Special Battle",
+    "open_at": "2020-07-07 00:00:00",
+    "close_at": "2020-07-21 23:59:59"
+  },
+  {
+    "id": 10451,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Awakened Killia",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10471,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Treasure Island! Treasure Hunting!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10501,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Raid Battle Round 2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10511,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Arc 2 EP 2 Special Battle",
+    "open_at": "2020-08-13 13:05:00",
+    "close_at": "2020-08-27 23:59:59"
+  },
+  {
+    "id": 10531,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Succubi",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10541,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Sparkle! Sardine Fireworks",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10551,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Raid Battle Round 2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10581,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Visitors to the Netherworld",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10591,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Seven Deadly Sins Collab Special Battle",
+    "open_at": "2020-09-17 10:05:00",
+    "close_at": "2020-10-07 12:59:59"
+  },
+  {
+    "id": 10601,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Seven Deadly Sins Collab Raid",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10611,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Matt and the Magic Mirror",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10621,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle - feat. Matt",
+    "open_at": "2020-10-08 12:00:00",
+    "close_at": "2020-10-14 23:59:59"
+  },
+  {
+    "id": 10651,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Mao XENO Reissue Raid",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10661,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Zombie Carnival - Halloween",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10681,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Gargoyles",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10691,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Laharl Raid",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10721,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Sicily XENO Raid",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10731,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spectacular Celebration Party",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10741,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "1st Anniversary Fest Special Battle Vol.1",
+    "open_at": "2020-11-19 00:00:00",
+    "close_at": "2020-11-28 23:59:59"
+  },
+  {
+    "id": 10761,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "1st Anniversary Fest Special Battle Vol.2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10771,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Shrooms",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10781,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10791,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Frightening Dark Christmas",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10811,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Killidia Raid",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10821,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Bullseye! Divining Kyuubi",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10831,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Felynns",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10841,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Pringer X",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10851,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Netherworld New Year Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10881,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10891,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Desco XENO Reissue",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10901,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Disgaea 6 Challenge?!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10911,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Birthday Celebration Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10931,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10941,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Slumber Cats",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10951,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Re:Zero - Starting Life in the Netherworld",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10991,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Re:Zero - Collab Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11001,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Re:Zero Demon Rem",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11021,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11031,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Burn! Straw Doll Festival With The Saintess",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11041,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Overlord Priere",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11051,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "La Pucelle Collab Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11071,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "La Pucelle Collab Special Battle EXTRA\t\t\t\t",
+    "open_at": "2021-04-03 00:00:00",
+    "close_at": "2021-04-07 12:59:59"
+  },
+  {
+    "id": 11081,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11091,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11101,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Disgaea 6 Challenge!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11121,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Mao XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11131,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11141,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11151,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "1.5th Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11171,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fierce Fight: XENO Rush!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11172,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fierce Fight: XENO Rush! (BTS)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11191,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Emizel XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11201,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11211,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Visitors From Another World Special Battle EXTRA",
+    "open_at": "2021-05-30 00:00:00",
+    "close_at": "2021-06-03 23:59:59"
+  },
+  {
+    "id": 11221,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Nine-Tails",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11231,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Colossal Prinny",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11241,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Attack on Titan Collab Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11251,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11261,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Love Laboratory Advertising ♥ Plan",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11262,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Love Laboratory Advertising ♥ Plan (BTS)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11281,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11301,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11311,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Desco XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11321,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Mysterious Oceanfarers and Guardian Deity",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11322,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Mysterious Oceanfarers and Guardian Deity (BTS)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11331,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Demonic Summer Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11351,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Swimsuit Prinny",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11361,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Demonic Summer Special Battle EXTRA",
+    "open_at": "2021-07-29 00:00:00",
+    "close_at": "2021-08-02 23:59:59"
+  },
+  {
+    "id": 11371,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space: Awakened Rozalin",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11381,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11401,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11421,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Phantom Kingdom RPG",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11422,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Phantom Kingdom RPG (BTS)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11431,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Dark Lord Valvolga",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11451,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Phantom Kingdom Collab Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11461,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Phantom Kingdom Collab Special Battle EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11471,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11481,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space: Overlord Asagi",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11491,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Visitors to the Netherworld",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11492,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Visitors to the Netherworld (BTS)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11501,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11511,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Diane",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11531,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Seven Deadly Sins Collab Special Battle EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11541,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The \"I'm Selling Your Summer Retreat\" Incident",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11542,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "\"I'm Selling Your Summer Retreat\" (BTS)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11561,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Kagemaru",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11581,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11591,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11601,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Puella Magi Madoka Magica Collaboration Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11611,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "XENO Sicily Trial",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11621,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "爆誕！！　悪魔法少女ピュア☆マギカ",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11622,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "爆誕！！　悪魔法少女ピュア☆マギカ(裏面)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11651,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "プリべえ",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11661,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "まどマギコラボスペシャルバトルEXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11721,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "討伐戦改造死告族",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11731,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11741,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11771,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space: Awakened Rozalin",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11781,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "祝２０００周年！？",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11782,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "祝２０００周年！？(裏面)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11791,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "2nd Anniversary スペシャルバトル",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11821,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "未来戦士プレネール",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11841,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "進め！　魔界一武闘会への道！",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11842,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "進め！　魔界一武闘会への道！(裏面)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11861,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "2nd Anniversary スペシャルバトルEXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11871,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11881,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "試闘の間 雷帝ラハール",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11891,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "紅い甲冑！？　おにぎり武者推参！",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11892,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "紅い甲冑！？　おにぎり武者推参！(裏面)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11901,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11911,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "クリスマス スペシャルバトル",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11951,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "サンタ虎千代",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12011,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "ラブと煩悩！？寅色の初詣！",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12012,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "ラブと煩悩！？寅色の初詣！(裏面)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12061,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "討伐戦改造妖騎士族",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12071,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "魔界正月 スペシャルバトル",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12091,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Sakuya",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12101,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space: Overlord Asagi",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12121,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12131,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Burn! Straw Doll Festival With The Saintess",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12132,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "燃やせ！聖女たちとワラニンギョウ祭り(裏面)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12141,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12161,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "復刻 ラ・ピュセル　光の聖女伝説 スペシャルバトル",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12201,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Overlord Priere",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12211,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "復刻 ラ・ピュセル　光の聖女伝説 スペシャルバトル EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12221,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Disgaea Wars (Tentative)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12222,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "ディスガイア・ウォーズ（仮）(裏面)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12231,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "試闘の間 暴禍なるアデル",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12241,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12251,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12281,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Attack!　The villainous witch and the legendary demon god!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12282,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Attack!　The villainous witch and the legendary demon god! (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12301,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "魔女と百騎兵　コラボ記念 スペシャルバトル",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12331,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "メタリカ",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12391,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Witch and Hundred Knight Collaboration Special Battle EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12401,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial - Thunderlord Laharl",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12411,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Great Reflection Festival Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12441,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Clash!　Extreme XENO Battle!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12442,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Clash!　Extreme XENO Battle! (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12451,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna's Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12461,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12511,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Daimaken Lieselotta",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12531,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial Chamber Super Demon King Etna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12561,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12571,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Rough Ride of the Cho-Ma-ryu",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12581,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "A joint school disaster of madness!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12582,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "A joint school disaster of madness! (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12601,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fight to the Death! Demon's World One Martial Arts Tournament",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12602,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Mortal combat! Demon's World 1 Martial Arts Tournament (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12641,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Sicily XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12651,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Large Monster Fron",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12661,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Magic World GW Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12761,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12771,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "2.5th Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12791,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "An invitation from Asagi!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12792,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Invitation from Asagi! (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12841,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Pliny's magpie (Phoenicopterus plinyi)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12911,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Fuca XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12931,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12971,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Beauty Bride Grand Prix!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12972,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Beauty Bride Grand Prix! (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12981,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Reit Pliny.",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13061,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13071,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Adele the Disaster",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13081,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Legend of the Mysterious Mariner and Guardian God",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13082,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Legend of the Mysterious Mariner and Guardian God (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13091,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Swimsuit Etna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13151,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "legend of the Sacred Water Clothes",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13152,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Legend of the holy water wear (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13181,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle of the Magical Summer",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13231,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Vacation with Vampire Val",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13232,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Vacation with Vampire Val (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13241,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13251,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial Chamber Tyrant Varvatose",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13301,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Super large pliny (blue)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13341,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Reprint The Progress of the Colombian Giants Collaboration Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13381,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13401,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial Chamber Super Demon King Etna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13481,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Strange Girl and the Nightmare of Manjikai Exposition",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13482,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Strange Girl and the Nightmare of Manjikai Exposition (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13501,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Hanako the Demon",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13521,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Magic World SW Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13561,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13571,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of the Trial Chamber Saint Etna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13631,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Phantom Kingdom RPG2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13632,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Phantom Kingdom RPG2 (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13691,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Evil Valvolga",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13701,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Phantom Kingdom Collaboration 2nd Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13711,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Phantom Kingdom Collaboration Vol. 2 Special Battle EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13721,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13751,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "preneur quest",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13752,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Plenaire Quest (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13801,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Fuca XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13821,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "3rd Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13881,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Dark Shark Demon King Plenaire",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13931,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "3rd Anniversary Special Battle EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13961,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Evil Newborn Mao",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 13971,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14041,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "A Christmas full of black Santas",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14042,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Christmas with black Santas (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14051,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Santa Claus Japan!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14111,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial Chamber Tyrant Varvatose",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14121,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14131,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Which New Year's show!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14132,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Which New Year's show! (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14181,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Year-end and New Year's Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14191,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "shrine maiden melodia",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14211,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Attack!　The villainous witch and the legendary demon god!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14212,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Attack!　The villainous witch and the legendary demon god! (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14241,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Reprint The Witch and the Hundred Knight Collaboration Commemorative Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14261,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Metallica",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14291,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Soul Brave.",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14292,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Soul Brave (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14331,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Demon King Altina",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14351,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Commemorating the collaboration of Nippon Ichi Software and successive SRPGs, Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14361,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14381,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Zeta",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14421,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Decisive battle! XENO climax!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14422,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Decisive battle! XENO climax! (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14461,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Salvatore in prison fall",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14481,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of the Trial Chamber Saint Etna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14501,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Decisive battle! XENO Climax! Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14511,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14551,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Participation in the game! Makai Senki Disgaea 7",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14552,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Entry! Makai Senki Disgaea 7 (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14581,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "wisteria (esp. Japanese wisteria, Wisteria floribunda)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14601,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Makai Senki Disgaea 7 Collaboration Commemorative Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14611,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Evil Newborn Mao",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14641,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14651,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Otherworldly Martial Arts Battle! VR Fighters!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14652,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Otherworldly Martial Arts Battle! VR Fighters!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14701,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "3.5th Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14731,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Glimmering Actare",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14771,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle of the Mizunashi",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14781,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14801,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Superhero Asagi",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14841,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Maa tanteiki Disgaia - Scarlet Rice Balls",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14842,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Maa Tanteiki Disgaea - Scarlet Rice Balls - EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14871,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fallen Heaven, Deep Hell, and Freon",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14891,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Awakening Rosalind",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14911,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14951,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Magic Summer Oil Shock!　Swimsuit, Canazuchi, and Magic Sea Camp",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14952,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Magic Summer Oil Shock!　Swimsuit, Kanazuchi, and the Magic Sea Training Camp EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 14981,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Swimsuit Seraphine",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15001,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle of the Magical Summer",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15011,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Revisited! Kaientai!　Where are the missing little girls?",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15012,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Revisited! Kaientai!　Missing Young Girls EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15031,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial Chamber Swimsuit Saint Etna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15041,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15081,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "narcissus",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15121,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Disgaea 7 Collaboration Vol. 2 Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15131,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15141,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Sicily XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15181,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Rabbit! Moonlight! Beastly Night Rampage",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15182,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Rabbit! Otsukimi! Beastly Night Rampage EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15191,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Bunny Mövel.",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15241,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle of the Fifteen Nights",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15251,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Deadly Bu Night Halloween - Cosplay Army vs. Hunters for Money",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15252,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Deadly Bu Night Halloween - Cosplay Army vs. Hunters for Gold - EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15261,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Halloween Majolita",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15281,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Infinite Super Reincarnation Zetto",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15291,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15361,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial Battle, Rahal the Thunderbolt Emperor",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15371,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Halloween Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15381,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15451,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "4th Anniversary! The Demon Realm Collapses! Celestial Realm Senki Disgaea",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15452,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "4th Anniversary! The Demon Realm Collapses! Celestial Realm Senki Disgaea EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15491,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Archangel Plenaire",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15501,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial Chamber Female Executive Aetna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15511,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "4th Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15521,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15531,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "XENO mas ~Blood ties deeper than darkness",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15532,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "XENO mas ~Blood ties deeper than darkness~ EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15611,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Santa Mirai Usalia",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15621,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Adele the Disaster",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15631,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle on Holy Night",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15641,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15681,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "There it is!　New Year's Day, God-Dragon!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15682,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "You're out!　New Year's God Dragon EXTRA!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15701,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial, Rosalind the Ice Emperor in fine clothes",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15711,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "blue",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15751,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "New Year Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15761,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Soul Brave.",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15762,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Soul Brave (back side)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15771,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Demon King Altina",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15811,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special battle to commemorate the reprinting of NIS and past SRPG collaborations",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15821,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Angry Nocturnal Demons! Valentine's Day of Demons and Youth",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15822,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Angry Nocturnal Demons! Devil and Youth Valentine's Day EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15871,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15881,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Patissier Beryl",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15921,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial Chamber Super Demon King Etna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15931,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Valentine's Day Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15941,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15991,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The recurring diabolical witches and the great witches of the nocturnal party",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 15992,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Revisited Diabolical Witch and the Great Witches of the Night Party EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16031,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room, Magic King Style Metallica",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16041,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "netherria",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16051,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle of the Great Reflection Festival",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16061,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16111,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Gods of Yurudrasil - Angry Demons! Gods all over Grudge Spring Travel~!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16112,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Gods of YURUDRASIL - Angry Demons! Gods all over Grudge Spring Trip - EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16121,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "valkyrie",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16131,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Fuca XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16171,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "YuruDrasil Collaboration Commemorative Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16181,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16191,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Gekijo version \"Magical Girl Pure Purity☆\" - Two Pure Sissies",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16192,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Gekijoban \"Magical Girl Pure Purity☆\" - Two Pure Sissies - EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16241,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Egret Ghost",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16251,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Pliny Egret",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16301,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "4.5th Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16311,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16361,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Held!　Hell's Orchestra Concert!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16362,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Held!　Hell's Orchestra Concert EXTRA!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16391,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "DJ Desko",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16411,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Evil Newborn Mao",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16421,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Wailing Moon Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16431,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16441,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Bakugan!　Biwei Blood Cursing Rei Tournament!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16442,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Bakugan!　Beautiful Blood Cursing Tournament EXTRA!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16521,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Swimsuit Rasberil",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16551,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial Battle Swimsuit Fallen Angel Fron",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16561,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle of the Magical Summer",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16571,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16631,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Come on, Grudge Fountain Festival - Business without Honor and Humanity",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16632,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Come on, Grudge Festival - Business without Honor and Humanity - EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16641,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial Chamber Swimsuit Saint Etna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16681,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "ghost majolita (Caprimulgus macrorhita)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16721,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Hot Summer Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16731,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16771,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Demon world five phosphorus begins! The forbidden medal is targeted by ...... Demon King Zenon!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16772,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Demon world five phosphorus begins! The forbidden medal is targeted by ...... Demon King Zenon! EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16821,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Ougon Dancho Higan Zekkosai",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16831,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Rasberil XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16851,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Demon world Gorin Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16861,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16871,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Ghost of Sorrow Wants to Return - The Weakest Hunter Dreams of the Demon King",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16872,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Ghost of Sorrow Wants to Return - The Weakest Hunter Dreams of the Demon King - EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16881,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Li's Smart",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16941,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Infinite Super Reincarnation Zetto",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 16991,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Ghosts of Sorrow Want to Retire Collaboration Commemorative Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17011,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17021,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "New Demon King Breeder Decided! An overly rude 5th anniversary party!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17022,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "New Demon King Breeder Decided! Too Rude 5th Anniversary Party, EXTRA!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17061,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Courtesy Plenaire",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17071,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room, Rahal the Demon Angel.",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17111,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "5th Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17121,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17161,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Good boy vs. bad boy! The battle for presents on Holy Night",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17162,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Good Girl vs. Bad Girl! Holy Night Present Contest EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17181,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Santa Altina",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17221,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle on Holy Night",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17231,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial Chamber Female Executive Aetna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17251,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17261,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special New Year's Battles",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17311,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "If MOCHI \"snakes\" see you, it's the end of New Year's.",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17312,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "If MOCHI \"snakes\" see you, New Year's Day ends EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17341,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Sunday best (clothes)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17351,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Desco XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17381,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17441,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Slaughtered Spirits Destroyed! Valentine's Day of Demons and Youth 2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17442,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Slaughtered Spirits Destroyed! Devil and Youth Valentine's Day 2 EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17491,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Valentine's Day Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17501,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Uniform Lieselotta",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17511,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Rasberil XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17561,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17581,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial The strongest demon king of the primordial Kiria",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17621,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Zombie armies and binned heroes",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17622,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Zombie Legions and Binned Heroes EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17631,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "henna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17641,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Phantom Brave Collaboration Commemorative Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17661,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17701,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Idolize you!　Pure Purity★Audition",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17702,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Idolize You!　Pure Purity★Audition EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17741,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Pure Pure Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17751,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room, Rahal the Demon Angel.",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17761,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eurasian wryneck (species of bird, Jynx torquilla)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17801,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17851,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "XENO Blood Fight! ~Bonds of tyrants and scars of ephemerals",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17852,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "XENO Blood Fight! ~Bonds of Tyrants and Scars of Fleeting Children~ EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17861,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room, Fleeting You Varvatose",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17871,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "5.5th Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17901,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17921,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fleeting Kimi Altina XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17931,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Vicious Lord and the Oresy Demon King! ~ Is there an AI out there? ～The Lords of Evil and the Demon King!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17932,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Vicious Lord and the Oresy Demon King! ～Is there AI there? ～EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 17991,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "I am a vicious lord of an interstellar nation! Special Battle to Commemorate Collaboration",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18001,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Room of Trial, Rosalind the Ice Emperor in fine clothes",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18011,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Bride Sapphire",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18021,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer Palace of Etna Defense",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18051,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Unwanted Dark Sun - Burning Time☆Paradox",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18052,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Ikenai Dark Sun - Burning Time Paradox - EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18131,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Scorching Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20011,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Magical Holy Night (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20041,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Snow Melody Rice Cake Festival (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20061,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Metamorphosis of Green Bro (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20121,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Nether Beauty Pageant (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20151,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Ms. Raspberyl's Course on Chaos (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20211,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Magic Cutie Purity Party ☆ (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20261,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Cat Cafe Crisis (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20351,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fest-evil of Sport! (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20411,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer! Sea! Scary Seaside Resort Opening?!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20471,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Treasure Island! Treasure Hunting! (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20541,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Sparkle! Sardine Fireworks (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20661,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Zombie Panic Halloween (Reminiscence)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20731,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Gorgeous Memorial Party (Reminiscence)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20791,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Black Christmas of Fear (Reminiscence)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20821,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Absolute Target!　Omikuji Fox (Reminiscence)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20901,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "We're the stars of the show! A challenge from Disgaea 6! (Reminiscence)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 21101,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Finally settled! A challenge from Disgaea 6! (Reminiscence)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 21171,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fierce battle! XENO rush! (Reminiscence)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 21261,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trickling the Magic World! Love Lab's ♥ strategy to attract customers (Reminiscence)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 21321,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "A Disturbing Vacation! ~The Legend of the Mysterious Mariner and Guardian God~ (Reminiscence)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 21541,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Lady Aetna is furious! The \"summer resort for sale\" case (reminiscence)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18141,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Trial Room Pliny Egret",
+    "open_at": "",
+    "close_at": ""
+  }
+]

@@ -1,0 +1,1538 @@
+[
+  {
+    "id": 1,
+    "sort": 1,
+    "category": "DISGAEA RPG",
+    "title": "What is DISGAEA?",
+    "body": "DISGAEA RPG \nThe most challenging and fiercest RPG ever, depicting the exploits of various demons, Overlords, angels and humans, all taking place in a place called the \"Netherworld\".\n\nIn this game, players can immerse themselves in the entire DISGAEA series, a world where the values of good and evil are reversed, face a range of exciting challenges, and enjoy an entirely new story starring many classic DISGAEA characters.\n\nSpecial Thanks\nWe sincerely thank DJ Moore for his work as Localization Editor and general DISGAEA Expert.",
+    "platform": 0
+  },
+  {
+    "id": 2,
+    "sort": 2,
+    "category": "Characters",
+    "title": "Basics",
+    "body": "Immerse yourself in the world of DISGAEA, and become kingmaker to the next top Overlord!\n\nA range of unique characters from previous games in the DISGAEA series will join you in your quest as you train up your candidate for the role of strongest Overlord.\n\nThere are two types of characters for you to choose from, Humanoid and Monster. \nYou can recruit both types via summoning, then put them in your battle party to start training them.",
+    "platform": 0
+  },
+  {
+    "id": 3,
+    "sort": 3,
+    "category": "Characters",
+    "title": "Stats",
+    "body": "There are 8 basic character statuses, as shown below.\n\n - HP: The value that shows the character's stamina.\nIt goes down as you take damage in battle, and when it reaches 0, the character is defeated.\n\n - ATK: The value that shows your attack power for strikes.\nThe higher it is, the more damage your normal attacks or ATK Stat Skills will deal.\n\n - DEF: The value that shows your ability to withstand strikes.\nThe higher it is, the less ATK Stat damage you'll take.\n\n - INT: The value that shows your magical attack power.\nThe higher it is, the more damage you'll deal with INT Stat Skills.\n\n - RES: The value that shows your ability to withstand magical attacks.\nThe higher it is, the less INT Stat damage you'll take.\n\n - SPD: The value that shows how fast the character is.\nThe higher it is, the less time you'll have to wait before your turn comes around again.\n\n - CRT: The value that shows your critical hit rate.\nThe higher it is, the more likely you are to deal a critical hit.\n\n・CRD: The value that shows how much your damage is multiplied when you deal a critical hit.\nThe higher it is, the more damage you'll deal with critical hits.",
+    "platform": 0
+  },
+  {
+    "id": 4,
+    "sort": 4,
+    "category": "Characters",
+    "title": "Base Stats",
+    "body": "Base stats increase as the character levels up.\nBase stats include the following 5 stats:\n\n -HP\n -ATK\n -DEF\n -INT\n -RES",
+    "platform": 0
+  },
+  {
+    "id": 5,
+    "sort": 5,
+    "category": "Characters",
+    "title": "★ Number",
+    "body": "★ Number indicates the basic strength of a character.\nAny character can reach as high as 6★ via awakening.\nAnd depending on the number of ★, the character's class name will be changed accordingly.",
+    "platform": 0
+  },
+  {
+    "id": 6,
+    "sort": 6,
+    "category": "Characters",
+    "title": "Level",
+    "body": "Characters stats will increase as they level up.\nCharacters get new Unique Skills upon reaching certain levels.",
+    "platform": 0
+  },
+  {
+    "id": 7,
+    "sort": 7,
+    "category": "Characters",
+    "title": "Max Level",
+    "body": "There is a cap on each character's level.\nInitially, Max Level is Lv100.\nYou can \"Reincarnate\" a character who has reached their Max Level. \nEach Reincarnation adds 100 to that character's Level Cap.",
+    "platform": 0
+  },
+  {
+    "id": 8,
+    "sort": 8,
+    "category": "Characters",
+    "title": "Weapon Mastery",
+    "body": "Weapon Mastery indicates which types of weapon a character is better at using.\n \nWeapon Mastery has its own Current Level and Max Level.\n\nThe Max Level of Weapon Mastery can be increased with Mana, which is obtained by Reincarnating characters. \nThe Current Level can be increased by using that corresponding type of weapon in battle, or by consuming certain items.\n\nA higher Current WM Level means weapons of that type are more powerful when equipped by a character and used in battle.\n\nCharacters get new Weapon Skills upon reaching certain Weapon Mastery Levels.",
+    "platform": 0
+  },
+  {
+    "id": 9,
+    "sort": 9,
+    "category": "Characters",
+    "title": "Skills",
+    "body": "Each character may configure up to 4 skills.\nYour characters can use configured skills in battles.\nWhen a character has their weapon changed, current weapon skills will become unavailable.\nTherefore, after you change a character's weapon, please don't forget to remove the configured weapon skills.\nFor skills that cost HP, if a character uses such a skill at 1 HP, their HP will become 0 after the attack.",
+    "platform": 0
+  },
+  {
+    "id": 10,
+    "sort": 10,
+    "category": "Characters",
+    "title": "Skill Types",
+    "body": "There are 3 types of special Skills: \nUnique Skills, Weapon Skills and Spells, which are learned in different ways.\n \n ① Unique Skills \nLearned upon reaching certain Character Levels or after reaching certain Nether Enhancement stages.\n \n ② Weapon Skills \nLearned upon reaching certain Current Weapon Mastery Levels for that corresponding weapon.\n (Staff, Monster Physical and Monster Magic excluded). \nWeapon Skills are only usable when the corresponding weapon is equipped.\n \n ③ Spells \nLearned upon certain Current Weapon Mastery Levels (only Staff and Monster Magic).\n\nDifferent Spells are available to different characters.",
+    "platform": 0
+  },
+  {
+    "id": 11,
+    "sort": 11,
+    "category": "Characters",
+    "title": "Skill Level",
+    "body": "Skills have their own levels. \nEXP for Skills is obtained by winning battles with the corresponding moves set or by consuming certain items.\n \nSkills with higher levels cost less SP and are more effective.",
+    "platform": 0
+  },
+  {
+    "id": 12,
+    "sort": 12,
+    "category": "Characters",
+    "title": "Evility",
+    "body": "\"Evilities\"\nare powers with different effects in battle.\n\nEvilities include\n\"Main Evilities\"\nthat a character possesses initially\nand \"Sub Evilities\"\n that can be acquired via N.E.\n\nAll party members\nand companions'\nevilities will have an effect in battle.\n\n※When there are multiple evilities that\nalter attacks based on specific stats,\nonly one will be used\nbased on the characters' party order\n(characters on the right\nwill have their evilities prioritized)\n※If a character will be defeated\nwhen using evility that takes damage for other characters (shield),\nthe evility will not trigger.\nEven in \"Evility Sealed\" status,\nEXP,HL, and treasure chest drop rate effects\nwill not be affected by \"seal\".\n※\"Received certain buff\"\nwill take effect\nonly when the target character receives a buff icon.\nEvilities with effects like\n\"if HP is full when a turn begins\"\nand \"if HP is not full when a turn begins\"\nwill trigger based on the character's\nHP at the start of the turn.\nIn addition, the damage by ailing status < Poison > \nwill be determined after evilities like\n\"if HP is full when a turn begins\"\nand\n\"if HP is not full when a turn begins\"\nhas taken effect.",
+    "platform": 0
+  },
+  {
+    "id": 13,
+    "sort": 13,
+    "category": "Characters",
+    "title": "Cheat Rank",
+    "body": "Cheat Rank increases the basic stats of a character.\nIt's applicable for each stat respectively. \nYou get Mana by Reincarnating in Mao's Lab, then apply it in \"Ability Cheat\" to increase your Cheat Rank.",
+    "platform": 0
+  },
+  {
+    "id": 14,
+    "sort": 14,
+    "category": "Characters",
+    "title": "Mana",
+    "body": "You get Mana by Reincarnating Characters.\nIn Mao's Lab, the Mana you get can be allocated via \"Allocate Mana\" to grant a character \"Ability Cheats\" (to increase certain Stats) or increase their WM Level Cap. \nYou can spend Mana however you like \nto make your characters stronger.",
+    "platform": 0
+  },
+  {
+    "id": 15,
+    "sort": 15,
+    "category": "Characters",
+    "title": "Resistance",
+    "body": "Resistance reduces damage taken by the 4 elements of each skill in battle.\n0 is the baseline. \nA positive number means the character is resistant to an element. \nThe higher the number, the less damage taken from an element.\nA negative number means the character is vulnerable to an element. \nThe lower the number, the more damage taken from an element.",
+    "platform": 0
+  },
+  {
+    "id": 16,
+    "sort": 16,
+    "category": "Characters",
+    "title": "status ailment resistance",
+    "body": "This status indicates the character's resistance to abnormal conditions. The higher the resistance, the less likely the character is to be affected by the abnormal condition, and at 100%, the abnormal condition will be nullified.",
+    "platform": 0
+  },
+  {
+    "id": 17,
+    "sort": 17,
+    "category": "Characters",
+    "title": "Weapon Forte",
+    "body": "Each Character has one Weapon Forte, which means a higher starting WM Level Cap for this type of weapon than for the others.",
+    "platform": 0
+  },
+  {
+    "id": 18,
+    "sort": 18,
+    "category": "Characters",
+    "title": "Potential Type",
+    "body": "Potential Type is also a character stat.\n\nEach character belongs to one of the six potential types:\nKing, Pawn, Rook, Knight, Bishop, and Queen.\n\nWhen a character levels up, they gain bonus effects based on their potential type.",
+    "platform": 0
+  },
+  {
+    "id": 19,
+    "sort": 19,
+    "category": "Netherworld Memories",
+    "title": "Netherworld Memories",
+    "body": "Netherworld Memories are based on memorable scenes from the original games.\n\n- You can view dedicated stories linked to these scenes\n - Assembling your party can give you special effects such as status boosts.\n - Using Memory Enhancement Pieces, you can strengthen Netherworld Memories.\n - Enhancing memories will increase their special effects and can unlock new effects and new stories to view\n\n*You can only obtain one of each Netherworld Memory\n*If you obtain duplicates, they will be converted into \nMemory Enhancement Pieces.",
+    "platform": 0
+  },
+  {
+    "id": 20,
+    "sort": 20,
+    "category": "Equipment",
+    "title": "Basics",
+    "body": "Just like characters, equipment also has stats that can be raised and then added to a character while it's equipped.\n\nThere are 2 types of equipment: Weapon and Armor. \nAside from purchasing items from the Shop, they can also be obtained in the Item World or earned as various kinds of rewards.\n\nThere are a few factors that affect the strength of equipment: \nLevel, Rarity, Rank and Innocents.\n\nYou can check the rank of a piece of equipment upon purchase or via the Item World. \nThe higher the rank, the better the equipment.",
+    "platform": 0
+  },
+  {
+    "id": 21,
+    "sort": 21,
+    "category": "Equipment",
+    "title": "Equipment Rarity",
+    "body": "Equipment rarity comes in a scale of 0 to 100.\nThe higher the rarity, the higher the stats,\nas well as the number of Innocents and POP.\n\nIn addition, based on the rarity,\n equipment comes in 3 qualities.\n\n< COMMON >\nRarity 0~39\n\n< RARE >\nRarity 40~69\n\n< LEGEND >\nRarity 70~100",
+    "platform": 0
+  },
+  {
+    "id": 22,
+    "sort": 22,
+    "category": "Equipment",
+    "title": "Equipment Level",
+    "body": "Equipment has levels. The higher the level the higher the stats are.\nYou can level up an equipment\nby challenging the Item World.\n\nThe Max level of an equipment varies according to its quality\ninto the following.\n\n< COMMON >\nMax Level 50\n\n< RARE >\nMax Level 100\n\n< LEGEND >n Max Level 180",
+    "platform": 0
+  },
+  {
+    "id": 23,
+    "sort": 23,
+    "category": "Equipment",
+    "title": "Exclusive Weapons",
+    "body": "Some weapons can only be equipped by certain characters.\nExclusive weapons have unique, powerful effects.\n\nExclusive weapons can be upgraded in the Item World, just like ordinary ones.",
+    "platform": 0
+  },
+  {
+    "id": 24,
+    "sort": 24,
+    "category": "Equipment",
+    "title": "Innocents",
+    "body": "\"Innocents\" are inhabitants in an equipment.\nInnocents have\neffects such as < ◯◯ Boost > .\n\"Subduing\" an innocent in Item World\nwill have the respective effect.\n\n< HP Boost·ATK Boost·INT Boost·\nDEF Boost·RES Boost·SPD Boost·\nHP Amplifier·ATK Amplifier·DEF Amplifier·\nINT Amplifier·RES Amplifier >\n-> affect the stats of the inhabited equipment.\n\n< EXP Boost,HL Boost·Weapon Enhancer·\nSkill Enhancer >\n->affect the character of the\ninhabited equipment's battle prowess.\n\nThere are also special Innocents that can only be acquired\nfrom events.",
+    "platform": 0
+  },
+  {
+    "id": 25,
+    "sort": 25,
+    "category": "Equipment",
+    "title": "Unique Innocents",
+    "body": "Unique Innocents have unique effects.\n\nUnique Innocents cannot be obtained by purchasing equipment in the shop.\nUnique Innocents can be obtained from events and other channels.",
+    "platform": 0
+  },
+  {
+    "id": 26,
+    "sort": 26,
+    "category": "Equipment",
+    "title": "Innocent Rarity",
+    "body": "There are 3 rarities for Innocents. \nLEGEND > RARE > COMMON \nThe rarer the Innocent is, the better it will be.",
+    "platform": 0
+  },
+  {
+    "id": 27,
+    "sort": 27,
+    "category": "Equipment",
+    "title": "POP (Max Innocent Number)",
+    "body": "An equipment's POP\nindicates the maximum number of innocent\nthat can inhabit the equipment.\nThe number is shown along with the current number of innocents\nas follows.\n\n< Example >\nPOP 6 / 10\n (Current inhabiting Innocent / Maximum number of Innocent)",
+    "platform": 0
+  },
+  {
+    "id": 28,
+    "sort": 28,
+    "category": "Equipment",
+    "title": "Innocent Transfer",
+    "body": "Innocents subdued in the Item World can be removed and applied in \"Innocent Transfer\".\nIt's free to remove an Innocent for the first time, but it costs HL to do so again in the future.\nThe higher the Rarity of the Innocent, the higher the cost to remove them.",
+    "platform": 0
+  },
+  {
+    "id": 29,
+    "sort": 29,
+    "category": "Battle",
+    "title": "Basics",
+    "body": "It's turn-based manual combat with a team of up to 5 members.\nYou win the battle by defeating all enemy waves, and lose the battle if all your members are defeated.\n\nCombatants, friendly or enemy alike, act one by one according to the order shown in the Action Gauge.",
+    "platform": 0
+  },
+  {
+    "id": 30,
+    "sort": 30,
+    "category": "Battle",
+    "title": "SP",
+    "body": "SP are the points required for characters to use their Skills in battle.\nThe SP cost differs for each Skill.",
+    "platform": 0
+  },
+  {
+    "id": 31,
+    "sort": 31,
+    "category": "Battle",
+    "title": "Skills",
+    "body": "Each character can be assigned with a maximum of\n4 skills.\nUsing skills in battle costs SP.\n\nEffects of skills vary\nfrom dealing damage to enemies to restoring allies' HP.\nThere are also skills with the following 4 ailing status.\n\n< Poison >\nReceive up to HP 10% damage\nfor a number of turns.\nPoison status is not lethal,\n HP will not deplete below 1 from Poison.\n\n< Sleep >\nUnable to take action for a number of turns\nand will break from the status when attacked by an enemy.\nCharacters in sleep status won't be able to take action even when it is their turn.\n\n< Paralysis >\nUnable to take action for a number of turns.\nCharacters in paralysis status won't be able to take action even when it is their turn.\n\n< Forget >\nUnable to use skills for a number of turns.",
+    "platform": 0
+  },
+  {
+    "id": 32,
+    "sort": 32,
+    "category": "Battle",
+    "title": "Killing EXP",
+    "body": "Delivering the killing blow grants a Kill Bonus, which provides more EXP than usual.",
+    "platform": 0
+  },
+  {
+    "id": 33,
+    "sort": 33,
+    "category": "Battle",
+    "title": "Lifting",
+    "body": "\"Lift\" is a move to lift allies\nto use a Tower Attack.\nThe character responsible to lift\nwill not be able to use skills,\nonly \"Throw\"\nor \"Tower Attack\" will be available.\nThe attack power increases with stronger characters\nand more characters lifted.\n\"Throw\" deals damage to enemy,\nand removes Tower status at the same time.\n\nIn addition, lifted character cannot take action\nnor will they be attacked.\nThrowing and using Tower Attack\nwill earn SP and Killing EXP.\n\n< Throwing a Prinny >\n will only deal massive damage to enemies\nwhen lifting and throwing a \"Prinny\".\nBut the Prinny thrown\nwill be defeated in the explosion.",
+    "platform": 0
+  },
+  {
+    "id": 34,
+    "sort": 34,
+    "category": "Battle",
+    "title": "Stats Up/Down",
+    "body": "During battle, various statuses may be UP/DOWN due to the effects of special moves, etc. The upper and lower limits of status UP/DOWN are as follows. \n\n▼ATK、DEF、INT、RES、SPD\nUpper Limit→　+500%ま\nLower limit　→　-80%\n\n▼CRD\nUpper Limit　→　+400%\nLower limit →　-80%\n\n▼CRT\nUpper limit → +100%\nStatus DOWN lower limit → up to -50%\n\n▼DAMAGE UP/DOWN\nDAMAGE UP upper limit → up to +300%\nDAMAGE DOWN lower limit → up to -80%\n\n※Status UP/DOWN includes status change by\nMagicality and\nSpecial Moves status changes due to special moves.",
+    "platform": 0
+  },
+  {
+    "id": 35,
+    "sort": 35,
+    "category": "Battle",
+    "title": "About Buffs and Debuffs",
+    "body": "Buffs and Debuffs as described in the game are those that fall under the definition of \n \nAn effect on ATK/DEF/INT/RES/SPD/CRT/CRD,\nAn effect that has a turn limit (n turns) and extinguishes,\nAn effect that fits this definition is indicated by an \n effect icon on the character icons during battle.",
+    "platform": 0
+  },
+  {
+    "id": 36,
+    "sort": 36,
+    "category": "Battle",
+    "title": "Special Moves/Evilities Effects",
+    "body": "During battle, the remaining turns on buffs and debuffs ticks down \nfor ATK, INT, CRT and CRD at the end of your turn, and for DEF, RES and SPD immediately before the start of your turn.\nIf a DEF, RES or SPD buff/debuff \nis applied before the start of your turn, the time between gaining the buff/debuff and the start of your turn counts as one turn for timing purposes.\n\nDamage Up and Damage Down effective turns will tick down as follows:\nDamage Up: the end of your turn\nDamage Down: immediately before the start of your turn\nIf a Damage Down effect is applied before the start of your turn, the time between gaining the effect and the start of your turn counts as one turn for timing purposes.\n\nThe following examples show how Evilities that activate on receiving a specific buff relate to the remaining turns.\n\n(Example)\n① At the beginning of Archangel Flonne's turn, her Sub Evility, Flonne's Charity (At the beginning of the turn, +30% to all non-HP basic stats and SPD\nto the allied character with the highest ATK.)\nactivates and gives a SPD buff (1 turn) to Thunderlord Laharl.\n② Thanks to the SPD buff effect from ①, Thunderlord Laharl moves up the timeline faster.\n③ Immediately before Thunderlord Laharl's turn begins, the SPD buff effect given in ① runs out.\n④ Because the SPD buff effect ran out in ③, Thunderlord Laharl's Sub Evility, Lightning's Blessing (At the beginning of the turn, if you are under the effect of a SPD buff, ATK + 60% (1 turn))\ndoes not activate as its conditions are not met.",
+    "platform": 0
+  },
+  {
+    "id": 37,
+    "sort": 37,
+    "category": "Battle",
+    "title": "Special Move Buff/Debuff Turn Extension",
+    "body": "In battle, turn extension timing for Special Move buffs and debuffs takes effect after the remaining turns counter ticks down at the end of a turn for ATK, INT, CRT and CRD.\n\n(Example)\nWhen extension effects activate:\n① Petta is currently under the effects of an INT buff with 2 turns remaining.\nShe uses Petta Beam, which has the effect \"Buff Turn Extension +1.\"\n② At the end of Petta's turn in ①, the INT buff's remaining turn counter decreases by 1, from 2 down to 1 turn remaining.\n③ The \"Buff Turn Extension +1\" effect from ① activates, extending the buff from 1 turn to 2 turns.\nWhen extension effects don't activate:\n① Petta is currently under the effects of an INT buff with 1 turn remaining.\nShe uses Petta Beam, which has the effect \"Buff Turn Extension +1.\"\n② At the end of Petta's turn in ①, the INT buff's remaining turn counter decreases by 1, from 1 down to 0 turns remaining.\nThe buff effect is lost.\n③ The \"Buff Turn Extension +1\" effect from ① activates, but the buff was lost in ②, so the extension does not take effect.",
+    "platform": 0
+  },
+  {
+    "id": 38,
+    "sort": 38,
+    "category": "Battle",
+    "title": "効果の分類とアイコンについて",
+    "body": "バトル中に表記されるアイコンとその効果は\n以下のように分類されます。\n\nバフ・デバフ\nバフ・デバフに分類される効果は\n青と赤のアイコンが表示されます。\n・ATK\n・DEF\n・INT\n・RES\n・SPD\n・CRT\n・CRD\n\nダメージアップ / ダメージダウン\nダメージアップとダメージダウンに\n含まれる効果は紫のアイコンが表示されます。\n紫のアイコンはダメージアップ、ダメージダウン、\n特殊効果を示しますが、その中でも\n表示されるアイコンに以下の記載があるものが\nダメージアップとダメージダウンに分類されます。\n・全ダメージ\n・通常攻撃ダメージ\n・単体攻撃ダメージ\n・全体攻撃ダメージ\n・必殺技ダメージ\n・属性ダメージ\n・炎属性ダメージ\n・水属性ダメージ\n・風属性ダメージ\n・星属性ダメージ\n\n特殊効果\n紫のアイコンが表示され、\nダメージアップ、ダメージダウンに\n含まれない効果は「特殊効果」に分類されます。",
+    "platform": 0
+  },
+  {
+    "id": 39,
+    "sort": 39,
+    "category": "Battle",
+    "title": "Debuff Conversion",
+    "body": "The effects of Evilities with \"Gives XX debuff conversion\"\nwork as follows.\n\nExample: ATK Debuff Conversion\nWhen an ATK Debuff effect is applied to the character in question, it is nullified and converted to an ATK Buff effect.\n\nWhich debuff/buff effects are converted depends on the Evility.",
+    "platform": 0
+  },
+  {
+    "id": 40,
+    "sort": 40,
+    "category": "Battle",
+    "title": "SP Auto-Recovery",
+    "body": "Characters given the SP Auto-Recovery effect will gain SP at the beginning of their turn.\nThe maximum amount of SP Auto-Recovery is 30.\nThis figure only applies to SP Auto-Recovery, and does not include SP gained normally at the beginning of a turn, or through other Evilities or skills.",
+    "platform": 0
+  },
+  {
+    "id": 41,
+    "sort": 41,
+    "category": "Battle",
+    "title": "迎撃について",
+    "body": "迎撃の効果発動中は、\n攻撃を受けた際のダメージが半減され、\n対象の敵に攻撃を与えます。\n※ダメージを受けた後、自身が\n　行動不可能な状態（睡眠、麻痺）の場合、\n　敵に対して攻撃を行いません\n※自身が迎撃状態の時、敵に迎撃された場合、\n　被ダメージは半減しますが、\n　敵に対して攻撃を行いません\n※迎撃によるダメージはクリティカルが\n　発生しません",
+    "platform": 0
+  },
+  {
+    "id": 42,
+    "sort": 42,
+    "category": "Battle",
+    "title": "連撃について",
+    "body": "連撃とは必殺技のダメージ発生後に、\n[ ]内の回数のうちランダムな回数、\n追加ダメージが発生する効果です。\n※連撃は「必殺技で与えるダメージ」の\n　効果は受けません",
+    "platform": 0
+  },
+  {
+    "id": 43,
+    "sort": 43,
+    "category": "Battle",
+    "title": "状態異常について",
+    "body": "必殺技等を使用することで、\n対象に状態異常を発生させることができます。\n発生確率はいずれも100％で、\n対象キャラの状態異常耐性率等により\n成否が決まります。\n\n状態異常には有効ターン数が存在し、\nそのターン数が経過すると自然回復します。\n状態異常を与える時、\nその行動のメインの目的が\n対象に状態異常を与える事かどうかにより、\n成功した時の有効ターン数が異なります。\n・メインの場合…4ターン\n・サブの場合…2ターン\n\n基本の状態以上は以下の4種類です。\n・毒…ターン開始時、最大HPの25％の\n　　　ダメージを受ける。\n　　　毒によるダメージでは\n　　　戦闘不能にならない。\n\n・睡眠…ターン開始時、行動不能。\n　　　　ターン経過の他、攻撃を受けると\n　　　　解除される。\n\n・麻痺…ターン開始時、50%の確率で\n　　　　行動不能。\n\n・ど忘れ…必殺技使用不可\n\n※敵が行う状態異常付与には\n　例外が存在します。",
+    "platform": 0
+  },
+  {
+    "id": 44,
+    "sort": 44,
+    "category": "Battle",
+    "title": "茨について",
+    "body": "茨とは一定確率で付与することが\nできる効果です。\n茨を付与されているキャラはターン開始時に\n自身の最大HPの15%のダメージを受けます。\n状態異常回復やデバフ効果解除系の効果で\n茨を解除することはできません。\nこのダメージによってHPが0になった場合、\nそのキャラは戦闘不能となります。\nレイドや試闘の間のボスキャラと\n魔王の巨塔の全ての敵キャラには\n茨が付与できませんのでご注意ください。",
+    "platform": 0
+  },
+  {
+    "id": 45,
+    "sort": 45,
+    "category": "Battle",
+    "title": "Battle Settings",
+    "body": "< AUTO (Auto Battle) >\nSetting AUTO on will allow the battle to carry out automatically.\n\n< Using x1/ x2/ x4 (Times Speed) > \ncan change the speed of battle.\n\nYou can also use the menu in battle to change to Power-save Mode\nChanging volume settings and other speed settings to ON\nwill retain the sound speed\nto \"x1\"\nregardless of the speed of battle.\n\nActivating skip watched skill effect\nwill skip effects you have already seen.\nNew skill effects will still play.",
+    "platform": 0
+  },
+  {
+    "id": 46,
+    "sort": 46,
+    "category": "Battle",
+    "title": "Auto-Battle",
+    "body": "Auto-Battle works as follows.\n\n - If you have a usable Special Move, it will be used.\n - If any allies have low health, the game will prioritize using healing skills.\n - If there are multiple enemies, the game will prioritize using group attacks.\n - The game will not use skills that only apply buffs/debuffs.\n- The game will follow the order of Special Moves in the setup screen to determine the priority of using them.\n\n(Example)\nThere are multiple enemies, you have 30 SP.\nSkill 1 is a single-unit attack for 15 SP, \nSkill 2 is a group attack for 20 SP, and Skill 3 is a group attack for 30 SP.\n→ Skill 2 used",
+    "platform": 0
+  },
+  {
+    "id": 47,
+    "sort": 47,
+    "category": "Battle",
+    "title": "Items Exceeding Inventory Limits",
+    "body": "Some items will be deleted if they drop in battle and you already have the maximum.\n\nApplicable Items:\n - HL\n - Reincarnation materials\n - Weapon statues\n - Skill Books\n - DG Skip Tickets\n*If these items are obtained outside of battle they will be sent to your Gift Box.\n*Items obtained from defeating a Raid Boss will not be deleted, and will be sent to your Gift Box.",
+    "platform": 0
+  },
+  {
+    "id": 48,
+    "sort": 48,
+    "category": "Summoning",
+    "title": "Basics",
+    "body": "You can get new characters by summoning with \"Nether Quartz\" or \"Tickets\".\nPlease check the summon details for the list of characters available and their drop rates.",
+    "platform": 0
+  },
+  {
+    "id": 49,
+    "sort": 49,
+    "category": "Friends",
+    "title": "Basics",
+    "body": "After becoming friends with other players, you may send a sardine (AP) to your friends once each day.\nIn addition, when you select companions, your friends' characters will be displayed first.\nTo become friends with another player, you will need to send a friend request and wait for their approval.\nWhen you select a friend's character as your companion, your friend will receive a sum of HL.\n※This does not work for battles using DG Skip Coupons.",
+    "platform": 0
+  },
+  {
+    "id": 50,
+    "sort": 50,
+    "category": "Friends",
+    "title": "Friend Application",
+    "body": "You can send friend requests in Friend Search,\nor send them to companions in the result page.\n\n< If their friend setting is \"anyone\" >\nyou will be friends immediately after sending the request.\n\n< If their friend setting is \"needs verification\" >\nthey will need them to accept or reject your request in \"Friends > Pending\".\n\nIn addition, you can change your verification settings in \n> \"MENU > Settings\"",
+    "platform": 0
+  },
+  {
+    "id": 51,
+    "sort": 51,
+    "category": "Friends",
+    "title": "Sending Sardines",
+    "body": "You can send a sardine to your friends once each day.\nSardines are reset daily at 00:00.\n\nPlayers who receive sardines from friends will have their AP slightly restored.\n\nSardines sent to friends one day earlier, can still be accepted by recipients the next day.\n※Sardines sent before the previous day will be put into the Gift Box.\n※ Claiming sardines from the Gift Box does not contribute to mission progress.",
+    "platform": 0
+  },
+  {
+    "id": 52,
+    "sort": 52,
+    "category": "Party Menu",
+    "title": "Party",
+    "body": "You can set up the members of your party. \n\nIf a party member's Evilities and Sub Evilities can be applied to the whole party, their effects will be shown on all party members. \n\nYou can slide left and right to switch between parties. \nYou can rename a party by tapping the icon on the right of the party's name.",
+    "platform": 0
+  },
+  {
+    "id": 53,
+    "sort": 53,
+    "category": "Party Menu",
+    "title": "Character List",
+    "body": "This screen displays all of your owned characters.\n\nTap a character to check their details.\n\nTap the \"Dismiss\" button at the top left to enter the character dismissal (selling) screen.",
+    "platform": 0
+  },
+  {
+    "id": 54,
+    "sort": 54,
+    "category": "Party Menu",
+    "title": "Equipment List",
+    "body": "A list to show all the equipment you own. \n\nYou can tap on a piece of equipment to check details. \nYou can Transfer Innocents via Details.",
+    "platform": 0
+  },
+  {
+    "id": 55,
+    "sort": 55,
+    "category": "Party Menu",
+    "title": "Innocent List",
+    "body": "A list to show all the Innocents you own. \n\nUnsubdued Innocents will appear as a question mark. \n\nInnocents that have been transferred to other equipment after being subdued will be locked and require HL to unlock. \n\nYou can demote Innocents and get HL by using \"Innocent Demotion\" in the warehouse.",
+    "platform": 0
+  },
+  {
+    "id": 56,
+    "sort": 56,
+    "category": "Battle (Dimension Gate)",
+    "title": "Basics",
+    "body": "Battle (Dimension Gate) is the entrance to all battles.\n \n You can access gameplay such as the Main Story and Netherworld History by tapping Battle (Dimension Gate).",
+    "platform": 0
+  },
+  {
+    "id": 57,
+    "sort": 57,
+    "category": "Main Story",
+    "title": "Basics",
+    "body": "DISGAEA RPG's original story mode. \n\nThere are two parts to it: \nStory and Quests. \nIt costs AP to battle in Quests.",
+    "platform": 0
+  },
+  {
+    "id": 58,
+    "sort": 58,
+    "category": "Main Story",
+    "title": "Difficulties",
+    "body": "Main Story mode has three difficulty levels:\nEasy, Normal, and Hard.\n\nComplete EP 1 in Easy mode to unlock EP 1 in Normal mode.\nComplete EP 7 in Easy mode to unlock EP 1 in Hard mode.\nNow you know how to unlock EP 1 in each difficulty level.",
+    "platform": 0
+  },
+  {
+    "id": 59,
+    "sort": 59,
+    "category": "Main Story",
+    "title": "Carnage Mode",
+    "body": "By fulfilling certain requirements, you may unlock the extremely difficult \"Carnage Mode\" in the Main Story.\nThe same as Ordinary Mode, Carnage mode also has three difficulty levels:\nEasy, Normal, and Hard.",
+    "platform": 0
+  },
+  {
+    "id": 60,
+    "sort": 60,
+    "category": "Main Story",
+    "title": "Companions",
+    "body": "One Companion unit can be selected before every battle.\n\nThe Companion can be swapped in at any time during your turn. \n\nThe Evility and Sub Evilities of the Companion are in full effect from the start of battle.\n\nThe Companions and their stats available are limited to certain characters and thresholds in certain Quests.",
+    "platform": 0
+  },
+  {
+    "id": 61,
+    "sort": 61,
+    "category": "Main Story",
+    "title": "Quest Missions",
+    "body": "Each Quest has 3 special Missions. \n\nYou'll get a one-time reward by completing all the missions.",
+    "platform": 0
+  },
+  {
+    "id": 62,
+    "sort": 62,
+    "category": "Netherworld History",
+    "title": "Basics",
+    "body": "Netherworld History allows you to relive the classic stories of the previous Disgaea installments.\n\nThere are two modes in Netherworld History:\nStory and Challenge Mode.\nChallenging stages costs AP.",
+    "platform": 0
+  },
+  {
+    "id": 63,
+    "sort": 63,
+    "category": "Dark Gates",
+    "title": "Basics",
+    "body": "暗黒ゲートは\n・EXPザクザクゲート\n・HLザクザクゲート \n・人型転生素材ゲート\n・魔物型転生素材ゲート\nの4つがあります。\n\nゲートごとに\n1日に挑戦できる回数が決まっており\n挑戦回数は毎日0時にリセットされます。\n\n挑戦回数はゲートの鍵を利用する事で\n追加する事ができます。\n\nまた、ステージミッションを\n全てクリアしているステージでは、\n暗黒ゲートスキップ券を消費することで、\nバトルをスキップすることができます。",
+    "platform": 0
+  },
+  {
+    "id": 64,
+    "sort": 64,
+    "category": "深淵ゲートについて",
+    "title": "Basics",
+    "body": "暗黒ゲートの上位版として\n深淵ゲートが存在し、\n・EXPがっぽりゲート\n・HLがっぽりゲート \n・神像がっぽりゲート\n・武器熟練度がっぽりゲート\n・技EXPがっぽりゲート\nの5つがあります。\n\n挑戦するためには\n深淵ゲートの鍵が必要です。\n\nまた、ステージミッションを\n全てクリアしているステージでは、\n暗黒ゲートスキップ券を消費することで、\nバトルをスキップすることができます。",
+    "platform": 0
+  },
+  {
+    "id": 65,
+    "sort": 65,
+    "category": "Item World",
+    "title": "Basics",
+    "body": "アイテム界は\n全ての装備品にそれぞれ存在する\n専用のステージです。\n\nアイテム界を1階クリアするたびに\n該当装備品のステータスが強化されます。\n\nまた、道中で出会ったイノセントを\n服従させることで\n更にアイテムの強化ができます。\n\n<アイテム界・修羅>\n「焼き直し」機能により\nアイテムランクが41以上となった\n装備品のアイテム界は\n「アイテム界・修羅」となります。\n「アイテム界・修羅」では\n通常のアイテム界とは比べ物にならないほど\n強力な敵が出現します。\n\n<オート周回>\nアイテム界でバトル中に\n左上に表示されるボタンをonにすると\nバトルリザルトで自動的に\n「次の階層に進む」ことができます。",
+    "platform": 0
+  },
+  {
+    "id": 66,
+    "sort": 66,
+    "category": "Item World",
+    "title": "Item World Levels",
+    "body": "The number of levels in the Item World\nvaries with the equipment rarity.\n\n< COMMON >\n30 levels\n< RARE>\n60 levels\n< LEGEND >\n100 levels",
+    "platform": 0
+  },
+  {
+    "id": 67,
+    "sort": 67,
+    "category": "Item World",
+    "title": "Subduing Innocents",
+    "body": "You can meet Innocents inhabiting the equipment\nin Item World.\n\nThe following commands are available\nafter encountering an Innocent.\n< Bribe >\n< Subdue >\n\n< Bribe >\nBribing Innocent\nIncreases affinity.\nIncreasing affinity\nwill also increase the success rate\nof Subdue.\n\n< Subdue >\nallows the Innocent to be subdued to you.\n The higher the affinity it has, the higher the success rate.\n\nAfter successfully subduing an Innocent,\nits effect will\nstack to the equipment.\nIn addition, you can transfer inhabiting Innocents\nto other equipment\nvia the Equipment List.\n\nIf you fail to subdue an Innocent,\nit will take one of the following actions.\nEscape or increase affinity.\nAn escaped Innocent\nwill no longer exist in the equipment.\nIf its affinity increases,\nyou can select \"Subdue\" again\nand try to subdue it.",
+    "platform": 0
+  },
+  {
+    "id": 68,
+    "sort": 68,
+    "category": "Item World",
+    "title": "Bosses",
+    "body": "The following Bosses will appear in\nspecific levels in Item World.\n\n003c Item General >\nAppears every 10 levels\nAfter defeating it, equipment will level up 5 to 6 levels\n< Item King >\nAppears every 30 levels\nAfter defeating it, equipment will level up 11 levels\n< Item God >\nAppears every 100 levels\nAfter defeating it, equipment will level up 21 levels\n※When multiple Boss conditions are met, more powerful Bosses will appear\n\nIn addition, after defeating the Boss,\n there is a chance to acquire\nequipment 1 level higher than the current equipment.",
+    "platform": 0
+  },
+  {
+    "id": 69,
+    "sort": 69,
+    "category": "Overlord's Tower",
+    "title": "Basics",
+    "body": "Available after clearing the Main Story EP 7 EASY.\n\nYour aim is to advance in the Overlord's Tower to the top level.\n\nMore levels are added periodically. \n※ All rewards are one-off rewards, only issued when clearing a level for the first time. \n\nCompanions are not allowed in the Overlord's Tower.",
+    "platform": 0
+  },
+  {
+    "id": 70,
+    "sort": 70,
+    "category": "Ultimate Demon Ritual",
+    "title": "Basics",
+    "body": "You may challenge the Ultimate Demon Ritual after completing the main story EP 7 in Hard mode.\n\nIn Ultimate Demon Ritual, you may unlock your characters' potential abilities by meeting certain requirements.\n\nCompanions are not allowed in Ultimate Demon Ritual battles.",
+    "platform": 0
+  },
+  {
+    "id": 71,
+    "sort": 71,
+    "category": "Ultimate Demon Ritual",
+    "title": "Potential Abilities",
+    "body": "Each character has 10 tiers of potential abilities.\nWhen their potential abilities are unlocked,\nthey may gain the following effects.\n\nIncrease SPD\nIncrease SP when a battle starts\nUnique skills deal more damage\nUnique skills have improved effects\nUnique skills cost less SP\nIncrease base stats\nIncrease HP\nIncrease ATK\nIncrease INT\nIncrease DEF\nIncrease RES",
+    "platform": 0
+  },
+  {
+    "id": 72,
+    "sort": 72,
+    "category": "Ultimate Demon Ritual",
+    "title": "Potential Type Scrolls",
+    "body": "Potential Type Scrolls are items essential to unlocking potential abilities in Ultimate Demon Ritual.\n\nCharacters of different potential types require different scrolls.\nScrolls can be used to upgrade potential types.\nYou can get scrolls via the \"Mission\" tag at the left of the stronghold screen.",
+    "platform": 0
+  },
+  {
+    "id": 73,
+    "sort": 73,
+    "category": "Most Badass ○○ Contest",
+    "title": "Basics",
+    "body": "The Most Badass ○○ Contest will become available after you clear EP 10 of the Main Story on Easy Mode.\n\nIn the Most Badass ○○ Contest, you can challenge stages exclusive to certain characters.\n\nOnly the challengers may participate in the Most Badass ○○ Contest.\nClear stages to get rewards.\nIn addition, you can also compete against other players on the character leaderboards.",
+    "platform": 0
+  },
+  {
+    "id": 74,
+    "sort": 74,
+    "category": "Most Badass ○○ Contest",
+    "title": "Helpers",
+    "body": "You can set helpers for challengers in the Most Badass ○○ Contest.\n\nYour helpers can provide Evility effects for challengers and raise their base stats.\n\n※ You cannot assign characters of the same name as helpers.\n※ The max number of helpers is determined by the challenger's Nether Enhancement level.",
+    "platform": 0
+  },
+  {
+    "id": 75,
+    "sort": 75,
+    "category": "Most Badass ○○ Contest",
+    "title": "Character Badges",
+    "body": "Whenever a challenger reaches the 500F in the Most Badass ○○ Contest, you will receive that character's badge.\nIf you clear more stages after the 500F, the appearance of the badge will change.",
+    "platform": 0
+  },
+  {
+    "id": 76,
+    "sort": 76,
+    "category": "Most Badass ○○ Contest",
+    "title": "Special Rules",
+    "body": "There are a number of special rules in the Most Badass ○○ Contest.\nFor further details, please refer to \"Rules\" in the Most Badass ○○ Contest.\n\n※Special rules may vary as new update patches are released.",
+    "platform": 0
+  },
+  {
+    "id": 77,
+    "sort": 77,
+    "category": "魔界一武闘会について",
+    "title": "Basics",
+    "body": "魔界一武闘会は、各プレイヤー同士で\n勝ち負けを競う対戦コンテンツです。\n\nバトルで勝利した際に「勝ち点」を獲得でき、\nその値に応じて所属クラスが変動します。\nまた、勝ち点によるランキングが存在し、\n週の終わりに順位に応じたランキング報酬を\n獲得できます。\n\nバトルでは、勝ち点の他に「武闘会コイン」\nを獲得することができ、交換所にて\n武闘会コインを各種報酬を交換することが\nできます。",
+    "platform": 0
+  },
+  {
+    "id": 78,
+    "sort": 78,
+    "category": "魔界一武闘会について",
+    "title": "シーズンについて",
+    "body": "2週間で1シーズンとなっており\n月曜日の4：00：00～日曜日の23：59：59の\n1週間毎に前半戦・後半戦にわかれます。\n\n後半戦が終了すると\nその時の所属クラスに応じて\n勝ち点がリセットされ\n次のシーズンが開催されます。",
+    "platform": 0
+  },
+  {
+    "id": 79,
+    "sort": 79,
+    "category": "Missions",
+    "title": "Daily Missions",
+    "body": "You can get daily rewards by completing daily missions.\n\nDaily missions are reset daily at 00:00.\nUnclaimed rewards will also be reset.",
+    "platform": 0
+  },
+  {
+    "id": 80,
+    "sort": 80,
+    "category": "Missions",
+    "title": "Weekly Missions",
+    "body": "You can get weekly rewards by completing weekly missions.\n\nWeekly missions are reset daily at 00:00 every Monday.\nUnclaimed rewards will also be reset.",
+    "platform": 0
+  },
+  {
+    "id": 81,
+    "sort": 81,
+    "category": "Missions",
+    "title": "Repeatable Missions",
+    "body": "Fulfilling conditions in \nrepeatable missions allows you to obtain rewards.\n\nEvery time you get rewards, your progress will be reset and you can challenge the same mission as many times as you want.\nYou can stock up to 10 times worth of rewards per mission.",
+    "platform": 0
+  },
+  {
+    "id": 82,
+    "sort": 82,
+    "category": "Missions",
+    "title": "Milestones",
+    "body": "In Milestones,\nmeet requirements throughout your career\nto receive rewards.\n\nMilestones have 3 difficulties\n< Bronze >< Silver >< Gold >\nthe system will take record of the times completed\nbased on difficulty.",
+    "platform": 0
+  },
+  {
+    "id": 83,
+    "sort": 83,
+    "category": "Missions",
+    "title": "Cultivation Missions",
+    "body": "You can receive rewards by cultivating your characters and fulfilling character cultivation requirements.\n\nIn addition, you can receive extra rewards by completing all of the missions.",
+    "platform": 0
+  },
+  {
+    "id": 84,
+    "sort": 84,
+    "category": "Missions",
+    "title": "Item World",
+    "body": "You can receive rewards by fulfilling Innocent-related requirements in the Item World.\n\nIn addition, you can receive extra rewards by completing all of the missions.",
+    "platform": 0
+  },
+  {
+    "id": 85,
+    "sort": 85,
+    "category": "Shop",
+    "title": "Basics",
+    "body": "You can purchase various Items, Equipment and Nether Quartz in the Shop (RQ Shop).\n\nYou can also sell equipment, expand slots for characters and equipment, and participate in lotteries here.",
+    "platform": 0
+  },
+  {
+    "id": 86,
+    "sort": 86,
+    "category": "Shop",
+    "title": "Customer Rank",
+    "body": "Better equipment becomes available with higher Customer Ranks.\n\nYou can increase your Customer Rank by passing bills in the Dark Assembly. \n\nBills that increase your Customer Rank will be unlocked at certain points in the Main Story.",
+    "platform": 0
+  },
+  {
+    "id": 87,
+    "sort": 87,
+    "category": "Shop",
+    "title": "Purchasing Nether Quartz",
+    "body": "You can purchase Nether Quartz and Special Offer Packs.",
+    "platform": 0
+  },
+  {
+    "id": 88,
+    "sort": 88,
+    "category": "Shop",
+    "title": "Purchasing Items",
+    "body": "You can purchase AP Potions and \"Bribe\" Items with Nether Quartz and HL.",
+    "platform": 0
+  },
+  {
+    "id": 89,
+    "sort": 89,
+    "category": "Shop",
+    "title": "Netherworld Market",
+    "body": "In the Netherworld Market, you can exchange Prinny Coins for various items.\n\n< What Are Prinny Coins? >\nYou can obtain Prinny Coins by dismissing 3★ or better characters.\n\nThe amount of Prinny Coins gained is determined by the character's original ★.\nTherefore, even if you have awakened a character in Mao's training room, you will not get more coins by dismissing them.\n\nDismissing a 3★ character → Prinny Coin ×200\nDismissing a 4★ character → Prinny Coin ×2000\n\n※ You can dismiss characters via Squad → Character List → Dismiss.\n\n※ Prinnies are regarded as 1★ character.\nYou can get Prinnies by purchasing gifts and packs.\nEven if you dismiss a 3★ or better Prinny, you will not get Prinny Coins.\n※ For 3★ characters who were counted as 4★ characters in the featured summons, they are calculated based on their actual ★ when dismissed.\n※ Please check carefully how many Prinny Coins you can receive before dismissing your characters.",
+    "platform": 0
+  },
+  {
+    "id": 90,
+    "sort": 90,
+    "category": "Shop",
+    "title": "Exchanging Materials",
+    "body": "You can exchange Character Crystals for Prism Hides in the Exchange.\n\nThe amount of crystals required to exchange for Prism Hides varies by character.\nPlease check how many crystals are required before confirming the exchange.",
+    "platform": 0
+  },
+  {
+    "id": 91,
+    "sort": 91,
+    "category": "Shop",
+    "title": "Purchasing Equipment",
+    "body": "You can purchase equipment based on your Customer Rank. \n\nYou can refresh the current merchandise list for free 5 times a day. \nExtra refreshes cost Nether Quartz.\nFree refreshes are restored at the daily reset time. \n\nIn addition, you can refresh the list with a lower Customer Rank than your current one. \n\nThe shop will automatically refresh based on your current Customer Rank at daily reset time every day.",
+    "platform": 0
+  },
+  {
+    "id": 92,
+    "sort": 92,
+    "category": "Shop",
+    "title": "Selling Equipment",
+    "body": "You can sell any equipment you own. \n\nEquipped equipment will not be shown in the list of sellable items. \nYou should note that all Innocents in the equipment will disappear when you sell it.",
+    "platform": 0
+  },
+  {
+    "id": 93,
+    "sort": 93,
+    "category": "Shop",
+    "title": "Exchanges",
+    "body": "There are many different Exchanges that you can visit, including\n - Etna's Summer Retreat Defense\n - Event Remembrance\n - Current Story Event\n - Current Raid Battle\n - Limited Period Special Exchanges\nYou can redeem various Pts for items here.\n\nEtna's Summer Retreat Defense is permanent, and Battle Pts will be carried over after the event period is over.",
+    "platform": 0
+  },
+  {
+    "id": 94,
+    "sort": 94,
+    "category": "Shop",
+    "title": "Expanding Slots",
+    "body": "You can use Nether Quartz to expand your character and equipment slots.\n\nExpand your slots via\nPurchase Item → Purchase Nether Quartz, and scroll to the bottom.",
+    "platform": 0
+  },
+  {
+    "id": 95,
+    "sort": 95,
+    "category": "Shop",
+    "title": "Lottery",
+    "body": "After you purchase a certain amount of items and equipment, you will get a Lucky Ball Lottery Ticket (max. 1 per day).\n\nYou can use these tickets to draw lotteries.\n\nThese will gift random rewards.\nPlease kindly note that the required number of purchases will be reset at 00:00 daily.",
+    "platform": 0
+  },
+  {
+    "id": 96,
+    "sort": 96,
+    "category": "Netherworld Hospital",
+    "title": "Basics",
+    "body": "You can claim rewards based on your injuries, as well as use the Doping Roulette to restore some AP.",
+    "platform": 0
+  },
+  {
+    "id": 97,
+    "sort": 97,
+    "category": "Netherworld Hospital",
+    "title": "Rewards",
+    "body": "< Total Damage Taken >\n< Total Members Defeated >\n< Total Party Wipes >\nReach a certain number to receive rewards\n\n※ Losing a battle does not affect\nreward for < Total Damage Taken. >",
+    "platform": 0
+  },
+  {
+    "id": 98,
+    "sort": 98,
+    "category": "Netherworld Hospital",
+    "title": "Doping Roulette",
+    "body": "It's a Roulette that restores AP. \n\nYou have to wait for a while between uses.",
+    "platform": 0
+  },
+  {
+    "id": 99,
+    "sort": 99,
+    "category": "Dark Assembly",
+    "title": "Basics",
+    "body": "You can pass bills in the Dark Assembly in order to improve your game experience, including increasing your Customer Rank at the RQ Shop.",
+    "platform": 0
+  },
+  {
+    "id": 100,
+    "sort": 100,
+    "category": "Dark Assembly",
+    "title": "Assembly Point",
+    "body": "These are the Pts needed to propose bills in the Dark Assembly. \nCosts vary depending on the bills proposed. \n\nPts reset to 100 at 00:00 each day. \nYou can also manually reset them to 100 using Nether Quartz.",
+    "platform": 0
+  },
+  {
+    "id": 101,
+    "sort": 101,
+    "category": "Dark Assembly",
+    "title": "Bill Probability",
+    "body": "The Probability of Passing depends on the bill itself. \nThe Probability for certain bills increases as the player levels up. \n\nIt's essential to \"Bribe\" the senators to increase their affinity for a higher chance to pass your bill.",
+    "platform": 0
+  },
+  {
+    "id": 102,
+    "sort": 102,
+    "category": "Dark Assembly",
+    "title": "Bribing",
+    "body": "You can \"Bribe\" the senators to earn their affinity. \n\nWith a higher affinity, there's a better chance for the senator to support your bill, thus increasing the likeliness of your bill getting passed.\n\nIf you need to raise your affinity with multiple senators, you'll need to bribe them all.",
+    "platform": 0
+  },
+  {
+    "id": 103,
+    "sort": 103,
+    "category": "Dark Assembly",
+    "title": "Senators",
+    "body": "In the Dark Assembly, 8 Senators are required to vote on each bill. \n\nSenators have their ★ numbers and levels as well. \nStronger Senators have a bigger say, thus could influence the result more than others.",
+    "platform": 0
+  },
+  {
+    "id": 104,
+    "sort": 104,
+    "category": "Mao's Lab",
+    "title": "Basics",
+    "body": "You can enhance your characters in Mao's Lab via Reincarnation, Awakening, N.E., Mana Allocation, etc.",
+    "platform": 0
+  },
+  {
+    "id": 105,
+    "sort": 105,
+    "category": "N.E.",
+    "title": "Basics",
+    "body": "「魔改造を行う」では、\nキャラクターが新たな必殺技や\nサブ魔ビリティーを習得したり、\nパラメータが上昇したりなどによって\nキャラクターをより強くすることができます。\n\n魔改造では、強化したいキャラを基に、\nそれと同じキャラクター1体を\n素材にすることで、魔改造が行えます。\n魔改造にはHLが必要となります。\n\n魔改造済みのキャラクターを\n素材に選択した場合は、\n素材の魔改造回数の分も\n強化したいキャラクターの\n魔改造回数に加算されます。\nその際、魔改造に必要なHLは\n魔改造回数の加算分に応じて上がります。\n\n＜例＞\n魔改造回数0のキャラクターに\n魔改造回数1のキャラクターを\n素材として選択した場合、\n魔改造回数は2となります。\nHLは魔改造回数を2にするために\n必要な分かかります。\n\nなお、魔改造回数の上限を超える素材が\n選択されている場合、素材に選択したキャラは\n上限を超えた魔改造回数に応じた魔改造段階に\nなり、その他の育成状態が初期化された状態で\n所持キャラ一覧に新たに付与されます。\n※魔改造ボーナス分は加算されません\n\nまた「魔改造専用プリニー」は、\n全てのキャラクターの\n魔改造の素材として使用でき、\n「虹色の抜け殻」と「キャラの結晶」は、\n一定個数集めることで\n「魔改造専用プリニー」と同じように\n素材とすることができます。\n※「虹色の抜け殻」より「キャラの結晶」が\n　優先して使用されます",
+    "platform": 0
+  },
+  {
+    "id": 106,
+    "sort": 106,
+    "category": "N.E.",
+    "title": "N.E. Items",
+    "body": "魔改造による強化は、\n最大で15段階、もしくは20段階まで可能で、\nキャラにより上限段階値が異なります。\n\n魔改造を進めることによって、未習得の項目を、\n上から順に1つずつ習得することができます。",
+    "platform": 0
+  },
+  {
+    "id": 107,
+    "sort": 107,
+    "category": "N.E.",
+    "title": "N.E. Bonus Campaign",
+    "body": "The N.E. Bonus Campaign is a campaign where, during the campaign period, if you use a target character as a base and use that same character as material to perform a magic modification, the magic modification will advance by two stages.\n\n<Details>\n-The magic modification bonus will advance by two stages only if the same character is used as material.\n-If the magic modification stage limit is exceeded,\n the magic modification stage will only advance by one stage.\n-If a character whose magic modification stage has already progressed is used as material,\n in addition to the normal increase in magic modification stage,\n one stage will be added for the magic modification bonus.\n\n<Example>\nIf the target character is 'Laharl'\n\n▼During the campaign period\n-Using a 'Laharl' with magic modification stage 0 as a base and a 'Laharl' with magic modification stage 1 as material for a magic modification\n→ a 'Laharl' with magic modification stage 3\n\n▽Campaign Outside the campaign period\n・Magic modification level 0 'Laharl' is used as a base,\nMagic modification level 1 'Laharl' is used as a material to perform a magic modification\n→Magic modification level 2 'Laharl'\n\n<About the target characters>\n・A 'Magic modification bonus details' button will appear at the top of the summon that produces the target character,\nand you can check the target characters and the campaign period\n・In Mao's Lab → Perform magic modification\n, the icon of the target character will have 'N.E. UP↑'\nYou can also check the target characters and the campaign period\nfrom the 'List of characters eligible for the Demon World Bonus' at the bottom of the screen\n\n*Please note that this campaign is for a limited time only, and the target characters will change each time\n*Please check the notification for each summon for the target characters and the campaign period",
+    "platform": 0
+  },
+  {
+    "id": 108,
+    "sort": 108,
+    "category": "Awakening",
+    "title": "Basics",
+    "body": "Awakening a character increases the number of stars of the character, making it stronger. From 1 to 6 stars, you can use 5 characters with the same number of stars as the character you want to awaken as materials to awaken the character. HL is required for awakening. Super Awakening Further awakening a 6 star character is called 'Super Awakening'. A character can be 'Super Awakened' up to 3 times. For Super Awakening, 5 'Golden Prinnys' and HL are required as special materials. Bulk Awakening allows you to awaken 1 and 2 star characters at the same time. In this case, the characters you are training will not be selected as materials. Also, if the character selected as material is equipped with a weapon or armor, the equipment will be removed. ",
+    "platform": 0
+  },
+  {
+    "id": 109,
+    "sort": 109,
+    "category": "Awakening",
+    "title": "Nether Star Awakening Items",
+    "body": "Nether Stars are special Awakening Items only usable by specific characters.\nThey can be obtained via special methods such as event rewards.\n\nUsing them awakens the relevant character to a specific level.\n\nIf you have a compatible character and their Nether Star, you can use it from the Awaken screen, in the bottom right under \"Dedicated Materials.\"",
+    "platform": 0
+  },
+  {
+    "id": 110,
+    "sort": 110,
+    "category": "Reincarnation",
+    "title": "Basics",
+    "body": "In a Reincarnation, choose the character which you'd like to upgrade to the highest level. \nReincarnation will reset the character to level \"1\" and \n\n- cap up the character's Max Level\n- increase the character's basic stats\n- enable the character to level up faster \n- get mana from Reincarnation \nWith these, you can further enhance the character.\nIt also costs HL.",
+    "platform": 0
+  },
+  {
+    "id": 111,
+    "sort": 111,
+    "category": "Reincarnation",
+    "title": "Reincarnation Materials",
+    "body": "The necessary materials for the Reincarnation differ according to the target (Humanoid/Monster), and the number of reincarnation times. \n\nMaterials are mainly obtained from the Dark Gates.",
+    "platform": 0
+  },
+  {
+    "id": 112,
+    "sort": 112,
+    "category": "Mana Allocation",
+    "title": "Basics",
+    "body": "Using Allocate Mana, you can use Mana obtained through reincarnation to make your characters even more powerful using Ability Cheats and Weapon Mastery Max Level Up.\n\nYou can also use Mana Potions to increase characters' Mana.\n\nThere are also Dedicated Mana Potions that can only be used by specific characters.\nThey can be obtained via special methods such as event rewards.\n\nDedicated Mana Potions are prioritized when selecting the standard Mana Potion option.",
+    "platform": 0
+  },
+  {
+    "id": 113,
+    "sort": 113,
+    "category": "Mana Allocation",
+    "title": "Ability Cheat",
+    "body": "You can spend Mana to increase your characters' enhancement level.\nEach stat can be enhanced up to 20 times.\nEach enhancement increases the target stats by 1%.",
+    "platform": 0
+  },
+  {
+    "id": 114,
+    "sort": 114,
+    "category": "Mana Allocation",
+    "title": "Increasing Max Weapon Mastery Lv",
+    "body": "You can use Mana to increase Max Weapon Mastery Lv.",
+    "platform": 0
+  },
+  {
+    "id": 115,
+    "sort": 115,
+    "category": "Mana Allocation",
+    "title": "Resetting Mana Allocation",
+    "body": "You can reset the Mana you allocated on ability enhancement. \n\nAfter resetting, previously enhanced stats will be returned to their unimproved state. \n\nHowever, Mana invested on Max Weapon Mastery Lv cannot be reset. \n\nYou can reset Mana Allocation for free a certain number of times, after that it will cost Nether Quartz to do so again.",
+    "platform": 0
+  },
+  {
+    "id": 116,
+    "sort": 116,
+    "category": "Memory Shop",
+    "title": "Basics",
+    "body": "You can replay all Stories you've gone through, including Main Story and Events in the Memory Shop. \n\nYou can even watch Character EPs once certain conditions have been met.",
+    "platform": 0
+  },
+  {
+    "id": 117,
+    "sort": 117,
+    "category": "Memory Shop",
+    "title": "Character Episodes",
+    "body": "When certain characters reach certain levels, you can watch their unique stories. \n\nYou will get rewards after watching these stories.",
+    "platform": 0
+  },
+  {
+    "id": 118,
+    "sort": 118,
+    "category": "Data Shop",
+    "title": "Basics",
+    "body": "Players can check different information\nin Data Shop.\n\n< Character Illustration >\nShows information of\nall acquired characters.\n\n< Equipment Illustration >\nShows information of\nall acquired equipment.\n\n< Log >\nShows the number of days played, Max Damage Dealt\nand other game-related records and ranks.",
+    "platform": 0
+  },
+  {
+    "id": 119,
+    "sort": 119,
+    "category": "Potential Type Shop",
+    "title": "Basics",
+    "body": "As your characters become stronger in the Potential Type Shop, characters of each type will gain bonus effects based on their potential types.",
+    "platform": 0
+  },
+  {
+    "id": 120,
+    "sort": 120,
+    "category": "Potential Type Shop",
+    "title": "Type Group Levels",
+    "body": "When each potential type's feature reaches a certain level, the type group will level up. \nAfter the level up, the icon for the potential level will become more elaborate, this makes it clearer to see how much you have cultivated your characters.",
+    "platform": 0
+  },
+  {
+    "id": 121,
+    "sort": 121,
+    "category": "Potential Type Shop",
+    "title": "Feature Levels",
+    "body": "There are three potential types,\neach has a different \nability bonus.\n\nMeet certain conditions\nto gain Type EXP.\nReaching certain number of EXP will\nlevel up the type.\n\nAfter leveling up, you can\nfurther enhance bonus.\n\n< Strength >\nEach time a character reaches a new level\nthey will gain EXP.\nBasic Stats will receive bonus.\n\n< Charisma >\nEach time a character gains a new ★ number\nthey will gain EXP.\nEquipped Weapon's basic stats\nreceive bonus.\n\n< Zeal >\nEach time a character reaches a new Nether Enhancement stage\nthey will gain EXP.\nAdvancing in Cheat Rank in Mao's Lab\nwill receive bonus in the amount of stat boost.",
+    "platform": 0
+  },
+  {
+    "id": 122,
+    "sort": 122,
+    "category": "Fishing Fleets",
+    "title": "Basics",
+    "body": "In the Fishing Fleet, you can send your characters to fish.\nAfter some time, you will receive EXP as well as items for character cultivation.\nThe better the fishing results, the more EXP and better items you will receive.\nSometimes you may even receive crystals for the assigned characters.\n※Some characters' crystals cannot be obtained from the Fishing Fleet.\n\nThere are 3 fishing areas and the amount of EXP you can earn varies.\n\n※Characters' Evilities, EXP boost effect from the Dark Assembly, or Innocent effects do not influence rewards and EXP earned from the Fishing Fleet.",
+    "platform": 0
+  },
+  {
+    "id": 123,
+    "sort": 123,
+    "category": "Fishing Fleets",
+    "title": "Bribery",
+    "body": "You can perform \"Bribe\" in the Fishing Fleet to improve the condition of fish schools in each fishing area.\n\nThe higher the condition, the higher the success rate.",
+    "platform": 0
+  },
+  {
+    "id": 124,
+    "sort": 124,
+    "category": "Fishing Fleets",
+    "title": "Fishing Fleet Level",
+    "body": "You will gain Fishing Fleet Points from each fishing.\nOnce you have earned enough points,\na bill entitled \"Upgrade Fishing Fleet\"\nwill appear in the Dark Assembly.\nPass the bill to upgrade your Fishing Fleet.\n\nAfter the Fishing Fleet levels up,\nthe max number of crew increases as well.\nYour characters will gain more EXP and have more fishing options.",
+    "platform": 0
+  },
+  {
+    "id": 125,
+    "sort": 125,
+    "category": "Etna's Summer Resort",
+    "title": "Basics",
+    "body": "After clearing all the Item World missions, Etna's Summer Resort will be unlocked. In Etna's Summer Resort, you can use special consumable items and HL to increase the rarity of equipment, add POPs, increase the item rank of equipment with an item rank of 40 or higher, strengthen innocents, and create innocents with new effects. Special consumable items can be obtained as a reward for settling innocents and donating equipment in Etna's Summer Resort, as well as for completing missions on the request board. ",
+    "platform": 0
+  },
+  {
+    "id": 126,
+    "sort": 126,
+    "category": "Etna's Summer Resort",
+    "title": "Throne Levels",
+    "body": "You can upgrade the Throne to unlock various facilities in Etna's Summer Resort.\n\nYou can donate subdued Innocents and max level equipment to upgrade the Throne.",
+    "platform": 0
+  },
+  {
+    "id": 127,
+    "sort": 127,
+    "category": "Etna's Summer Resort",
+    "title": "Locking Alchemy Set Effects",
+    "body": "You can lock alchemy set effects as shown below.\n\n - Prinny Workshop → Equipment Alchemy\n - Select equipment and tap \"Perform Alchemy\"\n- Check \"Lock\" on the left of the set effect you want to keep.",
+    "platform": 0
+  },
+  {
+    "id": 128,
+    "sort": 128,
+    "category": "About the Fourth Dimensional Demon World",
+    "title": "Basics",
+    "body": "In the Fourth Dimensional Demon World, you can further develop your character through Super Reincarnation and Qualification Enhancement, and by depositing any equipment you want to the Item World Research Team, you can increase the level of your equipment even while you are not playing.",
+    "platform": 0
+  },
+  {
+    "id": 129,
+    "sort": 129,
+    "category": "About the Fourth Dimensional Demon World",
+    "title": "About Super Reincarnation",
+    "body": "If you have at least one LV9999 character, 'Super Reincarnation 'will be unlocked. In 'Super Reincarnation', you can further reincarnate a character who has reached LV9999 by consuming the special material 'Magic Essence'. \n\nThe level of a character who has undergone Super Reincarnation will return to 1/100, but you can earn 'Karma' according to the number of times you have undergone Super Reincarnation. The 'Karma' you earn will be used to train your character through Talent Enhancement. \n\nCharacters who have undergone Super Reincarnation can then reincarnate without consuming reincarnation materials if they meet the LV requirements. ",
+    "platform": 0
+  },
+  {
+    "id": 130,
+    "sort": 130,
+    "category": "About the Fourth Dimensional Demon World",
+    "title": "About Talent Enhancement",
+    "body": "If you have performed Super Reincarnation even once, 'Talent Enhancement' will be unlocked. \n\nIn 'Talent Enhancement', you can develop basic parameters other than SPD by consuming karma earned through Super Reincarnation. \n\nBy developing basic parameters through 'Talent Enhancement', the 'Talent Value' of the corresponding parameter will increase. \n\nCharacters whose 'talent value' has increased\nwill grow even stronger than before. ",
+    "platform": 0
+  },
+  {
+    "id": 131,
+    "sort": 131,
+    "category": "About the Fourth Dimension Demon World",
+    "title": "About the Item World Investigation Team",
+    "body": "At the Item World Investigation Team,\nequipment with item ranks 1 to 40 can be deposited.\nDeposited equipment will be returned at its maximum level after a certain amount of time has passed.\n\nWhen requesting an investigation, if you place\nhigh-grade crab roe in the 'Crab Roe Box',\nthe Innocent of the deposited equipment will automatically submit to\nthe investigation when it is completed. ",
+    "platform": 0
+  },
+  {
+    "id": 132,
+    "sort": 132,
+    "category": "Adell's Grueling Training",
+    "title": "Basics",
+    "body": "You can receive character crystals based on how well you have cultivated your characters.\n\nSome characters do not grant you crystals, but Prism Hides instead.",
+    "platform": 0
+  },
+  {
+    "id": 133,
+    "sort": 133,
+    "category": "Prinny Prison",
+    "title": "Basics",
+    "body": "A feature that allows you to store all the 1★ Prinnies that drop.\nThe Prinny Prison can store up to 99,999\nof each type of Prinny.\nAny Prinnies over this amount that drop will disappear.",
+    "platform": 0
+  },
+  {
+    "id": 134,
+    "sort": 134,
+    "category": "Prinny Prison",
+    "title": "Dispatch",
+    "body": "You can select Prinnies to dispatch and use as your own characters.\n\nYou can also use the Awakened Dispatch feature to select a ★ number and quantity of Prinnies to awaken and dispatch together, using Prinny Prison inhabitants as materials.\n\n*Prinnies claimed from your Gift Box will be sent to your Character List rather than the Prinny Prison.\n*Awakening within the Prinny Prison will not increase mission progress or Evil Symboler upgrades.",
+    "platform": 0
+  },
+  {
+    "id": 135,
+    "sort": 135,
+    "category": "Netherworld Bingo",
+    "title": "Netherworld Bingo",
+    "body": "You can play Nether Bingo every day when you log in,\nand receive luxurious rewards based on the result.\n\n·Resets on the first day of each month at 0:00\n·A random number will be drawn\nupon your first login of the day and you will earn the bingo reward\n (Max 25 times)\n·Completion rewards will be given\nbased on the number of connected lines\n·Purchase \"Reward Quality Boost\"\nto have better quality rewards\nfor that month's Bingo\n\n※Check and claim\nreward content in\nMENU > Login Bonus>Nether Bingo\n※Every player will have a different Bingo card\nThe reward content will be the same\n※Unclaimed reward will be sent to Gifts\nafter the month ends\n※Please note that expired items (unclaimed for 90 days)\nwill be deleted\n※If you miss the time for the draw, you can consume Nether Quartz\n to draw again\n※If you have purchased \"Reward Quality Boost\"\nyou will also receive additional Quality Boost\n for parts you have completed\n※Rewards may vary by month.",
+    "platform": 0
+  },
+  {
+    "id": 136,
+    "sort": 136,
+    "category": "Stronghold Customization",
+    "title": "Basics",
+    "body": "You can customize the Background and BGM of your stronghold.\n\nThe BGM and Background of the stronghold can be changed at will. \n\nYou can get new BGM and Background via Dark Assembly and other means. \n\nIn order for the corresponding bill to become available, you need to reach a certain point in the main story.",
+    "platform": 0
+  },
+  {
+    "id": 137,
+    "sort": 137,
+    "category": "Data Sharing",
+    "title": "Basics",
+    "body": "Data sharing allows you to inherit your game progress on new devices and play this game on multiple devices.\n\nTap \"Menu\" at the top right, then \"Data Sharing\", you will receive a data sharing code.\n\nDownload and install this game on the target device, and tap \"Menu\" at the top right, then \"Data Sharing\", entering your ID and data sharing code.\nThis will allow your game progress to be carried over.\n\nPaid Nether Quartz cannot be shared across different platforms.\nHowever, you can convert Paid Nether Quartz into Free Nether Quartz and use Free Nether Quartz on other platforms.\n※Free Nether Quartz cannot be converted back.\n\nYou can share your game progress on up to 3 devices.\nIf you share your game progress on more devices, a window will pop up, asking if you would like to cancel data sharing on all devices.\nPlease carefully check the content in the pop-up window before making your decision.\n※Data sharing cannot be canceled on PC the platform.",
+    "platform": 0
+  },
+  {
+    "id": 138,
+    "sort": 138,
+    "category": "Clearing Cache",
+    "title": "Basics",
+    "body": "You can fix certain unexpected glitches to improve your game experience through \"Clear Cache\".\n\nAll you need to do is tap MENU at the top right, then tap \"Clear Cache\".",
+    "platform": 0
+  },
+  {
+    "id": 139,
+    "sort": 139,
+    "category": "Data Repair",
+    "title": "Basics",
+    "body": "With Data Repair, you can delete generated data and keep operations running smoothly.\nYour saved game progress will not be deleted. \n\nYou can do this by tapping MENU at the top right, and then tapping \"Data Repair\".",
+    "platform": 0
+  },
+  {
+    "id": 140,
+    "sort": 140,
+    "category": "Settings",
+    "title": "Basics",
+    "body": "You can tap MENU at the top right, then tap \"Settings\" to change the following settings: \nPower-saving, Volume, Notification, Friend Approval,etc.\n\nThe game will consume less power when Power-saving is turned ON. \n※The game UI will enter Power-saving mode as well.\n\nPlease note: \nif you have disabled notifications on your device, you won't receive notifications even if you enable them here in the game.",
+    "platform": 0
+  },
+  {
+    "id": 141,
+    "sort": 141,
+    "category": "Settings",
+    "title": "Basics",
+    "body": "Tap \"Menu\" at the top right to change your in-game settings,\nincluding power saving mode, volume,\nand friend request acceptance.\n\nWhen power saving mode is enabled,\nbattery power consumption will be reduced.\n※Power saving mode applies to in-game screens, too.",
+    "platform": 0
+  },
+  {
+    "id": 142,
+    "sort": 142,
+    "category": "魔界漁船団について",
+    "title": "基本概要",
+    "body": "魔界漁船団では、任意のキャラを選択し\n漁獲に向かわせることで、一定時間経過後に\n各種経験値の他、報酬として\nキャラの育成に役立つアイテムを\n獲得する事ができます。\n漁獲の成功段階が高いほど\n獲得できる経験値は多くなり、\nアイテムもより良いものを獲得できます。\nまれに、漁獲に向かったキャラの\n結晶を入手することができます。\n※一部キャラの結晶は魔界漁船団では\n入手できません\n\n漁獲に向かわせることができるエリアは\n３箇所存在し、獲得可能な経験値が異なります。\n\n※キャラの魔ビリティー・暗黒議会でのEXP増加・イノセントによる効果などは魔界漁船団で獲得できる報酬やEXPには反映されません",
+    "platform": 0
+  },
+  {
+    "id": 143,
+    "sort": 143,
+    "category": "魔界漁船団について",
+    "title": "ワイロの使用について",
+    "body": "魔界漁船団で各種ワイロを使用することで\n漁獲エリアの魚群状態を向上できます。\n\n魚群状態が良いほど\n漁獲の成功段階が高くなりやすいです。",
+    "platform": 0
+  },
+  {
+    "id": 144,
+    "sort": 144,
+    "category": "魔界漁船団について",
+    "title": "漁船団RANKについて",
+    "body": "漁獲を行うことで漁船団PTを獲得します。\n漁船団PTが一定に達すると暗黒議会に\n「漁船団のRANKを上げたい」の\n議題が出現し、可決することで\n漁船団RANKが上がります。\n\n漁船団RANKが上がると、\n最大乗員数が増え\nより多くのキャラでEXPを獲得できるほか\n漁獲時間の選択肢が増えます。",
+    "platform": 0
+  },
+  {
+    "id": 145,
+    "sort": 145,
+    "category": "エトナの避暑地について",
+    "title": "基本概要",
+    "body": "アイテム界ミッションを全てクリアすると\n「エトナの避暑地」が解放されます。\n\nエトナの避暑地では\n専用の消費アイテムをやHLを使用することで\n装備品のレア度上昇やPOP追加、\nアイテムランク40以上の装備品の\nアイテムランク上昇、\nイノセントの強化や、新しい効果を持った\nイノセントを生み出すことができます。\n\n専用の消費アイテムは、エトナの避暑地での\nイノセントの入植・装備品の献上の報酬として\n入手できるほか、エトナの避暑地 防衛戦 交換所\nにて「戦功PT」と交換することで獲得できます。",
+    "platform": 0
+  },
+  {
+    "id": 146,
+    "sort": 146,
+    "category": "エトナの避暑地について",
+    "title": "玉座LVについて",
+    "body": "エトナの避暑地の各施設の機能は\n玉座LVを上昇させることで開放することができます。\n\n玉座LVは服従済みイノセントと、\nLVMAXの装備品を捧げる事で上昇します。",
+    "platform": 0
+  },
+  {
+    "id": 147,
+    "sort": 147,
+    "category": "エトナの避暑地について",
+    "title": "錬金のセット効果ロックについて",
+    "body": "錬金のセット効果は以下の手順でロックできます。\n\n・プリニー工房→装備の錬金に移動\n・装備を選び「錬金する」をタップ\n・保護したいセット効果の左の「ロック」を\n　チェックする",
+    "platform": 0
+  },
+  {
+    "id": 148,
+    "sort": 148,
+    "category": "エトナの避暑地について",
+    "title": "プリエナジーについて",
+    "body": "プリエナジーを使用することによって\n錬金・再錬金で装備品のセット効果を自由に\n操作することができます。\nプリエナジーは錬金・再錬金を行うことによって\nエナジーゲージが加算され、ゲージをMAXにする\n事で獲得することができます。\nプリエナジーによって変更できるセット効果の\n内容は以下の通りです。\n・セット効果の解放\n　解放されていないセット効果を解放することが\n　できます。\n　ただし、レア度ごとに存在する上限を超える\n　解放は行えません。\n・効果値上昇\n　セット効果の効果値をアップします。\n・効果内容変更\n　セット効果の効果内容を任意の効果に変更\n　することできます。\n・条件イノセント変更\n　プリティー・マッチョ・ハンサムから選択し、\n　条件イノセントを変更することができます。\n　いずれを選択しても低確率で固有イノセントが\n　抽選される事があります。\n\n変更する内容によって必要なプリエナジーの\n個数が異なります。\n\n※キャンペーンによってアイテムを消費せず、\n　錬金・再錬金を行う際はエナジーゲージが\n　加算されません。",
+    "platform": 0
+  },
+  {
+    "id": 149,
+    "sort": 149,
+    "category": "四次元魔界について",
+    "title": "基本概要",
+    "body": "四次元魔界では\n超転生・素質強化によって\nキャラクターを更に育成することができる他\nアイテム界調査団に任意の装備品を\n預けることで、プレイしていない間にも\n装備品のレベルを上げる事ができます。",
+    "platform": 0
+  },
+  {
+    "id": 150,
+    "sort": 150,
+    "category": "四次元魔界について",
+    "title": "超転生について",
+    "body": "LV9999のキャラクターを1体でも所持すると\n「超転生」が開放されます。\n\n「超転生」では\n専用の素材「魔素」を消費して\nLV9999になったキャラクターを\n更に転生させることができます。\n\n超転生を行ったキャラクターのレベルは\n1/100に戻りますが、\nそれまでの超転生回数に応じて\n「カルマ」を獲得できます。\n獲得した「カルマ」は、素質強化にて\nキャラクターの育成に使用します。\n\n超転生を行ったキャラクターは\n以後、LVの条件を満たせば\n転生素材の消費なしで転生が可能です。",
+    "platform": 0
+  },
+  {
+    "id": 151,
+    "sort": 151,
+    "category": "四次元魔界について",
+    "title": "素質強化について",
+    "body": "超転生を1度でも実行したことがあると\n「素質強化」が開放されます。\n\n「素質強化」では\n超転生で獲得したカルマを消費することで\nSPD以外の基礎パラメータを育成可能です。\n\n「素質強化」によって\n基礎パラメータを育成していくことで\n該当パラメータの「素質値」が上昇します。\n\n「素質値」が上昇したキャラクターは\nそれまでよりも更に強く成長します。",
+    "platform": 0
+  },
+  {
+    "id": 152,
+    "sort": 152,
+    "category": "四次元魔界について",
+    "title": "アイテム界調査団について",
+    "body": "「アイテム界調査団」では\nアイテムランク1～40の装備品を\n預けることができます。\n預けた装備品は、一定時間が経過すると\nレベルが最大になって返却されます。\n\n調査依頼時、「カニミソBOX」に\n高級カニミソをセットしておけば\n調査完了時に預けた装備品の\nイノセントを自動で服従してくれます。",
+    "platform": 0
+  },
+  {
+    "id": 153,
+    "sort": 153,
+    "category": "四次元魔界について",
+    "title": "キャラのアンプル化について",
+    "body": "アンプル化可能な魔ビリティ―を持った\nキャラを、アンプル化することができます。\nアンプル化した際に抽出される\nアンプル魔ビリティ―は、キャラごとに\n異なります。\nキャラのアンプル化を行うには、\n【アンプル化剤】が必要となります。\nアンプル化を行う際に対象キャラが\n育成済みの場合、育成に使用した各種素材は\n返還されません。\n\nアンプルはキャラのアンプル化によって\n抽出されたもので、任意のキャラから抽出された\nアンプル魔ビリティーが入っています。\n抽出したキャラによって、アンプル魔ビリティ―\nの効果が異なります。\nアンプルを任意のキャラに使用することで、\n抽出されたアンプル魔ビリティーを習得させる\nことができます。",
+    "platform": 0
+  },
+  {
+    "id": 154,
+    "sort": 154,
+    "category": "アデルの猛特訓について",
+    "title": "基本概要",
+    "body": "自分が所持しているキャラクターの\n育成状況に応じてそのキャラクターの\nキャラ結晶を受け取ることができます。\n\n一部のキャラクターは報酬として\nキャラ結晶の代わりに虹色の抜け殻を\n受け取ることができます。",
+    "platform": 0
+  },
+  {
+    "id": 155,
+    "sort": 155,
+    "category": "プリニー監獄＋について",
+    "title": "基本概要",
+    "body": "ドロップした★1プリニー、★1〜3宇宙ブリ\nを預かる機能です。\nプリニー監獄＋は各プリニーと各宇宙ブリを\n最大99999体まで保持することができますが、\n99999体を超えるキャラクターを\nドロップした場合、\nそのキャラクターは消失します。",
+    "platform": 0
+  },
+  {
+    "id": 156,
+    "sort": 156,
+    "category": "プリニー監獄＋について",
+    "title": "出荷について",
+    "body": "プリニーまたは宇宙ブリを選択し\n出荷することで、自身のキャラとして\n加えることができます。\n\nまた、覚醒出荷ではプリニー監獄＋の\nプリニーまたは宇宙ブリを素材として、\n覚醒したい★の数と体数を指定することで\nまとめて覚醒、出荷をすることができます。\n\n※ギフト内のプリニーと宇宙ブリは受け取ると\n　プリニー監獄＋ではなくキャラ一覧に\n　送られます",
+    "platform": 0
+  },
+  {
+    "id": 157,
+    "sort": 157,
+    "category": "強者の殿堂について",
+    "title": "基本概要",
+    "body": "各キャラクターの育成度合いを「悪魔強度」と\nいう数値に変換し、数値の高さをランキングで\n確認できる機能です。\n※強者の殿堂は、獲得し1回以上転生を\n　行っているキャラが対象となります",
+    "platform": 0
+  },
+  {
+    "id": 158,
+    "sort": 158,
+    "category": "強者の殿堂について",
+    "title": "悪魔強度とは",
+    "body": "キャラの強さを示す数値で、以下によって\n算出されます。\n・LVアップ回数\n・魔改造段階\n・潜在能力\n・HP/ATK/DEF/INT/RES\n・武器熟練度\n・習得技・魔法のLV\n・最凶〇〇コンテストの進捗\n※同じキャラが複数存在する場合は悪魔強度が\n　高いキャラが優先されます\n※各項目の悪魔強度は、該当キャラの最大値で\n　更新されます\n※超魔流の儀によるパラメータ上昇と\n　潜在タイプの値は含まれません",
+    "platform": 0
+  },
+  {
+    "id": 159,
+    "sort": 159,
+    "category": "強者の殿堂について",
+    "title": "ランキングについて",
+    "body": "各キャラの悪魔強度のランキングは、\n悪魔強度が50000000以上の場合に集計され、\nそれ以下の場合は圏外となります。\nまた、ランキングは1000位までとなり、\nそれ以下の場合も同様に圏外となります。",
+    "platform": 0
+  },
+  {
+    "id": 160,
+    "sort": 160,
+    "category": "強者の殿堂について",
+    "title": "トロフィーをGET！",
+    "body": "悪魔強度を一定まで上げると、トロフィールーム\nでそのキャラクターに応じたトロフィーと称号を\n獲得できます",
+    "platform": 0
+  },
+  {
+    "id": 161,
+    "sort": 161,
+    "category": "魔界BINGOについて",
+    "title": "魔界BINGOについて",
+    "body": "魔界BINGOは毎日ログイン時に挑戦でき、\n結果により豪華報酬を獲得することができます。\n\n・毎月1日の0時にリセットされます\n・1日1回ログイン時にランダムで数字が\n　抽選され、BINGO参加報酬が獲得できます\n　（最大25回）\n・BINGOをした場合ライン数に応じて\n　達成報酬を獲得できます\n・「報酬グレードアップ」を購入することで\n　当月のBINGOの報酬をグレードアップ\n　できます\n\n※報酬内容の確認や受け取りは\n　MENU>ログインボーナス＞魔界BINGO\n　からできます\n※ログイン時に抽選される数字は\n　お客様によって異なります\n※BINGOシートはお客様によって異なりますが\n　最大で獲得出来る報酬内容は共通となります\n※未受け取りの報酬は月のリセット時に\n　ギフトに配布されます\n※保存期間(90日)を過ぎたアイテムは\n　自動で削除されますのでご注意ください\n※抽選を逃した場合、魔晶石を使用することで\n　抽選を受けることができます\n※「報酬グレードアップ」を購入することで\n　達成済みのグレードアップ分の報酬も\n　追加で獲得できるようになります\n※開催月毎に報酬は変更になる可能性があります",
+    "platform": 0
+  },
+  {
+    "id": 162,
+    "sort": 162,
+    "category": "拠点カスタムについて",
+    "title": "基本概要",
+    "body": "拠点カスタムでは、拠点のBGMや背景を\n自分好みにカスタマイズすることができます。\n\n・拠点画面で再生されるBGM\n・拠点画面の背景\n上記の2項目を自由に変更することができます。\n\n拠点のBGMや背景は\n暗黒議会の議題を可決する等で入手できます。\n\n暗黒議会の議題に出現させるには\nメインストーリーを特定のステージまで\nクリアする必要があります。",
+    "platform": 0
+  },
+  {
+    "id": 163,
+    "sort": 163,
+    "category": "データ連携について",
+    "title": "基本概要",
+    "body": "データ連携とは、\n新しい端末にデータを引継ぎたい時や、\n複数の端末で遊びたい時に使える機能です。\n\n画面右上にある「MENU」の「データ連携」から\nデータ連携のための\n「連携用コード」が発行されます。\n\nデータの連携は、連携先の\n端末に当アプリをインストールした後、\nタイトル画面右上にある「メニュー」の\n「データ連携」から「ユーザー ID」と\n「コード」を入力することで、\nデータを連携することが可能です。\n\nなお、データ連携時にプラットフォームが異なる場合、有償魔晶石は共有できません。\n有償魔晶石を無償魔晶石に変換することで、無償魔晶石として使用可能となります。\n※変換した有償魔晶石はもとに戻せません。\n\nデータ連携は最大3端末まで可能です。\nそれ以上連携しようとした場合、\n全ての端末の連携解除を確認する\nポップアップが表示されます。\n連携解除をご希望の方は、表記内容を\nよくご確認の上ご利用ください。\n※PC版では連携解除できません",
+    "platform": 0
+  },
+  {
+    "id": 164,
+    "sort": 164,
+    "category": "キャッシュクリアについて",
+    "title": "基本概要",
+    "body": "ゲーム中に思わぬエラーが発生する場合、\n「キャッシュクリア」を行うことで\n症状が改善する場合がございます。\n\n「キャッシュクリア」は\nタイトル画面右上にある「メニュー」の\n「キャッシュクリア」から行うことができます。",
+    "platform": 0
+  },
+  {
+    "id": 165,
+    "sort": 165,
+    "category": "データ修復について",
+    "title": "基本概要",
+    "body": "データ修復機能を利用することで\n保存されたデータが削除され\n動作が軽くなる場合がございます。\nプレイ中のゲームデータは削除されません。\n\nデータ修復は\nタイトル画面右上にある「メニュー」の\n「データ修復」から行うことができます。",
+    "platform": 0
+  },
+  {
+    "id": 166,
+    "sort": 166,
+    "category": "設定変更について",
+    "title": "基本概要",
+    "body": "画面右上にある「MENU」の「設定変更」から\n省エネ設定・音量・\nPUSH通知・フレンド承認方法の\n設定/変更を行うことができます。\n\n省エネ設定は「ON」にすることで、\n消費電力を抑えることができます。\n※ゲーム画面が省電力用になります。\n\nなお、PUSH通知は\n端末側で通知設定を許可していない場合、\nこちらの設定を変更しても\n通知がされないのでご注意ください。",
+    "platform": 3
+  },
+  {
+    "id": 167,
+    "sort": 167,
+    "category": "設定変更について",
+    "title": "基本概要",
+    "body": "画面右上にある「MENU」の「設定変更」から\n省エネ設定・音量・フレンド承認方法の\n設定/変更を行うことができます。\n\n省エネ設定は「ON」にすることで、\n消費電力を抑えることができます。\n※ゲーム画面が省電力用になります。",
+    "platform": 4
+  },
+  {
+    "id": 168,
+    "sort": 168,
+    "category": "ユーザー詳細について",
+    "title": "基本概要",
+    "body": "画面左上のキャラアイコンをタップすることに\nより「ユーザー詳細」を確認することが\nできます。\n\n「ユーザー詳細」では\n・獲得した「バッジ一覧」の確認\n・「同行者キャラ」の設定\n・「お気に入りキャラ」と「称号」の設定\n・「ユーザー名」の変更\n・ユーザーIDの確認・コピー\n・メモリアルレターの確認\n・「コメント」の編集\n等が可能です。\n※「お気に入りキャラ」と「同行者キャラ」は\n　個別に設定が可能です",
+    "platform": 0
+  },
+  {
+    "id": 169,
+    "sort": 169,
+    "category": "ユーザー詳細について",
+    "title": "お気に入りキャラ・称号について",
+    "body": "「ユーザー詳細」画面左下の「変更」ボタンから\n「お気に入りキャラ」と「称号」を設定すること\nができます。\n\n「称号」は累計ミッション等で獲得可能です。",
+    "platform": 0
+  },
+  {
+    "id": 170,
+    "sort": 170,
+    "category": "ユーザー詳細について",
+    "title": "トロフィールームについて",
+    "body": "トロフィールームでは様々な条件をクリア\nすることでトロフィーを獲得でき、\n集めたトロフィーを確認することができます。\n\nトロフィーは条件を達成することで、該当の\nトロフィーアイコンをTAPして獲得することが\nできます。\nトロフィーを獲得すると、同時にその条件に\n合った称号を獲得することができます。\n獲得可能なトロフィーが複数ある場合は、\n【一括受取】ボタンでまとめて受け取ることが\nできます。\n※一度に受け取れる最大件数は20件です\n※トロフィー及び称号は直接付与されます\n\nまた、トロフィーの獲得数に応じて報酬を\n獲得できます。\n必要獲得数と報酬の内容は【報酬確認】ボタン\nから確認することができます。\n※トロフィー獲得報酬は直接付与されます",
+    "platform": 0
+  },
+  {
+    "id": 171,
+    "sort": 171,
+    "category": "究極ラスボス研究所について",
+    "title": "基本概要",
+    "body": "究極ラスボス研究所は、自分だけのラスボスを\n育成し、スコアを競うコンテンツです。\nラスボスの研究に必要な強化パーツを集めて、\n自分だけの究極のラスボスを育成できます。\n\n強化したラスボスに勝利することで、\nラスボスの強さに応じたスコアが算出され、\nそのスコアに応じてミッション報酬を\n獲得することができます。\n\nラスボスとのバトルには挑戦できる回数に\n制限があり、１日５回までとなります。\nまた、ラスボスとのバトルは以下の独自ルールが\n適用されます。\n・状態異常無効\n・HP減少系の魔ビリティー無効\n・行動ゲージ減少無効\n・味方側のバフ上限・デバフ下限は無限\n・敵側のバフ上限は無限・デバフ下限は８０％\n\n※ラスボスを撃破しても記録屋の敵撃破数には\n反映されません。",
+    "platform": 0
+  },
+  {
+    "id": 172,
+    "sort": 172,
+    "category": "究極ラスボス研究所について",
+    "title": "特設ステージについて",
+    "body": "特設ステージではクリアすることで強化パーツを\n獲得することができます。\n\n特設ステージには以下のエリアが存在し、\nエリアによって獲得できる強化パーツが\n異なります。\n\n・魔界洞窟…主にラスボス強化細胞を獲得できる\n　　　　　　エリアです。\n・結晶洞窟…主にジオ強化結晶を獲得できる\n　　　　　　エリアです。\n・暗黒洞窟…主にジオ強化宝珠を獲得できる\n　　　　　　エリアです。\n\n各エリアのステージはクリアすることで\n次のステージが解放され、深いステージになる程\n効率よく強化パーツを集められます。\nまた、魔界洞窟以外の各エリアは、\n自分のラスボススコアが一定以上に達することで\n解放されます。",
+    "platform": 0
+  },
+  {
+    "id": 173,
+    "sort": 173,
+    "category": "究極ラスボス研究所について",
+    "title": "強化パーツについて",
+    "body": "強化パーツは大きく分けて３種類存在します。\n\n・ラスボス強化細胞…ラスボスのベースレベルを\n　　　　　　　　　　レベルアップすることが\n　　　　　　　　　　できる強化パーツです。\n\n・ジオ強化結晶…能力強化ジオエフェクトを\n　　　　　　　　レベルアップすることができる\n　　　　　　　　強化パーツです。\n　　　　　　　　４色存在し、色によって\n　　　　　　　　強化できるジオエフェクトが\n　　　　　　　　異なります。\n\n・ジオ強化宝珠…特殊効果ジオエフェクトを\n　　　　　　　　レベルアップすることができる\n　　　　　　　　強化パーツです。\n　　　　　　　　４色存在し、色によって\n　　　　　　　　強化できる特殊ジオエフェクト\n　　　　　　　　が異なります。",
+    "platform": 0
+  },
+  {
+    "id": 174,
+    "sort": 174,
+    "category": "究極ラスボス研究所について",
+    "title": "ラスボスの強化について",
+    "body": "ラスボスは、強化パーツを使用することで\nそれぞれの強化対象にEXPが付与され、\nMAXになるとレベルアップし強化されます。\n強化対象は大きく分けて\n以下の３種類になります。\n\n・ベースレベル\n強化することによってラスボスの\n基本ステータスが上昇します。\n強化にはラスボス強化細胞が\n必要となります。\n\n・能力強化ジオエフェクト\n強化することによって該当ジオエフェクトの\n効果値がアップします。\n強化にはジオ強化結晶が必要となり、\nジオエフェクトの色によって、\n必要な強化パーツの色が異なります。\nまた、ジオエフェクトの種類によって、\n上限レベルが異なります。\n\n・特殊効果ジオエフェクト\n強化することによって該当ジオエフェクトの\n効果値がアップします。\n強化にはジオ宝珠結晶が必要となり、\nジオエフェクトの色によって、\n必要な強化パーツの色が異なります。\nまた、ジオエフェクトの種類によって、\n上限レベルが異なります。",
+    "platform": 0
+  },
+  {
+    "id": 175,
+    "sort": 175,
+    "category": "究極ラスボス研究所について",
+    "title": "ラスボスの弱化・リセットについて",
+    "body": "ラスボスは強化だけでなく、\n弱化・リセットすることもできます。\n\n弱化はベースレベルを下げることができますが\nEXPは０からとなります。\n\nリセットはジオエフェクトをリセットすることで\n該当ジオエフェクトのレベル、EXPを\n初期化させます。\n\n※弱化・ジオエフェクトのリセットともに、\n強化時に使用した強化パーツは返還されません。",
+    "platform": 0
+  },
+  {
+    "id": 176,
+    "sort": 176,
+    "category": "究極ラスボス研究所について",
+    "title": "他ユーザーのラスボスとの\nバトルについて",
+    "body": "他ユーザーのラスボスに挑戦し、\n勝利することで、\n挑戦PTを獲得することができます。\n獲得できる挑戦PTは挑戦したラスボスの\nラスボススコアが高いほど、多くの挑戦PTを\n獲得することができます。\n獲得した挑戦PTは蓄積され、獲得している\n挑戦PTに応じて、マンスリーミッションで報酬を\n獲得することができます。",
+    "platform": 0
+  },
+  {
+    "id": 177,
+    "sort": 177,
+    "category": "究極ラスボス研究所について",
+    "title": "ミッションについて",
+    "body": "ミッションでは条件を満たすことで\n報酬を獲得することができます。\nミッションには\n・通常ミッション\n・デイリーミッション\n・マンスリーミッション\nの3種類が存在し、\nデイリーミッションは毎日0時に、\nマンスリーミッションは毎月1日の0時に、\nそれぞれリセットされます。",
+    "platform": 0
+  },
+  {
+    "id": 178,
+    "sort": 178,
+    "category": "究極ラスボス研究所について",
+    "title": "ランキングについて",
+    "body": "ランキングには\n・ラスボススコアランキング\n・人気のラスボスランキング\nの2種類が存在します。\n\nラスボススコアランキングは\n自分のラスボススコアによるランキングと\nなります。\n\n人気のラスボスランキングは\n他ユーザーから挑戦された回数による\nランキングで毎月1日の0時に\nリセットされます。",
+    "platform": 0
+  },
+  {
+    "id": 179,
+    "sort": 179,
+    "category": "魔界ツアーズについて",
+    "title": "魔界ツアーズとは",
+    "body": "魔界ツアーズとはピリリカ率いる界援隊と共に\n各地の魔界を巡るツアーです。\nピリリカのお手伝いをしつつ多種多様な魔界を\n探索し報酬を獲得することができます。\n報酬は主に防具の超強化に必要な素材を\n獲得する事ができます。",
+    "platform": 0
+  },
+  {
+    "id": 180,
+    "sort": 180,
+    "category": "魔界ツアーズについて",
+    "title": "ツアーについて",
+    "body": "魔界ツアーズでは参加するツアーを選択し、\n該当のツアーの魔界にあるステージをクリアし\n報酬を獲得します。\n参加したいツアーを選択し、次にツアーに参加\nするメンバーを選択します。\n魔界ツアーズは挑戦回数に制限はありませんが、\n各キャラごとに挑戦権は1日1回までという\n制約があります。\n各キャラの当日の挑戦権は魔晶石を使用する\nことで回復することができます。\n到着する魔界がどこになるかはランダムとなり、\n同じツアー内で同じ魔界が選択されることは\nありません。\nなお、魔界ツアーズの参加にはHLが\n必要となります。",
+    "platform": 0
+  },
+  {
+    "id": 181,
+    "sort": 181,
+    "category": "魔界ツアーズについて",
+    "title": "魔界とステージについて",
+    "body": "魔界は3つのステージで構成されており、\n3ステージ目のBOSSステージをクリアすると、\n魔界クリアとなります。\nHP、SPはステージクリア後には回復せず、\nそのまま持ち越しとなります。\n魔界ツアーズのステージに登場する敵は、\n魔ビリティ―を使用します。\nまた、魔界ごとに配置されている敵が異なり、\nクリアしている魔界の数やツアーの内容に\nよって敵の強さが変動します。\nバトルに敗北するとツアー内で獲得した報酬が\n半減してしまいます。\n※報酬が半減する場合の獲得数は\n　小数点切り上げとなります",
+    "platform": 0
+  },
+  {
+    "id": 182,
+    "sort": 182,
+    "category": "魔界ツアーズについて",
+    "title": "ツアーの切り上げについて",
+    "body": "魔界ツアーズでは各魔界の画面で【引き返す】\nボタンを選択することで、ツアーを途中で\n切り上げることができます。\n魔界をクリアしていない状態でツアーを\n切り上げた場合は、バトル敗北時と同様に\n報酬が半減します。",
+    "platform": 0
+  },
+  {
+    "id": 183,
+    "sort": 183,
+    "category": "魔界ツアーズについて",
+    "title": "報酬GETタイムについて",
+    "body": "報酬GETタイムは、各魔界のステージクリア\nごとに発生します。\nランダムで表示される3つの報酬の中から\n1つを選択し、該当の報酬を獲得します。\n報酬には、アイテムだけでなく、\n各種疲労効果を回復させるものや、\nHP・SPを回復させるもの、\n戦闘不能になったキャラを蘇生させるものも\n登場することがあります。\n報酬内容は魔界の種類、クリアしている\n魔界の数によって変動します。",
+    "platform": 0
+  },
+  {
+    "id": 184,
+    "sort": 184,
+    "category": "魔界ツアーズについて",
+    "title": "次の魔界への移動について",
+    "body": "魔界のBOSSを倒すと次の魔界に向かうか\n引き返すかを選択することができます。\n魔界クリア後に引き返した場合は、\nツアーはクリアになりませんが、\nそれまでに獲得した報酬をそのまま\n獲得できます。\nまた、次の魔界に向かう際には、ツアー参加者\nから移動を手伝う先導者と、それによって\nたまる疲労効果を選ぶ必要があります。\n疲労効果は以下の通り\n・ランダムで使用可能な魔ビリティ―を2つ失う\n・HP以外の基礎パラメータ25%ダウン\n・装備品効果無効\n\n※疲労効果をどのキャラにも設定できない場合、 \n　そのツアーは切り上げる必要があります。",
+    "platform": 0
+  },
+  {
+    "id": 185,
+    "sort": 185,
+    "category": "魔界ツアーズについて",
+    "title": "ツアーのクリアについて",
+    "body": "ツアーごとに設定された数の魔界を巡れば \nツアーの完全制覇となり、初回クリア時には \n報酬を獲得することができます。",
+    "platform": 0
+  },
+  {
+    "id": 186,
+    "sort": 186,
+    "category": "魔界ツアーズについて",
+    "title": "戦闘不能キャラと疲労効果について",
+    "body": "付与された疲労効果はキャラが戦闘不能になった \n際に解除されず、そのまま保持されます。 \n戦闘不能時は報酬GETチャンスによって、 \nその効果を回復することもできなくなります。 \nまた、戦闘不能キャラは、魔界クリア後の\n疲労効果を付与する対象として\n選択することができません。",
+    "platform": 0
+  },
+  {
+    "id": 187,
+    "sort": 187,
+    "category": "魔界ツアーズについて",
+    "title": "魔イルについて",
+    "body": "ツアーを制覇すると【魔イル】を獲得できます。\n【魔イル】は魔イル交換所で様々な報酬と\n交換できるポイントです。",
+    "platform": 0
+  },
+  {
+    "id": 188,
+    "sort": 188,
+    "category": "魔界ツアーズについて",
+    "title": "修羅 魔界探検ツアーについて",
+    "body": "修羅 魔界探検ツアーは、\n1日1回だけ参加することができる\n高難度のツアーです。\nLv5の各種防具超強化素材を\n大量に獲得できますが、\n強化された敵が登場するほか、\n以下の特殊ルールが存在します。\n\n・期間限定魔界は出現しない\n・魔界移動時の先導者の疲労効果が2倍\n※基礎パラメータが50%以下のキャラには\n基礎パラメータダウンの疲労効果が\n付与できません\n・途中で全滅した場合、これまでに獲得した\nすべての報酬が消失\n・防具の超強化素材以外の\n通常報酬は抽選されない\n・蘇生、HP回復、SP回復の報酬は\n抽選されない\n\n※修羅 魔界探検ツアーは\nどっぷり魔界探検ツアーを\nクリアすることで解放されます",
+    "platform": 0
+  },
+  {
+    "id": 189,
+    "sort": 189,
+    "category": "ドリンクバーについて",
+    "title": "ドリンクバーとは",
+    "body": "ドリンクバーでは4色のプリキュールを \n組み合わせてカクテルを生成し、キャラに \n使用することで強化することができます。",
+    "platform": 0
+  },
+  {
+    "id": 190,
+    "sort": 190,
+    "category": "ドリンクバーについて",
+    "title": "プリキュールの生成について",
+    "body": "プリキュールはドリンクバーに\nバーテンダーを編成することで生成することが\nできます。\n編成可能なバーテンダーの数は5体までです。\n生成できるプリキュールの色と特性はキャラに\nよって異なり、\nプリキュール生成の特性には\n「生成量を加算するもの(+)と」\n「生産効率を上げるもの(%)」\nが存在します。\n生産効率を上げるものだけを編成しても\n生産力は上がらないのでご注意ください。\n生成できるプリキュールの量はバーテンダーに\n設定されているキャラの\n・覚醒回数\n・転生回数\n・魔改造段階\n・超転生回数\nの育成状況によって変動し、\n育成が進んでいるキャラ程、\n多くのプリキュールを生成することができます。",
+    "platform": 0
+  },
+  {
+    "id": 191,
+    "sort": 191,
+    "category": "ドリンクバーについて",
+    "title": "プリキュールの獲得について",
+    "body": "プリキュールは1時間ごとに生成され\nドリンクバーに遷移した際に、\nそれまでに生成された\nプリキュールを獲得することができます。\nただし、プリキュールの生成は24時間分まで\nとなり、24時間を超えた場合、ドリンクバーで\nプリキュールを受け取るまで\nそれ以上の生成は行われません。\nまた、所持上限を超えるプリキュールを\n受け取った場合、所持上限を超えた分の\nプリキュールは破棄されます。",
+    "platform": 0
+  },
+  {
+    "id": 192,
+    "sort": 192,
+    "category": "ドリンクバーについて",
+    "title": "カクテルについて",
+    "body": "カクテルの種類は以下の通りです。\n・カワルーワミルク\n　転生回数を+1するカクテル\n・スパリードライバー\n　超転生回数を+1するカクテル\n・覚醒・廃ボール\n　覚醒段階を+1するカクテル\n・超覚・廃ボール\n　超覚醒段階を+1するカクテル\n・マカイゾリータ\n　魔改造段階を+1するカクテル\n・マナティーニ\n　マナを＋100するカクテル\n・ウェポマス・サワー\n　装備中の武器種の武器熟練度を+1するカクテル\n　※なにも装備していない場合、強化対象は\n　　得意武器種の武器熟練度になります\n・ジン・テクニック\n　技Lvを+1するカクテル\n　※強化対象はセットされている\n　　すべての技となります",
+    "platform": 0
+  }
+]

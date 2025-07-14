@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "title": "Equip your special weapon",
+    "description": "Each character has a \"special weapon.\"\n\n\"Special Weapons\" is available on the character details screen.\nYou can check the weapon proficiency level (WM).\n\nCheck your \"special weapons\"\nLet's equip it!",
+    "condition_type": 57,
+    "condition_id": 0,
+    "condition_num": 1,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 1
+  },
+  {
+    "id": 2,
+    "title": "Make weapon proficiency (WM) level 5",
+    "description": "Weapon Proficiency (WM)\nEquip weapons and go around the stage,\nIt can be strengthened by using statues.\n\nImproved weapon proficiency,\nWhen equipped with the weapon in question\nThe weapon's parameters will increase.\n\nFurthermore, when weapon proficiency reaches a certain level,\nLearn weapon techniques.",
+    "condition_type": 59,
+    "condition_id": 0,
+    "condition_num": 5,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 2
+  },
+  {
+    "id": 3,
+    "title": "Make your special move LV5",
+    "description": "With a special move set\nDo you want to go around the stage or\nUsing secret books of techniques,\nLet's make your special move LV5!\n\nSpecial moves are strengthened\nThe power and effects of special moves have been enhanced,\nConsumption SP will also be reduced.",
+    "condition_type": 58,
+    "condition_id": 0,
+    "condition_num": 5,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 3
+  },
+  {
+    "id": 4,
+    "title": "Learn magic skills",
+    "description": "Wands and monster magic weapons\nImproved weapon proficiency (WM)\nYou can learn \"magic techniques.\"\n\n\"Magic Techniques\" differ from other weapon types.\nEven if you don't have a wand or monster magic weapon\nCan be used.",
+    "condition_type": 60,
+    "condition_id": 0,
+    "condition_num": 1,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 4
+  },
+  {
+    "id": 5,
+    "title": "Let's set up a magic skill",
+    "description": "The settings for magic moves can be found on the character details screen.\nYou can set it by changing your special move.\n\nMagical techniques are wands or monster magic weapons\nIt has an icon.\n\n\"Magic Techniques\" differ from other weapon types.\nEven if you don't have a wand or monster magic weapon\nCan be used.",
+    "condition_type": 61,
+    "condition_id": 0,
+    "condition_num": 1,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 5
+  },
+  {
+    "id": 6,
+    "title": "Increase your magic skill to LV5",
+    "description": "Set up a magic move and go around the stage,\nUsing secret books of techniques,\nStrengthen your magic move to LV5.\n\nWhen you strengthen your magic moves\nThe power and effects of magical techniques have been enhanced,\nConsumption SP will also be reduced.",
+    "condition_type": 62,
+    "condition_id": 0,
+    "condition_num": 5,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 6
+  },
+  {
+    "id": 7,
+    "title": "Let's go to level 500",
+    "description": "When you clear the stage,\nExperience points can be obtained for each character.\n\nBy obtaining a constant amount of experience points,\nThe character level increases.\n\nWhen the level increases, the character's parameters increase.\nYou can acquire unique skills.",
+    "condition_type": 38,
+    "condition_id": 0,
+    "condition_num": 500,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 7
+  },
+  {
+    "id": 8,
+    "title": "Let's go to level 1000",
+    "description": "When you clear the stage,\nExperience points can be obtained for each character.\n\nBy obtaining a constant amount of experience points,\nThe character level increases.\n\nWhen the level increases, the character's parameters increase.\nYou can acquire unique skills.",
+    "condition_type": 38,
+    "condition_id": 0,
+    "condition_num": 1000,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 8
+  },
+  {
+    "id": 9,
+    "title": "Make weapon proficiency (WM) level 10",
+    "description": "Equip weapons and go around the stage,\nUse statues to get weapon proficiency (WM)\nLet's strengthen it to level 10.\n\nImproved weapon proficiency (WM)\nWhen equipped with the weapon in question\nThe weapon's parameters will increase.\nFurthermore, when weapon proficiency level reaches a certain level\nLearn weapon techniques.",
+    "condition_type": 59,
+    "condition_id": 0,
+    "condition_num": 10,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 9
+  },
+  {
+    "id": 10,
+    "title": "Let's make your special move LV10",
+    "description": "Set a special move and go around the stage,\nUsing secret techniques\nStrengthen your special move to level 10.\n\nIf you strengthen your special move\nThe power and effects of special moves have been enhanced,\nConsumption SP will also be reduced.",
+    "condition_type": 58,
+    "condition_id": 0,
+    "condition_num": 10,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 10
+  },
+  {
+    "id": 11,
+    "title": "Allocate mana",
+    "description": "Mana allocation\nFrom \"Mana Allocation\" in \"Mao's Lab\"\nYou can do it.\n\nMana can be obtained with every reincarnation,\nBy allocating that mana,\nAbility cheats and weapon proficiency (WM)\nMaximum level increases.\n\nWith mana allocation\nStrengthen your characters to your liking!",
+    "condition_type": 64,
+    "condition_id": 0,
+    "condition_num": 1,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 11
+  },
+  {
+    "id": 12,
+    "title": "Let's go to level 1500",
+    "description": "When you clear the stage,\nExperience points can be obtained for each character.\n\nBy obtaining a constant amount of experience points,\nThe character level increases.\n\nWhen the level increases, the character's parameters increase.\nYou can acquire unique skills.",
+    "condition_type": 38,
+    "condition_id": 0,
+    "condition_num": 1500,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 12
+  },
+  {
+    "id": 13,
+    "title": "Let's awaken",
+    "description": "Awakening begins with \"Character Awakening\" in \"Mao's Lab.\"\nYou can do it.\n\nBy using five characters with the same number of ★ as materials,\nYou can \"awakening.\"\n\nIf you increase the number of ★,\nYou can further strengthen your character.",
+    "condition_type": 63,
+    "condition_id": 0,
+    "condition_num": 1,
+    "present_num": 10,
+    "replace_present_num": 3,
+    "sort": 13
+  },
+  {
+    "id": 14,
+    "title": "Let's go to level 2000",
+    "description": "When you clear the stage,\nExperience points can be obtained for each character.\n\nBy obtaining a constant amount of experience points,\nThe character level increases.\n\nWhen the level increases, the character's parameters increase.\nYou can acquire unique skills.",
+    "condition_type": 38,
+    "condition_id": 0,
+    "condition_num": 2000,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 14
+  },
+  {
+    "id": 15,
+    "title": "Let's do some magic modification",
+    "description": "The magic modification is from \"Mao's Lab.\"\nYou can do this by clicking \"Making magical modifications.\"\n\nOne character that is the same as the character you want to strengthen\nBy using it as material, you can make it \"magic modifications\".\n\nThe characters who have been \"magically modified\" are\nLearning new special moves\nYou can learn sub-magic abilities,\nYou can further strengthen your character.",
+    "condition_type": 37,
+    "condition_id": 0,
+    "condition_num": 1,
+    "present_num": 10,
+    "replace_present_num": 3,
+    "sort": 15
+  },
+  {
+    "id": 16,
+    "title": "Let's go to level 2500",
+    "description": "When you clear the stage,\nExperience points can be obtained for each character.\n\nBy obtaining a constant amount of experience points,\nThe character level increases.\n\nWhen the level increases, the character's parameters increase.\nYou can acquire unique skills.",
+    "condition_type": 38,
+    "condition_id": 0,
+    "condition_num": 2500,
+    "present_num": 5,
+    "replace_present_num": 1,
+    "sort": 16
+  },
+  {
+    "id": 17,
+    "title": "Let's go to level 3000",
+    "description": "When you clear the stage,\nExperience points can be obtained for each character.\n\nBy obtaining a constant amount of experience points,\nThe character level increases.\n\nWhen the level increases, the character's parameters increase.\nYou can acquire unique skills.",
+    "condition_type": 38,
+    "condition_id": 0,
+    "condition_num": 3000,
+    "present_num": 10,
+    "replace_present_num": 5,
+    "sort": 17
+  }
+]

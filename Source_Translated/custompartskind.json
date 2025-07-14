@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "level",
+    "kind": 1
+  },
+  {
+    "id": 2,
+    "name": "Red [Normal]",
+    "kind": 2
+  },
+  {
+    "id": 3,
+    "name": "Qing【usual】",
+    "kind": 2
+  },
+  {
+    "id": 4,
+    "name": "Yellow 【Often】",
+    "kind": 2
+  },
+  {
+    "id": 5,
+    "name": "Green [Normal]",
+    "kind": 2
+  },
+  {
+    "id": 6,
+    "name": "Red [Special]",
+    "kind": 2
+  },
+  {
+    "id": 7,
+    "name": "Qing【Special】",
+    "kind": 2
+  },
+  {
+    "id": 8,
+    "name": "Yellow 【Special】",
+    "kind": 2
+  },
+  {
+    "id": 9,
+    "name": "Green [Special]",
+    "kind": 2
+  }
+]
