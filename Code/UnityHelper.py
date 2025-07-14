@@ -34,7 +34,7 @@ class UnityHelper:
     def initial_datamine(self) -> bool:
         """Extract only the missing JSON files from FILES_TO_TRANSLATE."""
 
-        print(f"    ℹ️ Running initial setup")
+        print(f"\n    ℹ️ Running initial setup")
 
         existing_files = {f.stem for f in self.source_path.glob("*.json")}
         missing_files = set(Config.FILES_TO_TRANSLATE) - existing_files
@@ -73,6 +73,7 @@ class UnityHelper:
         print("       ├─ ✅ Completed initial setup.")
         return False
 
+    # Datamine files specified on a list
     def datamine_files(self, files_to_datamine:list[str]) -> None:
         for obj in self.env.objects:
             if obj.type.name != "MonoBehaviour":
@@ -95,21 +96,25 @@ class UnityHelper:
         Config.set_datetime_field(Config.INITIAL_SETUP)
         return False
   
-    def translate_game_files(self, files_to_translate:List[str] = None) -> None:
+    # Generate translated game files and place them in the Translated_Files folder
+    def generate_translated_game_files(self, files_to_translate:List[str] = None) -> None:
+        print(f"\n    ℹ️ Generating translated game files")
         for obj in self.env.objects:
             if obj.type.name == "MonoBehaviour":
-
+                filename = ''
                 if obj.serialized_type.nodes:            
-                    # save decoded data
                     data = obj.read()
-                    #if data.m_Name in ignore:
-                    if files_to_translate is None or data.m_Name in files_to_translate: 
-                        print(f"Skipping file {data.m_Name}")
+                    filename = data.m_Name
+                    # If translating only updated files check if the file needs to be translated:
+                    if files_to_translate is not None and filename not in files_to_translate: 
+                        continue
+                    # Check if the file is in the lit of files to translate
+                    if filename not in Config.FILES_TO_TRANSLATE: 
                         continue
                     tree = obj.read_typetree()
 
                     updated = False
-                    translated_data = self.__load_translated_data(data.m_Name)
+                    translated_data = self.__load_translated_data(filename)
                     translated_index = {entry["id"]: entry for entry in translated_data}
 
                     for item in tree['DataList']:
@@ -120,19 +125,21 @@ class UnityHelper:
                                 if key in en_data:
                                     item[key] = en_data[key]
                                     updated = True
-                    #data.save()
                 if updated:
                     obj.save_typetree(tree)
+                    print(f"            ├─ 📦 Generated file: {filename}")
 
         for path, env_file in self.env.files.items():
-            output_path = os.path.join(Paths.SOURCE_TRANSLATED_DIR, os.path.basename(path))
+            output_path = os.path.join(Paths.TRANSLATED_FILES_DIR, os.path.basename(path))
             filename = path[path.rfind('/') + 1:]
             if filename in Config.FILES_TO_TRANSLATE:
                 os.makedirs(os.path.dirname(output_path), exist_ok=True)
                 with open(output_path, "wb") as f:
                     f.write(env_file.save(packer=(64,2)))
+        
+        print("       ├─ ✅ Finished generating translated game files.")
  
-    def __load_translated_data(filename:str):  
+    def __load_translated_data(self, filename:str):  
         filepath = os.path.join(Paths.SOURCE_TRANSLATED_DIR, filename + '.json')  
         with io.open(filepath, encoding='utf8') as fj:
             translated_source_data=json.load(fj)

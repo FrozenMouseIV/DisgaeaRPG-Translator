@@ -18,21 +18,24 @@ def main():
     # 2 - 1: INITIAL SETUP NEEDED. PATCH EVERYTHING FROM SOURCE_TRANSLATED
     if initial_setup_done == False:
         translator_helper.initial_translation()
-        unity_helper.translate_game_files(Config.get_updated_files())
+        unity_helper.generate_translated_game_files()
 
     # 2 - 2: INITIAL SETUP ALREADY DONE. LOOK FOR UPDATED FILES
     else:       
         translator_helper.find_updated_files() # look for updated files
         translator_helper.translate_updated_files() # translate them
-        unity_helper.translate_game_files(Config.get_updated_files())
+        unity_helper.generate_translated_game_files(Config.get_updated_files())
 
     # STEP 3 - MOVE FILES TO MASTERS FOLDER?
+    translator_helper.update_game_files()
     if initial_setup_done == False:
         Config.set_datetime_field(Config.INITIAL_SETUP)
-
+    Config.set_datetime_field(Config.LAST_EXECUTION)
+    
     end_time = time.time()
     elapsed = end_time - start_time
     print(f"✅ Finished execution in {elapsed:.2f}s")
+
 
 if __name__ == "__main__":
     main()

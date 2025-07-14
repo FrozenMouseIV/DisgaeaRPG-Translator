@@ -1,6 +1,7 @@
 from datetime import datetime
 import json
 import os
+from pathlib import Path
 import shutil
 import time
 from Code.UnityHelper import UnityHelper
@@ -67,14 +68,14 @@ class Translator_Util:
 
     # in case the initial files are not up to date. Look for new entries, translate and update our translations
     def initial_translation(self):
-        print(f"    ℹ️ Running initial translation")
+        print(f"\n    ℹ️ Running initial translation")
         for filename in os.listdir(Paths.SOURCE_DIR):
             file_path = os.path.join(Paths.SOURCE_DIR, filename)
             # Skip subfolders
             if not os.path.isfile(file_path):
                 continue
             self.__translate_file(filename=filename)
-        print("       ├─ ✅ Completed initial setup.")
+        print("       ├─ ✅ Completed initial translation.")
 
     # Look for files changed after last execution
     def find_updated_files(self):
@@ -138,3 +139,19 @@ class Translator_Util:
 
                 if name_only not in Config.FILES_TO_CHECK_FOR_UPDATES:
                     os.remove(file_path)     
+
+    def update_game_files(self):
+        print(f"\n    ℹ️ Updating game files")
+        source_dir = Path(Paths.TRANSLATED_FILES_DIR)
+        target_dir = Path(Paths.GAME_MASTERS)
+
+        # Ensure the destination exists
+        target_dir.mkdir(parents=True, exist_ok=True)
+
+        # Copy all files (ignoring subdirectories)
+        for file in source_dir.iterdir():
+            if file.is_file():
+                target_file = target_dir / file.name
+                shutil.copy2(file, target_file)
+                print(f"       ├─ 🔁 Copied {file.name} to {target_file}")
+        print("       ├─ ✅ Finished updating game files.")
