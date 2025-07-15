@@ -95,7 +95,7 @@ class Config:
 
     FIELDS_TO_TRANSLATE = [
         'ability_description', 'body', 'button_text', 'category', 'class_name', 'class_name_1',
-        'class_name_2', 'class_name_3', 'class_name_4', 'class_name_5',
+        'class_name_2', 'class_name_3', 'class_name_4', 'class_name_5', 'condition_unit_name',
         'description', 'description_effect', 'description_format',
         'get_areas', 'name', 'name_battle', 'release_content_description',
         'resource_name', 'title'
