@@ -27,18 +27,19 @@ class EffectTranslator:
         if os.path.exists(path):
             with open(path, 'r', encoding='utf8') as f:
                 raw_dict = json.load(f)
-                # Sort by descending key length for priority replacement
+                # Sort keys by length desc so longer matches replace first
+                # Compile regex patterns for better performance
                 self.replacements = sorted(
-                    raw_dict.items(),
-                    key=lambda item: len(item[0]),
+                    [(re.compile(re.escape(k)), v) for k, v in raw_dict.items()],
+                    key=lambda x: len(x[0].pattern),
                     reverse=True
                 )
 
     def translate(self, text):
         result = text
-        for jp, en in self.replacements:
-            pattern = re.escape(jp)
-            result = re.sub(pattern, en, text)
+        result = text
+        for pattern, replacement in self.replacements:
+            result = pattern.sub(replacement, result)
         return result
 
 class Translator:

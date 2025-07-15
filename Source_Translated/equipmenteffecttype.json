@@ -4,7 +4,7 @@
     "effect_type": 1,
     "effect_type_param": 0,
     "effect_timing": 0,
-    "description": "Innocent effects \u002B{0}%",
+    "description": "Innocent effects +{0}%",
     "effect_value_max": 40
   },
   {
@@ -12,7 +12,7 @@
     "effect_type": 7,
     "effect_type_param": 0,
     "effect_timing": 0,
-    "description": "Critical rate \u002B{0}%",
+    "description": "Critical rate +{0}%",
     "effect_value_max": 20
   },
   {
@@ -20,7 +20,7 @@
     "effect_type": 8,
     "effect_type_param": 0,
     "effect_timing": 0,
-    "description": "Critical damage \u002B{0}%",
+    "description": "Critical damage +{0}%",
     "effect_value_max": 100
   },
   {
@@ -28,7 +28,7 @@
     "effect_type": 2,
     "effect_type_param": 1,
     "effect_timing": 0,
-    "description": "HP\u002B{0}",
+    "description": "HP+{0}",
     "effect_value_max": 350000
   },
   {
@@ -36,7 +36,7 @@
     "effect_type": 2,
     "effect_type_param": 3,
     "effect_timing": 0,
-    "description": "DEF\u002B{0}",
+    "description": "DEF+{0}",
     "effect_value_max": 287500
   },
   {
@@ -44,7 +44,7 @@
     "effect_type": 2,
     "effect_type_param": 5,
     "effect_timing": 0,
-    "description": "RES\u002B{0}",
+    "description": "RES+{0}",
     "effect_value_max": 287500
   },
   {
@@ -52,7 +52,7 @@
     "effect_type": 5,
     "effect_type_param": 302,
     "effect_timing": 1,
-    "description": "Water damage dealt \u002B{0}%",
+    "description": "Water damage dealt +{0}%",
     "effect_value_max": 30
   },
   {
@@ -60,7 +60,7 @@
     "effect_type": 5,
     "effect_type_param": 301,
     "effect_timing": 1,
-    "description": "Fire damage dealt \u002B{0}%",
+    "description": "Fire damage dealt +{0}%",
     "effect_value_max": 30
   },
   {
@@ -68,7 +68,7 @@
     "effect_type": 5,
     "effect_type_param": 303,
     "effect_timing": 1,
-    "description": "Wind damage dealt \u002B{0}%",
+    "description": "Wind damage dealt +{0}%",
     "effect_value_max": 30
   },
   {
@@ -76,7 +76,7 @@
     "effect_type": 5,
     "effect_type_param": 304,
     "effect_timing": 1,
-    "description": "Star damage dealt \u002B{0}%",
+    "description": "Star damage dealt +{0}%",
     "effect_value_max": 30
   },
   {
@@ -84,7 +84,7 @@
     "effect_type": 5,
     "effect_type_param": 300,
     "effect_timing": 1,
-    "description": "Non-elemental damage dealt \u002B{0}%",
+    "description": "Non-elemental damage dealt +{0}%",
     "effect_value_max": 20
   },
   {
@@ -92,7 +92,7 @@
     "effect_type": 5,
     "effect_type_param": 102,
     "effect_timing": 1,
-    "description": "Normal Attack damage dealt \u002B{0}%",
+    "description": "Normal Attack damage dealt +{0}%",
     "effect_value_max": 50
   },
   {
@@ -100,7 +100,7 @@
     "effect_type": 5,
     "effect_type_param": 103,
     "effect_timing": 1,
-    "description": "Special Move damage dealt \u002B{0}%",
+    "description": "Special Move damage dealt +{0}%",
     "effect_value_max": 20
   },
   {
@@ -108,7 +108,7 @@
     "effect_type": 5,
     "effect_type_param": 402,
     "effect_timing": 1,
-    "description": "Damage dealt to Fist Char. \u002B{0}%",
+    "description": "Damage dealt to Fist Char. +{0}%",
     "effect_value_max": 35
   },
   {
@@ -116,7 +116,7 @@
     "effect_type": 5,
     "effect_type_param": 401,
     "effect_timing": 1,
-    "description": "Damage dealt to Sword Char. \u002B{0}%",
+    "description": "Damage dealt to Sword Char. +{0}%",
     "effect_value_max": 35
   },
   {
@@ -124,7 +124,7 @@
     "effect_type": 5,
     "effect_type_param": 403,
     "effect_timing": 1,
-    "description": "Damage dealt to Spear Char. \u002B{0}%",
+    "description": "Damage dealt to Spear Char. +{0}%",
     "effect_value_max": 35
   },
   {
@@ -132,7 +132,7 @@
     "effect_type": 5,
     "effect_type_param": 406,
     "effect_timing": 1,
-    "description": "Damage dealt to Axe Char. \u002B{0}%",
+    "description": "Damage dealt to Axe Char. +{0}%",
     "effect_value_max": 35
   },
   {
@@ -140,7 +140,7 @@
     "effect_type": 5,
     "effect_type_param": 407,
     "effect_timing": 1,
-    "description": "Damage dealt to Staff Char. \u002B{0}%",
+    "description": "Damage dealt to Staff Char. +{0}%",
     "effect_value_max": 35
   },
   {
@@ -148,7 +148,7 @@
     "effect_type": 5,
     "effect_type_param": 404,
     "effect_timing": 1,
-    "description": "Damage dealt to Bow Char. \u002B{0}%",
+    "description": "Damage dealt to Bow Char. +{0}%",
     "effect_value_max": 35
   },
   {
@@ -156,7 +156,7 @@
     "effect_type": 5,
     "effect_type_param": 405,
     "effect_timing": 1,
-    "description": "Damage dealt to Gun Char. \u002B{0}%",
+    "description": "Damage dealt to Gun Char. +{0}%",
     "effect_value_max": 35
   },
   {
@@ -164,7 +164,7 @@
     "effect_type": 5,
     "effect_type_param": 409,
     "effect_timing": 1,
-    "description": "Damage dealt to Mon. Mag. Char. \u002B{0}%",
+    "description": "Damage dealt to Mon. Mag. Char. +{0}%",
     "effect_value_max": 35
   },
   {
@@ -172,7 +172,7 @@
     "effect_type": 5,
     "effect_type_param": 408,
     "effect_timing": 1,
-    "description": "Damage dealt to Mon. Phys. Char. \u002B{0}%",
+    "description": "Damage dealt to Mon. Phys. Char. +{0}%",
     "effect_value_max": 35
   },
   {
@@ -180,7 +180,7 @@
     "effect_type": 5,
     "effect_type_param": 501,
     "effect_timing": 1,
-    "description": "Damage dealt to Male Char. \u002B{0}%",
+    "description": "Damage dealt to Male Char. +{0}%",
     "effect_value_max": 25
   },
   {
@@ -188,7 +188,7 @@
     "effect_type": 5,
     "effect_type_param": 502,
     "effect_timing": 1,
-    "description": "Damage dealt to Female Char. \u002B{0}%",
+    "description": "Damage dealt to Female Char. +{0}%",
     "effect_value_max": 25
   },
   {
@@ -196,7 +196,7 @@
     "effect_type": 5,
     "effect_type_param": 602,
     "effect_timing": 1,
-    "description": "Damage dealt to Monster Char. \u002B{0}%",
+    "description": "Damage dealt to Monster Char. +{0}%",
     "effect_value_max": 25
   },
   {
@@ -204,7 +204,7 @@
     "effect_type": 5,
     "effect_type_param": 601,
     "effect_timing": 1,
-    "description": "Damage dealt to Human Char. \u002B{0}%",
+    "description": "Damage dealt to Human Char. +{0}%",
     "effect_value_max": 25
   },
   {
@@ -212,7 +212,7 @@
     "effect_type": 9,
     "effect_type_param": 0,
     "effect_timing": 1,
-    "description": "\u002B{0} SP at the beginning of each battle",
+    "description": "+{0} SP at the beginning of each battle",
     "effect_value_max": 10
   },
   {
@@ -220,7 +220,7 @@
     "effect_type": 9,
     "effect_type_param": 0,
     "effect_timing": 2,
-    "description": "SP \u002B{0} when a turn begins",
+    "description": "SP +{0} when a turn begins",
     "effect_value_max": 5
   },
   {
@@ -228,7 +228,7 @@
     "effect_type": 13,
     "effect_type_param": 0,
     "effect_timing": 5,
-    "description": "Action Gauge \u002B{0} when a wave begins",
+    "description": "Action Gauge +{0} when a wave begins",
     "effect_value_max": 80
   },
   {

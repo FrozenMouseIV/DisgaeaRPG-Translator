@@ -2654,7 +2654,7 @@
   {
     "id": 244001,
     "m_event_id": 244,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -2667,7 +2667,7 @@
   {
     "id": 244002,
     "m_event_id": 244,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 12441,
     "condition_num": 1,
@@ -2680,7 +2680,7 @@
   {
     "id": 244003,
     "m_event_id": 244,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 12441,
     "condition_num": 5,
@@ -2693,7 +2693,7 @@
   {
     "id": 244004,
     "m_event_id": 244,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -2719,7 +2719,7 @@
   {
     "id": 258001,
     "m_event_id": 258,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -2732,7 +2732,7 @@
   {
     "id": 258002,
     "m_event_id": 258,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 12581,
     "condition_num": 1,
@@ -2745,7 +2745,7 @@
   {
     "id": 258003,
     "m_event_id": 258,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 12581,
     "condition_num": 5,
@@ -2758,7 +2758,7 @@
   {
     "id": 258004,
     "m_event_id": 258,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -2784,7 +2784,7 @@
   {
     "id": 260001,
     "m_event_id": 260,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -2797,7 +2797,7 @@
   {
     "id": 260002,
     "m_event_id": 260,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 12601,
     "condition_num": 1,
@@ -2810,7 +2810,7 @@
   {
     "id": 260003,
     "m_event_id": 260,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 12601,
     "condition_num": 5,
@@ -2823,7 +2823,7 @@
   {
     "id": 260004,
     "m_event_id": 260,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -2849,7 +2849,7 @@
   {
     "id": 279001,
     "m_event_id": 279,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -2862,7 +2862,7 @@
   {
     "id": 279002,
     "m_event_id": 279,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 12791,
     "condition_num": 1,
@@ -2875,7 +2875,7 @@
   {
     "id": 279003,
     "m_event_id": 279,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 12791,
     "condition_num": 5,
@@ -2888,7 +2888,7 @@
   {
     "id": 279004,
     "m_event_id": 279,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -2914,7 +2914,7 @@
   {
     "id": 297001,
     "m_event_id": 297,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -2927,7 +2927,7 @@
   {
     "id": 297002,
     "m_event_id": 297,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 12971,
     "condition_num": 1,
@@ -2940,7 +2940,7 @@
   {
     "id": 297003,
     "m_event_id": 297,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 12971,
     "condition_num": 5,
@@ -2953,7 +2953,7 @@
   {
     "id": 297004,
     "m_event_id": 297,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -2979,7 +2979,7 @@
   {
     "id": 308001,
     "m_event_id": 308,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -2992,7 +2992,7 @@
   {
     "id": 308002,
     "m_event_id": 308,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 13081,
     "condition_num": 1,
@@ -3005,7 +3005,7 @@
   {
     "id": 308003,
     "m_event_id": 308,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 13081,
     "condition_num": 5,
@@ -3018,7 +3018,7 @@
   {
     "id": 308004,
     "m_event_id": 308,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3044,7 +3044,7 @@
   {
     "id": 315001,
     "m_event_id": 315,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3057,7 +3057,7 @@
   {
     "id": 315002,
     "m_event_id": 315,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 13151,
     "condition_num": 1,
@@ -3070,7 +3070,7 @@
   {
     "id": 315003,
     "m_event_id": 315,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 13151,
     "condition_num": 5,
@@ -3083,7 +3083,7 @@
   {
     "id": 315004,
     "m_event_id": 315,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3109,7 +3109,7 @@
   {
     "id": 323001,
     "m_event_id": 323,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3122,7 +3122,7 @@
   {
     "id": 323002,
     "m_event_id": 323,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 13231,
     "condition_num": 1,
@@ -3135,7 +3135,7 @@
   {
     "id": 323003,
     "m_event_id": 323,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 13231,
     "condition_num": 5,
@@ -3148,7 +3148,7 @@
   {
     "id": 323004,
     "m_event_id": 323,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3174,7 +3174,7 @@
   {
     "id": 348001,
     "m_event_id": 348,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3187,7 +3187,7 @@
   {
     "id": 348002,
     "m_event_id": 348,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 13481,
     "condition_num": 1,
@@ -3200,7 +3200,7 @@
   {
     "id": 348003,
     "m_event_id": 348,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 13481,
     "condition_num": 5,
@@ -3213,7 +3213,7 @@
   {
     "id": 348004,
     "m_event_id": 348,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3239,7 +3239,7 @@
   {
     "id": 363001,
     "m_event_id": 363,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3252,7 +3252,7 @@
   {
     "id": 363002,
     "m_event_id": 363,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 13631,
     "condition_num": 1,
@@ -3265,7 +3265,7 @@
   {
     "id": 363003,
     "m_event_id": 363,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 13631,
     "condition_num": 5,
@@ -3278,7 +3278,7 @@
   {
     "id": 363004,
     "m_event_id": 363,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3304,7 +3304,7 @@
   {
     "id": 375001,
     "m_event_id": 375,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3317,7 +3317,7 @@
   {
     "id": 375002,
     "m_event_id": 375,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 13751,
     "condition_num": 1,
@@ -3330,7 +3330,7 @@
   {
     "id": 375003,
     "m_event_id": 375,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 13751,
     "condition_num": 5,
@@ -3343,7 +3343,7 @@
   {
     "id": 375004,
     "m_event_id": 375,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3369,7 +3369,7 @@
   {
     "id": 404001,
     "m_event_id": 404,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3382,7 +3382,7 @@
   {
     "id": 404002,
     "m_event_id": 404,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 14041,
     "condition_num": 1,
@@ -3395,7 +3395,7 @@
   {
     "id": 404003,
     "m_event_id": 404,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 14041,
     "condition_num": 5,
@@ -3408,7 +3408,7 @@
   {
     "id": 404004,
     "m_event_id": 404,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3434,7 +3434,7 @@
   {
     "id": 413001,
     "m_event_id": 413,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3447,7 +3447,7 @@
   {
     "id": 413002,
     "m_event_id": 413,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 14131,
     "condition_num": 1,
@@ -3460,7 +3460,7 @@
   {
     "id": 413003,
     "m_event_id": 413,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 14131,
     "condition_num": 5,
@@ -3473,7 +3473,7 @@
   {
     "id": 413004,
     "m_event_id": 413,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3499,7 +3499,7 @@
   {
     "id": 421001,
     "m_event_id": 421,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3512,7 +3512,7 @@
   {
     "id": 421002,
     "m_event_id": 421,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 14211,
     "condition_num": 1,
@@ -3525,7 +3525,7 @@
   {
     "id": 421003,
     "m_event_id": 421,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 14211,
     "condition_num": 5,
@@ -3538,7 +3538,7 @@
   {
     "id": 421004,
     "m_event_id": 421,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3564,7 +3564,7 @@
   {
     "id": 429001,
     "m_event_id": 429,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3577,7 +3577,7 @@
   {
     "id": 429002,
     "m_event_id": 429,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 14291,
     "condition_num": 1,
@@ -3590,7 +3590,7 @@
   {
     "id": 429003,
     "m_event_id": 429,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 14291,
     "condition_num": 5,
@@ -3603,7 +3603,7 @@
   {
     "id": 429004,
     "m_event_id": 429,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3629,7 +3629,7 @@
   {
     "id": 442001,
     "m_event_id": 442,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3642,7 +3642,7 @@
   {
     "id": 442002,
     "m_event_id": 442,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 14421,
     "condition_num": 1,
@@ -3655,7 +3655,7 @@
   {
     "id": 442003,
     "m_event_id": 442,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 14421,
     "condition_num": 5,
@@ -3668,7 +3668,7 @@
   {
     "id": 442004,
     "m_event_id": 442,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3694,7 +3694,7 @@
   {
     "id": 455001,
     "m_event_id": 455,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3707,7 +3707,7 @@
   {
     "id": 455002,
     "m_event_id": 455,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 14551,
     "condition_num": 1,
@@ -3720,7 +3720,7 @@
   {
     "id": 455003,
     "m_event_id": 455,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 14551,
     "condition_num": 5,
@@ -3733,7 +3733,7 @@
   {
     "id": 455004,
     "m_event_id": 455,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3759,7 +3759,7 @@
   {
     "id": 465001,
     "m_event_id": 465,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3772,7 +3772,7 @@
   {
     "id": 465002,
     "m_event_id": 465,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 14651,
     "condition_num": 1,
@@ -3785,7 +3785,7 @@
   {
     "id": 465003,
     "m_event_id": 465,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -3798,7 +3798,7 @@
   {
     "id": 465004,
     "m_event_id": 465,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3824,7 +3824,7 @@
   {
     "id": 484001,
     "m_event_id": 484,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3837,7 +3837,7 @@
   {
     "id": 484002,
     "m_event_id": 484,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 14841,
     "condition_num": 1,
@@ -3850,7 +3850,7 @@
   {
     "id": 484003,
     "m_event_id": 484,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -3863,7 +3863,7 @@
   {
     "id": 484004,
     "m_event_id": 484,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3889,7 +3889,7 @@
   {
     "id": 495001,
     "m_event_id": 495,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3902,7 +3902,7 @@
   {
     "id": 495002,
     "m_event_id": 495,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 14951,
     "condition_num": 1,
@@ -3915,7 +3915,7 @@
   {
     "id": 495003,
     "m_event_id": 495,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -3928,7 +3928,7 @@
   {
     "id": 495004,
     "m_event_id": 495,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -3954,7 +3954,7 @@
   {
     "id": 501001,
     "m_event_id": 501,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -3967,7 +3967,7 @@
   {
     "id": 501002,
     "m_event_id": 501,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 15011,
     "condition_num": 1,
@@ -3980,7 +3980,7 @@
   {
     "id": 501003,
     "m_event_id": 501,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -3993,7 +3993,7 @@
   {
     "id": 501004,
     "m_event_id": 501,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4019,7 +4019,7 @@
   {
     "id": 518001,
     "m_event_id": 518,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4032,7 +4032,7 @@
   {
     "id": 518002,
     "m_event_id": 518,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 15181,
     "condition_num": 1,
@@ -4045,7 +4045,7 @@
   {
     "id": 518003,
     "m_event_id": 518,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4058,7 +4058,7 @@
   {
     "id": 518004,
     "m_event_id": 518,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4084,7 +4084,7 @@
   {
     "id": 525001,
     "m_event_id": 525,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4097,7 +4097,7 @@
   {
     "id": 525002,
     "m_event_id": 525,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 15251,
     "condition_num": 1,
@@ -4110,7 +4110,7 @@
   {
     "id": 525003,
     "m_event_id": 525,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4123,7 +4123,7 @@
   {
     "id": 525004,
     "m_event_id": 525,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4149,7 +4149,7 @@
   {
     "id": 545001,
     "m_event_id": 545,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4162,7 +4162,7 @@
   {
     "id": 545002,
     "m_event_id": 545,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 15451,
     "condition_num": 1,
@@ -4175,7 +4175,7 @@
   {
     "id": 545003,
     "m_event_id": 545,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4188,7 +4188,7 @@
   {
     "id": 545004,
     "m_event_id": 545,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4214,7 +4214,7 @@
   {
     "id": 553001,
     "m_event_id": 553,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4227,7 +4227,7 @@
   {
     "id": 553002,
     "m_event_id": 553,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 15531,
     "condition_num": 1,
@@ -4240,7 +4240,7 @@
   {
     "id": 553003,
     "m_event_id": 553,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4253,7 +4253,7 @@
   {
     "id": 553004,
     "m_event_id": 553,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4279,7 +4279,7 @@
   {
     "id": 568001,
     "m_event_id": 568,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4292,7 +4292,7 @@
   {
     "id": 568002,
     "m_event_id": 568,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 15681,
     "condition_num": 1,
@@ -4305,7 +4305,7 @@
   {
     "id": 568003,
     "m_event_id": 568,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4318,7 +4318,7 @@
   {
     "id": 568004,
     "m_event_id": 568,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4344,7 +4344,7 @@
   {
     "id": 576001,
     "m_event_id": 576,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4357,7 +4357,7 @@
   {
     "id": 576002,
     "m_event_id": 576,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 15761,
     "condition_num": 1,
@@ -4370,7 +4370,7 @@
   {
     "id": 576003,
     "m_event_id": 576,
-    "title": "Complete the event stage five times",
+    "title": "Clear Event Stage 5 Times",
     "condition_type": 44,
     "condition_id": 15761,
     "condition_num": 5,
@@ -4383,7 +4383,7 @@
   {
     "id": 576004,
     "m_event_id": 576,
-    "title": "Get 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4409,7 +4409,7 @@
   {
     "id": 582001,
     "m_event_id": 582,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4422,7 +4422,7 @@
   {
     "id": 582002,
     "m_event_id": 582,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 15821,
     "condition_num": 1,
@@ -4435,7 +4435,7 @@
   {
     "id": 582003,
     "m_event_id": 582,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4448,7 +4448,7 @@
   {
     "id": 582004,
     "m_event_id": 582,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4474,7 +4474,7 @@
   {
     "id": 599001,
     "m_event_id": 599,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4487,7 +4487,7 @@
   {
     "id": 599002,
     "m_event_id": 599,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 15991,
     "condition_num": 1,
@@ -4500,7 +4500,7 @@
   {
     "id": 599003,
     "m_event_id": 599,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4513,7 +4513,7 @@
   {
     "id": 599004,
     "m_event_id": 599,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4539,7 +4539,7 @@
   {
     "id": 611001,
     "m_event_id": 611,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4552,7 +4552,7 @@
   {
     "id": 611002,
     "m_event_id": 611,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 16111,
     "condition_num": 1,
@@ -4565,7 +4565,7 @@
   {
     "id": 611003,
     "m_event_id": 611,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4578,7 +4578,7 @@
   {
     "id": 611004,
     "m_event_id": 611,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4604,7 +4604,7 @@
   {
     "id": 619001,
     "m_event_id": 619,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4617,7 +4617,7 @@
   {
     "id": 619002,
     "m_event_id": 619,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 16191,
     "condition_num": 1,
@@ -4630,7 +4630,7 @@
   {
     "id": 619003,
     "m_event_id": 619,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4643,7 +4643,7 @@
   {
     "id": 619004,
     "m_event_id": 619,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4669,7 +4669,7 @@
   {
     "id": 636001,
     "m_event_id": 636,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4682,7 +4682,7 @@
   {
     "id": 636002,
     "m_event_id": 636,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 16361,
     "condition_num": 1,
@@ -4695,7 +4695,7 @@
   {
     "id": 636003,
     "m_event_id": 636,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4708,7 +4708,7 @@
   {
     "id": 636004,
     "m_event_id": 636,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4734,7 +4734,7 @@
   {
     "id": 644001,
     "m_event_id": 644,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4747,7 +4747,7 @@
   {
     "id": 644002,
     "m_event_id": 644,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 16441,
     "condition_num": 1,
@@ -4760,7 +4760,7 @@
   {
     "id": 644003,
     "m_event_id": 644,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4773,7 +4773,7 @@
   {
     "id": 644004,
     "m_event_id": 644,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4799,7 +4799,7 @@
   {
     "id": 663001,
     "m_event_id": 663,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4812,7 +4812,7 @@
   {
     "id": 663002,
     "m_event_id": 663,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 16631,
     "condition_num": 1,
@@ -4825,7 +4825,7 @@
   {
     "id": 663003,
     "m_event_id": 663,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4838,7 +4838,7 @@
   {
     "id": 663004,
     "m_event_id": 663,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4864,7 +4864,7 @@
   {
     "id": 677001,
     "m_event_id": 677,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4877,7 +4877,7 @@
   {
     "id": 677002,
     "m_event_id": 677,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 16771,
     "condition_num": 1,
@@ -4890,7 +4890,7 @@
   {
     "id": 677003,
     "m_event_id": 677,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4903,7 +4903,7 @@
   {
     "id": 677004,
     "m_event_id": 677,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4929,7 +4929,7 @@
   {
     "id": 687001,
     "m_event_id": 687,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -4942,7 +4942,7 @@
   {
     "id": 687002,
     "m_event_id": 687,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 16871,
     "condition_num": 1,
@@ -4955,7 +4955,7 @@
   {
     "id": 687003,
     "m_event_id": 687,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -4968,7 +4968,7 @@
   {
     "id": 687004,
     "m_event_id": 687,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -4994,7 +4994,7 @@
   {
     "id": 702001,
     "m_event_id": 702,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -5007,7 +5007,7 @@
   {
     "id": 702002,
     "m_event_id": 702,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 17021,
     "condition_num": 1,
@@ -5020,7 +5020,7 @@
   {
     "id": 702003,
     "m_event_id": 702,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -5033,7 +5033,7 @@
   {
     "id": 702004,
     "m_event_id": 702,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -5059,7 +5059,7 @@
   {
     "id": 716001,
     "m_event_id": 716,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -5072,7 +5072,7 @@
   {
     "id": 716002,
     "m_event_id": 716,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 17161,
     "condition_num": 1,
@@ -5085,7 +5085,7 @@
   {
     "id": 716003,
     "m_event_id": 716,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -5098,7 +5098,7 @@
   {
     "id": 716004,
     "m_event_id": 716,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -5124,7 +5124,7 @@
   {
     "id": 731001,
     "m_event_id": 731,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -5137,7 +5137,7 @@
   {
     "id": 731002,
     "m_event_id": 731,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 17311,
     "condition_num": 1,
@@ -5150,7 +5150,7 @@
   {
     "id": 731003,
     "m_event_id": 731,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -5163,7 +5163,7 @@
   {
     "id": 731004,
     "m_event_id": 731,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -5189,7 +5189,7 @@
   {
     "id": 744001,
     "m_event_id": 744,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -5202,7 +5202,7 @@
   {
     "id": 744002,
     "m_event_id": 744,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 17441,
     "condition_num": 1,
@@ -5215,7 +5215,7 @@
   {
     "id": 744003,
     "m_event_id": 744,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -5228,7 +5228,7 @@
   {
     "id": 744004,
     "m_event_id": 744,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -5254,7 +5254,7 @@
   {
     "id": 762001,
     "m_event_id": 762,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -5267,7 +5267,7 @@
   {
     "id": 762002,
     "m_event_id": 762,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 17621,
     "condition_num": 1,
@@ -5280,7 +5280,7 @@
   {
     "id": 762003,
     "m_event_id": 762,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -5293,7 +5293,7 @@
   {
     "id": 762004,
     "m_event_id": 762,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -5319,7 +5319,7 @@
   {
     "id": 770001,
     "m_event_id": 770,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -5332,7 +5332,7 @@
   {
     "id": 770002,
     "m_event_id": 770,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 17701,
     "condition_num": 1,
@@ -5345,7 +5345,7 @@
   {
     "id": 770003,
     "m_event_id": 770,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -5358,7 +5358,7 @@
   {
     "id": 770004,
     "m_event_id": 770,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -5384,7 +5384,7 @@
   {
     "id": 785001,
     "m_event_id": 785,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -5397,7 +5397,7 @@
   {
     "id": 785002,
     "m_event_id": 785,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 17851,
     "condition_num": 1,
@@ -5410,7 +5410,7 @@
   {
     "id": 785003,
     "m_event_id": 785,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -5423,7 +5423,7 @@
   {
     "id": 785004,
     "m_event_id": 785,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -5449,7 +5449,7 @@
   {
     "id": 793001,
     "m_event_id": 793,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -5462,7 +5462,7 @@
   {
     "id": 793002,
     "m_event_id": 793,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 17931,
     "condition_num": 1,
@@ -5475,7 +5475,7 @@
   {
     "id": 793003,
     "m_event_id": 793,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -5488,7 +5488,7 @@
   {
     "id": 793004,
     "m_event_id": 793,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,
@@ -5514,7 +5514,7 @@
   {
     "id": 805001,
     "m_event_id": 805,
-    "title": "Exchange items at the exchange office",
+    "title": "Redeem Items at the Exchange",
     "condition_type": 39,
     "condition_id": 0,
     "condition_num": 1,
@@ -5527,7 +5527,7 @@
   {
     "id": 805002,
     "m_event_id": 805,
-    "title": "Complete the event stage once",
+    "title": "Clear Event Stage Once",
     "condition_type": 44,
     "condition_id": 18051,
     "condition_num": 1,
@@ -5540,7 +5540,7 @@
   {
     "id": 805003,
     "m_event_id": 805,
-    "title": "Complete BOSS once",
+    "title": "Clear a BOSS stage once",
     "condition_type": 76,
     "condition_id": 0,
     "condition_num": 1,
@@ -5553,7 +5553,7 @@
   {
     "id": 805004,
     "m_event_id": 805,
-    "title": "Earn 2500 event PTs",
+    "title": "Obtain 2500 Event Points",
     "condition_type": 34,
     "condition_id": 0,
     "condition_num": 2500,

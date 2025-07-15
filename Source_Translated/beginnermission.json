@@ -1657,7 +1657,7 @@
   },
   {
     "id": 51004,
-    "title": "Let's clear modified Pliny (EASY) in a battle!",
+    "title": "Let's clear modified Prinny (EASY)!",
     "target_scene": "serial_battle_event_scene",
     "option_param": "20",
     "condition_type": 3,
@@ -1671,13 +1671,13 @@
     "sheet_type": 5,
     "sheet_no": 6,
     "priority": 4,
-    "button_text": "Go to the battle for defeat",
+    "button_text": "To Conquest Battle",
     "description": "",
     "is_client": 0
   },
   {
     "id": 51005,
-    "title": "Let's clear the modified fairy tribe (EASY) in a battle!",
+    "title": "Let's clear the modified fairy tribe (EASY)!",
     "target_scene": "serial_battle_event_scene",
     "option_param": "28",
     "condition_type": 3,
@@ -1691,7 +1691,7 @@
     "sheet_type": 5,
     "sheet_no": 6,
     "priority": 5,
-    "button_text": "Go to the battle for defeat",
+    "button_text": "To Conquest Battle",
     "description": "",
     "is_client": 0
   },
@@ -1711,7 +1711,7 @@
     "sheet_type": 5,
     "sheet_no": 6,
     "priority": 6,
-    "button_text": "Go to the battle for defeat",
+    "button_text": "To Conquest Battle",
     "description": "",
     "is_client": 0
   },
@@ -2077,7 +2077,7 @@
   },
   {
     "id": 53001,
-    "title": "Clear Modified Rare Mushroom Tribe (EASY) in a battle!",
+    "title": "Clear Modified Rare Mushroom Tribe (EASY)!",
     "target_scene": "serial_battle_event_scene",
     "option_param": "77",
     "condition_type": 3,
@@ -2091,13 +2091,13 @@
     "sheet_type": 5,
     "sheet_no": 8,
     "priority": 1,
-    "button_text": "Go to Conquest Battle",
+    "button_text": "To Conquest Battle",
     "description": "",
     "is_client": 0
   },
   {
     "id": 53002,
-    "title": "Let's clear the modified catgirl tribe (EASY) in a battle!",
+    "title": "Let's clear the modified catgirl tribe (EASY)!",
     "target_scene": "serial_battle_event_scene",
     "option_param": "83",
     "condition_type": 3,
@@ -2111,13 +2111,13 @@
     "sheet_type": 5,
     "sheet_no": 8,
     "priority": 2,
-    "button_text": "Go to Conquest Battle",
+    "button_text": "To Conquest Battle",
     "description": "",
     "is_client": 0
   },
   {
     "id": 53003,
-    "title": "Clear the Modified Sleeping Kitten Tribe (EASY) in the Defeat!",
+    "title": "Clear the Modified Sleeping Kitten Tribe (EASY)!",
     "target_scene": "serial_battle_event_scene",
     "option_param": "94",
     "condition_type": 3,
@@ -2131,7 +2131,7 @@
     "sheet_type": 5,
     "sheet_no": 8,
     "priority": 3,
-    "button_text": "Go to Conquest Battle",
+    "button_text": "To Conquest Battle",
     "description": "",
     "is_client": 0
   },
@@ -2337,7 +2337,7 @@
   },
   {
     "id": 54002,
-    "title": "Let's clear the modified Nine Tails Tribe (EASY) in a battle.",
+    "title": "Let's clear the modified Nine Tails Tribe (EASY)!",
     "target_scene": "serial_battle_event_scene",
     "option_param": "122",
     "condition_type": 3,
@@ -2351,13 +2351,13 @@
     "sheet_type": 5,
     "sheet_no": 9,
     "priority": 2,
-    "button_text": "Go to Conquest Battle",
+    "button_text": "To Conquest Battle",
     "description": "",
     "is_client": 0
   },
   {
     "id": 54003,
-    "title": "Let's clear the Modified Deadly Tribe (EASY) in the battle to defeat them!",
+    "title": "Let's clear the Modified Deadly Tribe (EASY)!",
     "target_scene": "serial_battle_event_scene",
     "option_param": "172",
     "condition_type": 3,
@@ -2371,13 +2371,13 @@
     "sheet_type": 5,
     "sheet_no": 9,
     "priority": 3,
-    "button_text": "Go to Conquest Battle",
+    "button_text": "To Conquest Battle",
     "description": "",
     "is_client": 0
   },
   {
     "id": 54004,
-    "title": "Let's clear the modified Yokei tribe (EASY) in a battle!",
+    "title": "Let's clear the modified Yokei tribe (EASY)",
     "target_scene": "serial_battle_event_scene",
     "option_param": "206",
     "condition_type": 3,
@@ -2391,7 +2391,7 @@
     "sheet_type": 5,
     "sheet_no": 9,
     "priority": 4,
-    "button_text": "Go to Conquest Battle",
+    "button_text": "To Conquest Battle",
     "description": "",
     "is_client": 0
   },

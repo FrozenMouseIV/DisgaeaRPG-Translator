@@ -98,7 +98,7 @@ class Config:
         'class_name_2', 'class_name_3', 'class_name_4', 'class_name_5', 'condition_unit_name',
         'description', 'description_effect', 'description_format',
         'get_areas', 'name', 'name_battle', 'release_content_description',
-        'resource_name', 'title'
+        'resource_name', 'sheet_name', 'title'
     ]
 
 class Paths:

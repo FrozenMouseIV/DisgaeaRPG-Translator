@@ -4977,5 +4977,31 @@
     "sort": 215,
     "open_at": "",
     "close_at": ""
+  },
+  {
+    "id": 320216,
+    "category": 3,
+    "museum_type": 2,
+    "target_id": 0,
+    "title": "Bride Raspberyl",
+    "resource_name": "350",
+    "m_character_id_1": 350,
+    "m_character_id_2": 0,
+    "sort": 216,
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 320217,
+    "category": 3,
+    "museum_type": 2,
+    "target_id": 0,
+    "title": "The son-in-law, Lahar-chan",
+    "resource_name": "348",
+    "m_character_id_1": 348,
+    "m_character_id_2": 0,
+    "sort": 217,
+    "open_at": "",
+    "close_at": ""
   }
 ]
