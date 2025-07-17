@@ -103,6 +103,7 @@ class Config:
 
 class Paths:
     CONFIG_PATH = Path("config.json")
+    DICTIONARIES_DIR = "./Dictionaries"
     SOURCE_DIR = "./Source"
     SOURCE_TRANSLATED_DIR = "./Source_Translated"
     TRANSLATED_FILES_DIR = "./Translated_Files"

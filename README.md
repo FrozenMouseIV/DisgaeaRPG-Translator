@@ -10,6 +10,29 @@ Requirements:
 - `pip install deepl`
 - `pip install deep_translator`
 
+## Usage
+
+- Set up your DEEPL API key on config.py file. You can get one for free [by following there instructions](https://support.deepl.com/hc/en-us/articles/360020695820-API-key-for-DeepL-API)Getting one is free. This isn't required, if you do not provide one, the Google Translate API will be used instead
+- Run the script. It will take care of everything for you. Read the game files, translate them and then apply the translations to your game
+- You will need to run the script every time there is a game update as updates will overwrite the translated files.
+
+## What does this translate?
+
+- Character names, classes, weapons, equipments, skills and evilities.
+- Dark Parliament agendas (partially)
+- Etna Resort: alchemy effects, innocents, inocent recipes, board requests
+- Events: missions (daily, repeatable, character missions and total missions)
+- Final Boss Lab quests
+- Items and item info
+- Beginner missions
+- Stage names and stage missions
+- Help (partially translated)
+- Achievements
+- Drinks
+- Tower
+- Memory names and effects
+- Adell training missions
+
 ## Folder Structure for the project
 
 - Source: dump of the game files
@@ -17,7 +40,18 @@ Requirements:
 - Translated_Files: translated game file to be placed in the game folder
 - Updated_Files: Used to keep track of what files have been modified after a game update
 - Masters_Backup: Used to store a backup of the masters files
+- Dictionaries: Used to translate.
 
-## Usage
+## FAQs
 
-- Set up your API key on config.py. Getting one is free. This isn't required, if you do not provide one, the Google Translate API will be used instead
+**Q: Can this get me banned?**
+**A:** It does tamper with the game files, and the game has anticheat, so I guess the possibility is not zero. That being said, this only translates text, it doesn't tinker with anything else in a malicious way and it won't have any bearing on the requests the game sends to the backend, so it shouldn't cause any issues. I've been using this for weeks now without a problem. Use it at your own risk.
+
+**Q: Does this translate the UI?**
+**A:** No, for now at least it only translate text. It is possible to patch some textures from the global version of the game but dasly I do not have them. If you do, feel free to get in touch.
+
+**Q: This is amazing, can I contribute?**
+**A:** Absolutely. The translations that will be applied to the game are on the 'Source_Translated' folder. Some stuff is copied over from the global version, some is google translated so there is plenty of room for improvement. Feel free to contribute your own translations. The more the community contributes, the better this will be.
+
+**Q: How should I credit you if I share this?**
+**A:** You can share this freely. The more people use it, the better chance someone will contribute and improve this. If you really want to, you can link [my ko-fi page](https://ko-fi.com/ritx488879)
