@@ -12,7 +12,7 @@ Requirements:
 
 ## Usage
 
-- Set up your DEEPL API key on config.py file. You can get one for free [by following there instructions](https://support.deepl.com/hc/en-us/articles/360020695820-API-key-for-DeepL-API)Getting one is free. This isn't required, if you do not provide one, the Google Translate API will be used instead
+- Set up your DEEPL API key on config.py file. You can get one for free [by following these instructions](https://support.deepl.com/hc/en-us/articles/360020695820-API-key-for-DeepL-API)Getting one is free. This isn't required, if you do not provide one, the Google Translate API will be used instead
 - Run the script. It will take care of everything for you. Read the game files, translate them and then apply the translations to your game
 - You will need to run the script every time there is a game update as updates will overwrite the translated files.
 

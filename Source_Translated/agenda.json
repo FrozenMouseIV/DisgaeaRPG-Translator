@@ -2832,7 +2832,7 @@
     "release_type": 0,
     "release_param": "0",
     "appear_m_agenda_id": 0,
-    "title": "#TIME#I want to double the amount of challenge points obtained at the final boss research institute #VALUE#",
+    "title": "#TIME# hours of #VALUE# X points at the final boss research institute #VALUE#",
     "sort": 8,
     "help_resource_name": "",
     "open_at": "2017-01-01 00:00:00",
