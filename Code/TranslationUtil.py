@@ -22,6 +22,9 @@ class Translator_Util:
         source_path = os.path.join(path, f'{filename}')
         out_path = os.path.join(Paths.SOURCE_TRANSLATED_DIR, f'{filename}')
         temp_path = out_path + '.tmp'
+        
+        name_only = os.path.splitext(filename)[0]
+        new_entries_path = os.path.join(Paths.NEW_ENTRIES_DIR, f"{name_only}_new_entries.json")
 
         # Load JP source (list of entries)
         with open(source_path, 'r', encoding='utf8') as f:
@@ -41,6 +44,7 @@ class Translator_Util:
 
         count = 0
         new_count = 0
+        new_entries = []
         for entry in jp_data:
             count += 1
             if entry["id"] in translated_ids:
@@ -53,6 +57,7 @@ class Translator_Util:
                     merged[key] = translated
 
             translated_data.append(merged)
+            new_entries.append(merged) #track additions
             new_count += 1
 
             # Periodic save every 100 entries
@@ -69,6 +74,11 @@ class Translator_Util:
         # Final save
         with open(out_path, 'w', encoding='utf8') as f:
             json.dump(translated_data, f, ensure_ascii=False, indent=2)
+
+        # Save just the new entries to a separate file
+        if new_entries and name_only in Config.FILES_TO_TRACK_NEW_ENTRIES:
+            with open(new_entries_path, 'w', encoding='utf8') as f:
+                json.dump(new_entries, f, ensure_ascii=False, indent=2)
 
         end_time = time.time()
         elapsed = end_time - start_time
@@ -110,16 +120,17 @@ class Translator_Util:
                             if char is not None:
                                 if char['id'] not in updated_character_ids:
                                     updated_character_ids.append(char['id'])
+                            char_name = 'N/A' if char is None else char['name']
+                            print(f"            ├─ ℹ️  Updating Evility {translated_entry['name']} with ID: {id_} for Character: {char_name}")
 
                         elif filename == "command":
                             char = self.helper.find_character_by_command_id(new_entry['id'])
                             if char is not None:
                                 if char['id'] not in updated_character_ids:
                                     updated_character_ids.append(char['id'])
+                            char_name = 'N/A' if char is None else char['name']
+                            print(f"            ├─ ℹ️  Updating Skill {translated_entry['name']} with ID: {id_} for Character: {char_name}")                     
 
-                        char_name = 'N/A' if char is None else char['name']
-
-                        print(f"            ├─ ℹ️  Updating ID: {id_} field '{field}. Character: {char_name}'")
                         print(f"                ├─ Old Value: {translated_entry[field]}")
                         translated_text = self.translator.translate(filename=filename, field=field, value=new_value)
                         if translated_text:
@@ -141,7 +152,6 @@ class Translator_Util:
         elapsed = end_time - start_time
         print(f"            ├─ 🛠️ Finihed checking {filename}: {updated_count} entries updated in {elapsed:.2f}s")
  
-
     # in case the initial files are not up to date. Look for new entries, translate and update our translations
     def initial_translation(self):
         print(f"\n    ℹ️ Running initial translation")
@@ -151,14 +161,14 @@ class Translator_Util:
             # Skip subfolders
             if not os.path.isfile(file_path):
                 continue
-            self.__translate_file(filename=filename, path=Paths.SOURCE_DIR)
+            self.__translate_file(filename=filename, path=Paths.UPDATED_FILES_DIR)
 
             ## Keep leaderkill and command files on source folder
             ## They become the new source to compare against on future updates
-            if filename not in Config.FILES_TO_CHECK_FOR_UPDATES:
+            if filename in Config.FILES_TO_CHECK_FOR_UPDATES:
                 destination_path = os.path.join(Paths.SOURCE_DIR, filename)
                 shutil.copy2(file_path, destination_path)  # use shutil.move if you want to move instead
-            else:
+            elif filename != 'charactercommand':
                 os.remove(file_path)  # delete the file if not in KEEP_FILES
 
         end_time = time.time()
@@ -230,7 +240,7 @@ class Translator_Util:
 
         end_time = time.time()
         elapsed = end_time - start_time
-        print(f"       ├─ ✅ Finished translated updated files in {elapsed:.2f}s.")  
+        print(f"       ├─ ✅ Finished translating updated files in {elapsed:.2f}s.")  
 
     def find_and_translate_file_changes(self):
 
@@ -268,7 +278,7 @@ class Translator_Util:
 
         end_time = time.time()
         elapsed = end_time - start_time
-        print(f"       ├─ ✅ Finished translated updated files in {elapsed:.2f}s.")  
+        print(f"       ├─ ✅ Finished looking for character updates in {elapsed:.2f}s.")  
 
     def update_game_files(self):
         print(f"\n    ℹ️ Updating game files")
@@ -284,4 +294,4 @@ class Translator_Util:
                 target_file = target_dir / file.name
                 shutil.copy2(file, target_file)
                 print(f"       ├─ 🔁 Copied {file.name} to {target_file}")
-        print("       ├─ ✅ Finished updating game files.")
+        print("   ├─ ✅ Finished updating game files.")

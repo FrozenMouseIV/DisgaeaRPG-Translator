@@ -31,6 +31,9 @@ class UnityHelper:
         self.output_path = Path(Paths.TRANSLATED_FILES_DIR)        
         self.output_path.mkdir(parents=True, exist_ok=True)
 
+        self.new_entries_path = Path(Paths.NEW_ENTRIES_DIR)        
+        self.new_entries_path.mkdir(parents=True, exist_ok=True)
+
     # Initial datamine. Returns True if the initial setup was already done. False otherwise
     def initial_datamine(self) -> bool:
         """Extract only the missing JSON files from FILES_TO_TRANSLATE."""
@@ -52,6 +55,9 @@ class UnityHelper:
 
             data = obj.read()
             name = data.m_Name
+
+            if name not in Config.FILES_TO_TRANSLATE and name != 'charactercommand':
+                continue
 
             self._export_json(obj, name, self.updated_files_path)
 

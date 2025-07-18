@@ -93,6 +93,8 @@ class Config:
 
     FILES_TO_CHECK_FOR_UPDATES =  ['command', 'leaderskill']
 
+    FILES_TO_TRACK_NEW_ENTRIES =  ['command', 'leaderskill', 'character']
+
     FIELDS_TO_TRANSLATE = [
         'ability_description', 'body', 'button_text', 'category', 'class_name', 'class_name_1',
         'class_name_2', 'class_name_3', 'class_name_4', 'class_name_5', 'condition_unit_name',
@@ -101,11 +103,14 @@ class Config:
         'resource_name', 'sheet_name', 'title'
     ]
 
+    FIELDS_TO_CHECK_FOR_UPDATES = [ 'description', 'description_effect' ]
+
 class Paths:
     CONFIG_PATH = Path("config.json")
     DICTIONARIES_DIR = "./Dictionaries"
     SOURCE_DIR = "./Source"
     SOURCE_TRANSLATED_DIR = "./Source_Translated"
+    NEW_ENTRIES_DIR = "./New_Entries"
     TRANSLATED_FILES_DIR = "./Translated_Files"
     UPDATED_FILES_DIR = "./Updated_Files"
     MASTERS_BACKUP = "./Masters_Backup"
