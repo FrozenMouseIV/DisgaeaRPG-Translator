@@ -44,7 +44,6 @@ class EffectTranslator:
 
     def translate(self, text):
         result = text
-        result = text
         for pattern, replacement in self.replacements:
             result = pattern.sub(replacement, result)
         return result

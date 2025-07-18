@@ -53,7 +53,7 @@ class Translator_Util:
             merged = entry.copy()
             for key in Config.FIELDS_TO_TRANSLATE:
                 if key in merged and merged[key] != '':
-                    translated = self.translator.translate(filename, key, merged[key])
+                    translated = self.translator.translate(name_only, key, merged[key])
                     merged[key] = translated
 
             translated_data.append(merged)
