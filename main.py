@@ -18,12 +18,14 @@ def main():
     # 2 - 1: INITIAL SETUP NEEDED. PATCH EVERYTHING FROM SOURCE_TRANSLATED
     if initial_setup_done == False:
         translator_helper.initial_translation()
+        translator_helper.find_and_translate_file_changes() # Look for changes to existing entries
         unity_helper.generate_translated_game_files()
 
     # 2 - 2: INITIAL SETUP ALREADY DONE. LOOK FOR UPDATED FILES
     else:       
         translator_helper.find_updated_files() # look for updated files
-        translator_helper.translate_updated_files() # translate them
+        translator_helper.translate_updated_files() # translate new entries
+        translator_helper.find_and_translate_file_changes() # Look for changes to existing entries
         unity_helper.generate_translated_game_files(Config.get_updated_files())
 
     # STEP 3 - MOVE FILES TO MASTERS FOLDER?

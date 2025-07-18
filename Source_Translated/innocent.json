@@ -1204,5 +1204,18 @@
     "weapon_type": 9,
     "m_character_id": 178,
     "trainer_group_id": 4
+  },
+  {
+    "id": 98,
+    "name": "Super INT Boost",
+    "resource_name": "glasses",
+    "innocent_type": 4,
+    "category": 3,
+    "description_format": "INT{0}% increase",
+    "calculate_format": "{0}%",
+    "effect_type": 61,
+    "weapon_type": 15,
+    "m_character_id": 352,
+    "trainer_group_id": 4
   }
 ]

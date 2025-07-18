@@ -1030,5 +1030,13 @@
     "main_m_memory_effect_type_id": 2,
     "sub_m_character_id": 315,
     "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 129,
+    "name": "Lucy's Vacation",
+    "main_m_character_id": 128,
+    "main_m_memory_effect_type_id": 6,
+    "sub_m_character_id": 128,
+    "sub_m_memory_effect_type_id": 8
   }
 ]

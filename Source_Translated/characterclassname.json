@@ -24514,5 +24514,41 @@
     "m_character_id": 20105,
     "rarity": 6,
     "class_name": "Summer Time Traveler"
+  },
+  {
+    "id": 3521,
+    "m_character_id": 352,
+    "rarity": 1,
+    "class_name": "The incarnate hero"
+  },
+  {
+    "id": 3522,
+    "m_character_id": 352,
+    "rarity": 2,
+    "class_name": "The incarnate hero"
+  },
+  {
+    "id": 3523,
+    "m_character_id": 352,
+    "rarity": 3,
+    "class_name": "The incarnate hero"
+  },
+  {
+    "id": 3524,
+    "m_character_id": 352,
+    "rarity": 4,
+    "class_name": "The incarnate hero"
+  },
+  {
+    "id": 3525,
+    "m_character_id": 352,
+    "rarity": 5,
+    "class_name": "Those who come from the sea of electronics"
+  },
+  {
+    "id": 3526,
+    "m_character_id": 352,
+    "rarity": 6,
+    "class_name": "The hero of the shining beach"
   }
 ]

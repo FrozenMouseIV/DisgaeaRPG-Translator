@@ -29,7 +29,7 @@ class DictionaryTranslator:
         return jp_text in self.dictionary
 
 class EffectTranslator:
-    def __init__(self, path='./PatternDictionaries/Effect_Replacement.json'):
+    def __init__(self, path='./PatternDictionaries/EffectDictionary.json'):
         self.replacements = []
         if os.path.exists(path):
             with open(path, 'r', encoding='utf8') as f:
@@ -65,7 +65,7 @@ class Translator:
             if usage.character.limit is None:
                 print("⚠️  DeepL API key is valid, but usage limits are unknown.")
         except deepl.exceptions.AuthorizationException:
-            print("❌ Invalid DeepL API key. Please check your configuration.")
+            print("       ├─ ❌ Invalid DeepL API key. Please check your configuration.")
             self.translator_deepl = None
         except Exception as e:
             print(f"⚠️  Failed to initialize DeepL translator: {e}")

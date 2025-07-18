@@ -24438,5 +24438,53 @@
     "description": "A demon that can make the swimsuit future Usaria awakened to a 6-size state",
     "max_num": 9999,
     "sell_price": 0
+  },
+  {
+    "id": 1943,
+    "name": "Swimsuit gathering festo Part 2 ticket",
+    "item_type": 19,
+    "icon_no": 1943,
+    "effect_value": [
+      201116
+    ],
+    "description": "Tickets for the Scary Swimsuit Gathering Festival - Part 2 -",
+    "max_num": 999,
+    "sell_price": 0
+  },
+  {
+    "id": 201027,
+    "name": "Event PT",
+    "item_type": 20,
+    "icon_no": 201027,
+    "effect_value": [
+      820
+    ],
+    "description": "Swimsuit Asagi Raid PT",
+    "max_num": 99999999,
+    "sell_price": 0
+  },
+  {
+    "id": 340221,
+    "name": "Gathering festival exchange ticket",
+    "item_type": 34,
+    "icon_no": 340093,
+    "effect_value": [
+      817
+    ],
+    "description": "Available at the Gathering Festival Exchange",
+    "max_num": 9999,
+    "sell_price": 0
+  },
+  {
+    "id": 2700352,
+    "name": "Swimsuit Asagi Crystal",
+    "item_type": 27,
+    "icon_no": 2701,
+    "effect_value": [
+      100
+    ],
+    "description": "Crystal that can magically modify swimsuit asagi",
+    "max_num": 9999,
+    "sell_price": 0
   }
 ]

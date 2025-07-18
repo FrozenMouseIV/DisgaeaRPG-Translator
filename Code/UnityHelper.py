@@ -3,6 +3,7 @@ import json
 import os
 from pathlib import Path
 import shutil
+import time
 from typing import List
 import UnityPy
 from Code.config import Config, Paths
@@ -35,11 +36,9 @@ class UnityHelper:
         """Extract only the missing JSON files from FILES_TO_TRANSLATE."""
 
         print(f"\n    ℹ️ Running initial setup")
+        start_time = time.time()
 
-        existing_files = {f.stem for f in self.source_path.glob("*.json")}
-        missing_files = set(Config.FILES_TO_TRANSLATE) - existing_files
-
-        if Config.get_datetime_field(Config.INITIAL_SETUP) and not missing_files:
+        if Config.get_datetime_field(Config.INITIAL_SETUP):
             print("       ├─ ✅ Initial setup already completed.")
             return True
 
@@ -54,23 +53,24 @@ class UnityHelper:
             data = obj.read()
             name = data.m_Name
 
-            if name in missing_files:
-                self._export_json(obj, name)
+            self._export_json(obj, name, self.updated_files_path)
 
-                source_file = self.masters_path / name
-                backup_file = self.backup_path / name
-                # Make sure the backup directory exists
-                backup_file.parent.mkdir(parents=True, exist_ok=True)
+            source_file = self.masters_path / name
+            backup_file = self.backup_path / name
+            # Make sure the backup directory exists
+            backup_file.parent.mkdir(parents=True, exist_ok=True)
 
-                # Copy only if it hasn't already been backed up
-                if not backup_file.exists():
-                    try:
-                        shutil.copy2(source_file, backup_file)
-                        print(f"            ├─ 📦 Backed up Unity asset to: {backup_file}")
-                    except Exception as e:
-                        print(f"            ├─ ❌ Failed to back up {source_file}: {e}")
+            # Copy only if it hasn't already been backed up
+            if not backup_file.exists():
+                try:
+                    shutil.copy2(source_file, backup_file)
+                    print(f"            ├─ 🔒 Backed up Unity asset to: {backup_file}")
+                except Exception as e:
+                    print(f"            ├─ ❌ Failed to back up {source_file}: {e}")
         
-        print("       ├─ ✅ Completed initial setup.")
+        end_time = time.time()
+        elapsed = end_time - start_time
+        print(f"       ├─ ✅ Completed initial setup in {elapsed:.2f}s.")
         return False
 
     # Datamine files specified on a list
@@ -85,20 +85,21 @@ class UnityHelper:
             data = obj.read()
             name = data.m_Name
 
-            if name in files_to_datamine:
+            # Datamine updated files and export to updated files folder
+            if name in files_to_datamine and name in Config.FILES_TO_TRANSLATE:
                 self._export_json(obj, name, Paths.UPDATED_FILES_DIR)
-                backup_path = Path(Paths.MASTERS_BACKUP) / self.source_path.name
-                backup_path.parent.mkdir(parents=True, exist_ok=True)
-                if not backup_path.exists():
-                    shutil.copy2(self.source_path, backup_path)
-                    print(f"📦 Backed up Unity asset to: {backup_path}")
-        
-        Config.set_datetime_field(Config.INITIAL_SETUP)
-        return False
+                source_file = self.masters_path / name
+                backup_file = self.backup_path / name
+                # Make sure the backup directory exists
+                backup_file.parent.mkdir(parents=True, exist_ok=True)
+                # Backup file (overwrite if if existed)
+                shutil.copy2(source_file, backup_file)
+                print(f"                 ├─  🔒 Backed up Unity asset to: {backup_file}")
   
     # Generate translated game files and place them in the Translated_Files folder
     def generate_translated_game_files(self, files_to_translate:List[str] = None) -> None:
         print(f"\n    ℹ️ Generating translated game files")
+        start_time = time.time()
         for obj in self.env.objects:
             if obj.type.name == "MonoBehaviour":
                 filename = ''
@@ -137,7 +138,9 @@ class UnityHelper:
                 with open(output_path, "wb") as f:
                     f.write(env_file.save(packer=(64,2)))
         
-        print("       ├─ ✅ Finished generating translated game files.")
+        end_time = time.time()
+        elapsed = end_time - start_time
+        print(f"       ├─ ✅ Finished generating translated game files in {elapsed:.2f}s.")
  
     def __load_translated_data(self, filename:str):  
         filepath = os.path.join(Paths.SOURCE_TRANSLATED_DIR, filename + '.json')  
@@ -145,10 +148,17 @@ class UnityHelper:
             translated_source_data=json.load(fj)
             return translated_source_data
     
-    def _export_json(self, obj, name: str) -> None:
+    def _export_json(self, obj, name: str, path=None) -> None:
         """Internal helper to write JSON to output folder."""
+
+        if path is None:
+            path = self.source_path
+
+        if not isinstance(path, Path):
+            path = Path(path)
+
         tree = obj.read_typetree()
-        output_path = self.source_path / f"{name}.json"
+        output_path = path / f"{name}.json"
 
         with open(output_path, "wt", encoding="utf8") as f:
             json.dump(tree['DataList'], f, ensure_ascii=False, indent=4)

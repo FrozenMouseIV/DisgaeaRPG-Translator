@@ -64,7 +64,11 @@
 
   "受ける全てのダメージ": "Damage Taken",
   "与えるダメージ": "Reduce Damage dealt",
+  "受けるダメージ#PER3#%アップ": "Damage Taken +#PER3#%",
+  "受けるダメージ#PER4#%アップ": "Damage Taken +#PER4#%",
   "受けるダメージ#PER5#%アップ": "Damage Taken +#PER5#%",
+  "受けるダメージ#PER6#%アップ": "Damage Taken +#PER6#%",
+  "受けるダメージ#PER7#%アップ": "Damage Taken + #PER7#%",
   "与える全てのダメージ": "All damage",
   "敵のDEF・RESの低い方でﾀﾞﾒｰｼﾞ計算": "Uses enemy's lower DEF or RES for damage calculation",
   "DEF・RES低い方でダメージ計算": "Uses enemy's lower DEF or RES for damage calculation",

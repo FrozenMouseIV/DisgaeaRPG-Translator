@@ -5003,5 +5003,18 @@
     "sort": 217,
     "open_at": "",
     "close_at": ""
+  },
+  {
+    "id": 210136,
+    "category": 2,
+    "museum_type": 1,
+    "target_id": 147,
+    "title": "Swimsuit Asagi",
+    "resource_name": "",
+    "m_character_id_1": 352,
+    "m_character_id_2": 0,
+    "sort": 104,
+    "open_at": "",
+    "close_at": ""
   }
 ]
