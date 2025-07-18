@@ -73,6 +73,7 @@
   "敵のDEF・RESの低い方でﾀﾞﾒｰｼﾞ計算": "Uses enemy's lower DEF or RES for damage calculation",
   "DEF・RES低い方でダメージ計算": "Uses enemy's lower DEF or RES for damage calculation",
   "DEF・RESの低い方でダメージ計算": "Uses enemy's lower DEF or RES for damage calculation",
+  "DEF･RES低い方でﾀﾞﾒｰｼﾞ計算": "Damage calculated with lower of DEF/RES",
   "体力割合攻撃": "Damage based on health percentage",
   "残体力が少ないほどさらに威力アップ": "The lower HP, the higher the damage",
   "必殺技で与えるダメージ": "Damage dealt by Special Move",
@@ -101,6 +102,8 @@
   "自分の残体力#PER2#%減少": "Reduce remaining HP by #PER2#%",
   "自分の残体力#PER3#%減少": "Reduce remaining HP by #PER3#%",
   "自分の残体力#PER6#%減少": "Reduce remaining HP by #PER6#%",
+  "残体力#PER3#%減少": "Reduce user's HP by #PER3#%",
+  "残体力#PER5#%減少": "Reduce user's HP by #PER5#%",
 
   "連撃[": "Additional Hits [",
   "(威力": "(Power ",

@@ -94,11 +94,13 @@ class Translator_Util:
         out_path = os.path.join(Paths.SOURCE_TRANSLATED_DIR, f'{filename}.json')  
         if os.path.exists(out_path):
             with open(out_path, 'r', encoding='utf8') as f:
-                translated_data = {entry["id"]: entry for entry in json.load(f)}
+                translated_data = json.load(f)
+                # Create a lookup dictionary by 'id' (so you can easily access by 'id')
+                translated_data_lookup = {entry["id"]: entry for entry in translated_data}
         else:
-            translated_data = {}
+            translated_data = []
+        
         updated_count = 0
-        updated_translated_data = []
         updated_character_ids = []
 
         for id_, old_entry in source_data.items():
@@ -106,8 +108,10 @@ class Translator_Util:
                 continue  # Entry was removed in JP (unlikely, but safe check)
 
             new_entry = updated_data[id_]
-            translated_entry = translated_data.get(id_, new_entry.copy())
+            #translated_entry = translated_data.get(id_, new_entry.copy())
+            translated_entry = translated_data_lookup[id_]
 
+            entry_updated = False
             for field in Config.FIELDS_TO_CHECK_FOR_UPDATES:
                 if field in new_entry:
                     old_value = old_entry.get(field)
@@ -139,14 +143,19 @@ class Translator_Util:
                             updated_count += 1
                             entry_updated = True
                         else:
-                            print(f"⚠️ No translation for ID {id_} field '{field}': {new_value}")                   
+                            print(f"⚠️ No translation for ID {id_} field '{field}': {new_value}")    
+                        
+            # Update the entry directly in the translated_data dictionary
+            #if entry_updated:                
+            #    translated_data[id_] = translated_entry  # Replace the old entry with the updated one
 
-
-            updated_translated_data.append(translated_entry)
+            #updated_translated_data.append(translated_entry)
 
         # Save updated translation file
         out_path = os.path.join(Paths.SOURCE_TRANSLATED_DIR, f'{filename}.json')
-        self.helper.safe_save_json(updated_translated_data, out_path)
+        # with open(out_path, 'w', encoding='utf8') as f:
+        #     json.dump(translated_data, f, ensure_ascii=False, indent=2)
+        self.helper.safe_save_json(translated_data, out_path)
 
         end_time = time.time()
         elapsed = end_time - start_time
