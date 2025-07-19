@@ -15,6 +15,7 @@ Requirements:
 - Set up your DEEPL API key on config.py file. You can get one for free [by following these instructions](https://support.deepl.com/hc/en-us/articles/360020695820-API-key-for-DeepL-API)Getting one is free. This isn't required, if you do not provide one, the Google Translate API will be used instead
 - Run the script. It will take care of everything for you. Read the game files, translate them and then apply the translations to your game
 - You will need to run the script every time there is a game update as updates will overwrite the translated files.
+- There are several settings you can adjust in config.py. IF you know what your're doing you can easily expand this tool to translate more files, and you can add your own dictionaries as well.
 
 ## What does this translate?
 
@@ -40,7 +41,9 @@ Requirements:
 - Translated_Files: translated game file to be placed in the game folder
 - Updated_Files: Used to keep track of what files have been modified after a game update
 - Masters_Backup: Used to store a backup of the masters files
+- New_Entries: New lines being added to the files after an update. Use this to keep track of what's being added.
 - Dictionaries: Used to translate.
+- PatternDisctionaries: Used to translate based on regex. Don't mess with this one unless you know what you're doing
 
 ## FAQs
 
@@ -55,3 +58,6 @@ Requirements:
 
 **Q: How should I credit you if I share this?**
 **A:** You can share this freely. The more people use it, the better chance someone will contribute and improve this. If you really want to, you can link [my ko-fi page](https://ko-fi.com/ritx488879)
+
+**Q: Does this work for Android?**
+**A:** Possibly. As far as I know the file structure is the same, so you could grab the files the tool generates and put them on your phone and theoretically it should work.
