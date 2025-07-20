@@ -3,6 +3,7 @@ import json
 import os
 from pathlib import Path
 import shutil
+import sys
 import time
 from typing import List
 import UnityPy
@@ -13,7 +14,14 @@ class UnityHelper:
     def __init__(self):
         self.env = UnityPy.load(Paths.GAME_MASTERS)
         self.masters_path = Path(Paths.GAME_MASTERS)        
-        self.masters_path.mkdir(parents=True, exist_ok=True)
+        # Check if the folder exists and is not empty
+        if not self.masters_path.is_dir():
+            print(f" ❌ Error: The folder '{self.masters_path}' does not exist.")
+            sys.exit(1)
+
+        if not any(self.masters_path.iterdir()):
+            print(f" ❌ Error: The folder '{self.masters_path}' is empty.")
+            sys.exit(1)
 
         #Ensure required folders exist
         self.backup_path = Path(Paths.MASTERS_BACKUP)        
@@ -104,8 +112,16 @@ class UnityHelper:
   
     # Generate translated game files and place them in the Translated_Files folder
     def generate_translated_game_files(self, files_to_translate:List[str] = None) -> None:
+        
         print(f"\n    ℹ️ Generating translated game files")
         start_time = time.time()
+
+        # Delete before generating new files
+        source_dir = Path(Paths.TRANSLATED_FILES_DIR)
+        for file in source_dir.iterdir():
+            if file.is_file():
+                file.unlink()
+
         for obj in self.env.objects:
             if obj.type.name == "MonoBehaviour":
                 filename = ''

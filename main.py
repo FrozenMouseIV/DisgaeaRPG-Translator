@@ -19,17 +19,17 @@ def main():
     if initial_setup_done == False:
         translator_helper.initial_translation()
         translator_helper.find_and_translate_file_changes() # Look for changes to existing entries
-        unity_helper.generate_translated_game_files()
+        unity_helper.generate_translated_game_files() # Generate new game files
+        translator_helper.update_game_files() # Update game files
 
     # 2 - 2: INITIAL SETUP ALREADY DONE. LOOK FOR UPDATED FILES
     else:       
         translator_helper.find_updated_files() # look for updated files
         translator_helper.translate_updated_files() # translate new entries
         translator_helper.find_and_translate_file_changes() # Look for changes to existing entries
-        unity_helper.generate_translated_game_files(Config.get_updated_files())
-
-    # STEP 3 - MOVE FILES TO MASTERS FOLDER?
-    translator_helper.update_game_files()
+        unity_helper.generate_translated_game_files(Config.get_updated_files()) # Generate new game files only for updated files
+        translator_helper.update_game_files(Config.get_updated_files()) # Update game files
+    
     if initial_setup_done == False:
         Config.set_datetime_field(Config.INITIAL_SETUP)
     Config.set_datetime_field(Config.LAST_EXECUTION)

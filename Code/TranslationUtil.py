@@ -4,7 +4,7 @@ import os
 from pathlib import Path
 import shutil
 import time
-from typing import Any
+from typing import Any, List
 from Code.Helper import Helper
 from Code.UnityHelper import UnityHelper
 from Code.config import Config, Paths
@@ -191,7 +191,7 @@ class Translator_Util:
         if timestamp is None:
             timestamp = Config.get_datetime_field(Config.INITIAL_SETUP)
 
-        print(f"\n    ℹ️  Looking for files updated after {timestamp.strftime("%Y-%m-%d %H:%M:%S")}")
+        print(f'\n    ℹ️  Looking for files updated after {timestamp.strftime("%Y-%m-%d %H:%M:%S")}')
         start_time = time.time()
 
         #Reset config
@@ -289,7 +289,7 @@ class Translator_Util:
         elapsed = end_time - start_time
         print(f"       ├─ ✅ Finished looking for character updates in {elapsed:.2f}s.")  
 
-    def update_game_files(self):
+    def update_game_files(self, files_to_update:List[str] = None):
         print(f"\n    ℹ️ Updating game files")
         source_dir = Path(Paths.TRANSLATED_FILES_DIR)
         target_dir = Path(Paths.GAME_MASTERS)
@@ -300,7 +300,8 @@ class Translator_Util:
         # Copy all files (ignoring subdirectories)
         for file in source_dir.iterdir():
             if file.is_file():
-                target_file = target_dir / file.name
-                shutil.copy2(file, target_file)
-                print(f"       ├─ 🔁 Copied {file.name} to {target_file}")
+                if files_to_update is None or file.stem in files_to_update:
+                    target_file = target_dir / file.name
+                    shutil.copy2(file, target_file)
+                    print(f"       ├─ 🔁 Copied {file.name} to {target_file}")
         print("   ├─ ✅ Finished updating game files.")
