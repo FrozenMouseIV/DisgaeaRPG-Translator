@@ -1,5 +1,6 @@
 import json
 import os
+from pathlib import Path
 import shutil
 import tempfile
 
@@ -50,3 +51,19 @@ class Helper:
 
         # Replace the original file with the temp file
         shutil.move(temp_path, final_path)
+
+    def back_up_file(self, filename):
+        masters_path = Path(Paths.GAME_MASTERS)
+        source_file = masters_path / filename
+        backup_path = Path(Paths.MASTERS_BACKUP)
+        backup_file = backup_path / filename
+        # Make sure the backup directory exists
+        backup_file.parent.mkdir(parents=True, exist_ok=True)
+
+        # Copy only if it hasn't already been backed up
+        if not backup_file.exists():
+            try:
+                shutil.copy2(source_file, backup_file)
+                print(f"            ├─ 🔒 Backed up Unity asset to: {backup_file}")
+            except Exception as e:
+                print(f"            ├─ ❌ Failed to back up {source_file}: {e}")

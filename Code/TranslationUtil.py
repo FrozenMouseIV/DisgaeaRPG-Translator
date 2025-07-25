@@ -198,6 +198,17 @@ class Translator_Util:
         updated_files = []
         Config.set_updated_files(updated_files)
 
+        # Delete backups before generating new files
+        source_dir = Path(Paths.MASTERS_BACKUP)
+        for file in source_dir.iterdir():
+            if file.is_file():
+                file.unlink()
+
+        source_dir = Path(Paths.NEW_ENTRIES_DIR)
+        for file in source_dir.iterdir():
+            if file.is_file():
+                file.unlink()
+
         # 🔁 Walk through all files in the masters folder
         for filename in os.listdir(Paths.GAME_MASTERS):
             file_path = os.path.join(Paths.GAME_MASTERS, filename)
@@ -232,6 +243,7 @@ class Translator_Util:
 
         print(f"\n    ℹ️  Translating updated files")
         start_time = time.time()
+        updated_files = Config.get_updated_files()
 
         for filename in os.listdir(Paths.UPDATED_FILES_DIR):
             file_path = os.path.join(Paths.UPDATED_FILES_DIR, filename)
@@ -241,7 +253,7 @@ class Translator_Util:
             if not os.path.isfile(file_path):
                 continue
 
-            if name_only in Config.FILES_TO_TRANSLATE:
+            if name_only in Config.FILES_TO_TRANSLATE and name_only in updated_files:
                 self.__translate_file(filename, path=Paths.UPDATED_FILES_DIR)
 
                 if name_only not in Config.FILES_TO_CHECK_FOR_UPDATES:

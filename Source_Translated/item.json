@@ -24486,5 +24486,29 @@
     "description": "Crystal that can magically modify swimsuit asagi",
     "max_num": 9999,
     "sell_price": 0
+  },
+  {
+    "id": 340222,
+    "name": "PU character exchange ticket (paid)",
+    "item_type": 34,
+    "icon_no": 3420,
+    "effect_value": [
+      818
+    ],
+    "description": "Available at PU Character Exchange (paid)",
+    "max_num": 9999,
+    "sell_price": 0
+  },
+  {
+    "id": 340223,
+    "name": "PU character exchange ticket (normal)",
+    "item_type": 34,
+    "icon_no": 3421,
+    "effect_value": [
+      819
+    ],
+    "description": "Available at PU Character Exchange (Normal)",
+    "max_num": 9999,
+    "sell_price": 0
   }
 ]
