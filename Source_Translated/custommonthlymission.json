@@ -1438,5 +1438,21 @@
     "present_num": 1,
     "open_at": "2025-07-01 00:00:00",
     "close_at": "2025-07-31 23:59:59"
+  },
+  {
+    "id": 2056,
+    "title": "Over 60,000 Challenge PTs",
+    "sort": 58,
+    "condition_type": 1,
+    "condition_id": 0,
+    "condition_num": 60000,
+    "rename_flg": 1,
+    "display_name": "【冥彩用】魚強大団扇",
+    "present_type": 7,
+    "present_id": 10045,
+    "present_rarity": 0,
+    "present_num": 1,
+    "open_at": "2025-08-01 00:00:00",
+    "close_at": "2025-08-31 23:59:59"
   }
 ]

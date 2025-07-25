@@ -1038,5 +1038,13 @@
     "main_m_memory_effect_type_id": 6,
     "sub_m_character_id": 128,
     "sub_m_memory_effect_type_id": 8
+  },
+  {
+    "id": 131,
+    "name": "Ghost Fleets and Missing Heroes",
+    "main_m_character_id": 0,
+    "main_m_memory_effect_type_id": 102,
+    "sub_m_character_id": 0,
+    "sub_m_memory_effect_type_id": 106
   }
 ]

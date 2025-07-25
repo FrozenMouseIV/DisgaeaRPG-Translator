@@ -24510,5 +24510,41 @@
     "description": "Available at PU Character Exchange (Normal)",
     "max_num": 9999,
     "sell_price": 0
+  },
+  {
+    "id": 340224,
+    "name": "Festival Character Exchange Ticket (Normal)",
+    "item_type": 34,
+    "icon_no": 3482,
+    "effect_value": [
+      822
+    ],
+    "description": "Available at Festival Character Exchange (Normal)",
+    "max_num": 9999,
+    "sell_price": 0
+  },
+  {
+    "id": 340227,
+    "name": "Festival character exchange ticket (paid)",
+    "item_type": 34,
+    "icon_no": 3481,
+    "effect_value": [
+      829
+    ],
+    "description": "Can be used at the Festival Character Exchange (paid)",
+    "max_num": 9999,
+    "sell_price": 0
+  },
+  {
+    "id": 2700353,
+    "name": "Swimsuit Demon Etna Crystal",
+    "item_type": 27,
+    "icon_no": 2701,
+    "effect_value": [
+      100
+    ],
+    "description": "Crystal that can magically modify the swimsuit demon Etna",
+    "max_num": 9999,
+    "sell_price": 0
   }
 ]

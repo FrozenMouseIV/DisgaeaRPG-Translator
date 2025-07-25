@@ -13,7 +13,9 @@ from Code.config import Config, Paths
 class UnityHelper:
     def __init__(self):
         self.env = UnityPy.load(Paths.GAME_MASTERS)
-        self.masters_path = Path(Paths.GAME_MASTERS)        
+        self.masters_path = Path(Paths.GAME_MASTERS) 
+        self.game_assets_path = Path(Paths.GAME_ASSETS)   
+           
         # Check if the folder exists and is not empty
         if not self.masters_path.is_dir():
             print(f" ❌ Error: The folder '{self.masters_path}' does not exist.")
@@ -26,6 +28,15 @@ class UnityHelper:
         #Ensure required folders exist
         self.backup_path = Path(Paths.MASTERS_BACKUP)        
         self.backup_path.mkdir(parents=True, exist_ok=True)
+
+        self.assets_backup_path = Path(Paths.ASSETS_BACKUP) 
+        self.assets_backup_path.mkdir(parents=True, exist_ok=True)
+
+        self.patched_textures = Path(Paths.PATCHED_TEXTURES)        
+        self.patched_textures.mkdir(parents=True, exist_ok=True)        
+
+        self.global_assets_path = Path(Paths.GLOBAL_ASSETS_DIR)        
+        self.global_assets_path.mkdir(parents=True, exist_ok=True)
 
         self.translation_source_path = Path(Paths.SOURCE_TRANSLATED_DIR)        
         self.translation_source_path.mkdir(parents=True, exist_ok=True)
@@ -100,7 +111,7 @@ class UnityHelper:
             name = data.m_Name
 
             # Datamine updated files and export to updated files folder
-            if name in files_to_datamine and name in Config.FILES_TO_TRANSLATE:
+            if name in files_to_datamine and (name in Config.FILES_TO_TRANSLATE or name == 'charactercommand'):
                 self._export_json(obj, name, Paths.UPDATED_FILES_DIR)
                 source_file = self.masters_path / name
                 backup_file = self.backup_path / name
@@ -164,6 +175,49 @@ class UnityHelper:
         elapsed = end_time - start_time
         print(f"       ├─ ✅ Finished generating translated game files in {elapsed:.2f}s.")
  
+    def find_and_patch_textures(self):
+
+        start_time = time.time()
+        print(f"\n    🔍 Scanning for assets to patch...")
+        for asset_file in self.global_assets_path.rglob("*"):
+            if asset_file.is_file():
+                # Reconstruct relative path from assets dir
+                relative_path = asset_file.relative_to(self.global_assets_path)
+
+                # Build corresponding path in game masters
+                game_asset_file = self.game_assets_path / relative_path
+
+                backup_file = self.assets_backup_path / relative_path
+
+                # Build expected path for patched output
+                patched_output_file = Path(Paths.PATCHED_TEXTURES) / relative_path
+                if patched_output_file.exists():
+                    continue  # Skip to next asset
+
+                if game_asset_file.exists():
+                    print(f"           ├─  🖼️ Found texture to patch: {relative_path}")
+
+                    # Make sure backup folder exists for the file
+                    backup_file.parent.mkdir(parents=True, exist_ok=True)
+
+                    # Backup existing game file (only if not already backed up)
+                    if not backup_file.exists():
+                        shutil.copy2(game_asset_file, backup_file)
+                    print(f"                ├─ 🔒 Backed up asset to {relative_path}")
+
+                    # Load both Unity environments
+                    with asset_file.open("rb") as f:
+                        source_env = UnityPy.load(f)
+                    with game_asset_file.open("rb") as f:
+                        target_env = UnityPy.load(f)
+
+                    # Example: Patch textures
+                    self.__patch_textures(source_env, target_env, asset_file.name, relative_path)
+
+        end_time = time.time()
+        elapsed = end_time - start_time
+        print(f"       ├─ ✅ Finished patching textures in in {elapsed:.2f}s.")
+
     def __load_translated_data(self, filename:str):  
         filepath = os.path.join(Paths.SOURCE_TRANSLATED_DIR, filename + '.json')  
         with io.open(filepath, encoding='utf8') as fj:
@@ -186,3 +240,72 @@ class UnityHelper:
             json.dump(tree['DataList'], f, ensure_ascii=False, indent=4)
 
         print(f"            ├─ 📝 Extracted: {name}")
+
+
+    def __patch_textures(self, source_env, target_env, filename, relative_path):
+
+        # Map sprites by name from both environments
+        sprites_jp = {}
+        sprites_en = {}
+        patched = 0
+        skipped = []
+        mismatches = []
+
+        # Map sprites by name
+        sprites_jp = {s.m_Name: s for obj in target_env.objects if obj.type.name == "Sprite" for s in [obj.read()]}
+        sprites_en = {s.m_Name: s for obj in source_env.objects if obj.type.name == "Sprite" for s in [obj.read()]}
+
+        # Load textures
+        jp_texture = next((obj.read() for obj in target_env.objects if obj.type.name == "Texture2D"), None)
+        en_texture = next((obj.read() for obj in source_env.objects if obj.type.name == "Texture2D"), None)
+
+        # Pre-convert once
+        jp_img = jp_texture.image.convert("RGBA")
+        en_img = en_texture.image.convert("RGBA")
+
+        for name, jp_sprite in sprites_jp.items():
+            en_sprite = sprites_en.get(name)
+            if not en_sprite:
+                skipped.append(name)
+                continue
+
+            rect_jp = jp_sprite.m_RD.textureRect
+            rect_en = en_sprite.m_RD.textureRect
+
+            if (int(rect_en.width) != int(rect_jp.width)) or (int(rect_en.height) != int(rect_jp.height)):
+                mismatches.append(name)
+                continue
+
+            # Crop from EN texture
+            crop = en_img.crop((
+                int(rect_en.x),
+                en_img.height - int(rect_en.y + rect_en.height),
+                int(rect_en.x + rect_en.width),
+                en_img.height - int(rect_en.y)
+            ))
+
+            # Paste into JP texture
+            paste_x = int(rect_jp.x)
+            paste_y = jp_img.height - int(rect_jp.y + rect_jp.height)
+            jp_img.paste(crop, (paste_x, paste_y))
+
+            patched += 1
+
+        # Final save
+        jp_texture.image = jp_img
+        jp_texture.save()
+
+        print(f"                ├─ 💾 Patched {patched} sprite(s)")
+        if mismatches:
+            print(f"                ├─ ❌ Mismatches: {len(mismatches)} → {mismatches}")
+
+        # Step 3: Save the whole environment (updated bundle)
+        output_dir = Paths.PATCHED_TEXTURES
+
+        for path, env_file in target_env.files.items():
+            save_path = output_dir / relative_path
+            # Ensure parent directory exists
+            save_path.parent.mkdir(parents=True, exist_ok=True)
+            # Save the modified Unity asset file
+            with open(save_path, "wb") as f:
+                f.write(env_file.save(packer=(64, 2)))

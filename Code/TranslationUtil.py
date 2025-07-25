@@ -317,3 +317,44 @@ class Translator_Util:
                     shutil.copy2(file, target_file)
                     print(f"       ├─ 🔁 Copied {file.name} to {target_file}")
         print("   ├─ ✅ Finished updating game files.")
+
+    def update_game_textures(self, files_to_update:List[str] = None):
+        print(f"\n    ℹ️ Updating game assets")
+        source_dir = Path(Paths.PATCHED_TEXTURES)
+        target_dir = Path(Paths.GAME_ASSETS)
+
+        # Ensure the destination exists
+        target_dir.mkdir(parents=True, exist_ok=True)
+
+        updated_count = 0
+
+        for patch_file in source_dir.rglob("*"):
+            if patch_file.is_file():
+                relative_path = patch_file.relative_to(source_dir)
+                target_game_file = Path(Paths.GAME_ASSETS) / relative_path
+
+                # If filtering is enabled, check filename match
+                if files_to_update is not None:
+                    if patch_file.name not in files_to_update:
+                        continue
+
+                if not target_game_file.exists():
+                    print(f"           ├─ ⚠️ Game file not found: {relative_path}")
+                    continue
+
+                target_file = target_dir / patch_file.name
+                # Copy the patched file to game directory
+                shutil.copy2(patch_file, target_game_file)
+                print(f"           ├─ 📁 Copied: {relative_path} to {target_file}")
+                updated_count += 1
+
+        print(f"       ├─ ✅ Finished updating {updated_count} texture(s).")
+        
+        # Copy all files (ignoring subdirectories)
+        for file in source_dir.iterdir():
+            if file.is_file():
+                if files_to_update is None or file.stem in files_to_update:
+                    target_file = target_dir / file.name
+                    shutil.copy2(file, target_file)
+                    print(f"       ├─ 🔁 Copied {file.name} to {target_file}")
+        print("   ├─ ✅ Finished updating game files.")

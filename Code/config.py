@@ -93,7 +93,7 @@ class Config:
 
     FILES_TO_CHECK_FOR_UPDATES =  ['command', 'leaderskill']
 
-    FILES_TO_TRACK_NEW_ENTRIES =  ['command', 'leaderskill', 'character']
+    FILES_TO_TRACK_NEW_ENTRIES =  ['command', 'leaderskill', 'character' 'item']
 
     FIELDS_TO_TRANSLATE = [
         'ability_description', 'body', 'button_text', 'category', 'class_name', 'class_name_1',
@@ -109,11 +109,20 @@ class Paths:
     CONFIG_PATH = Path("config.json")
     DICTIONARIES_DIR = "./Dictionaries"
     SOURCE_DIR = "./Source"
+    GLOBAL_ASSETS_DIR = "./Global_Assets"
     SOURCE_TRANSLATED_DIR = "./Source_Translated"
     NEW_ENTRIES_DIR = "./New_Entries"
     TRANSLATED_FILES_DIR = "./Translated_Files"
     UPDATED_FILES_DIR = "./Updated_Files"
     MASTERS_BACKUP = "./Masters_Backup"
+    ASSETS_BACKUP = "./Assets_Backup"
+    PATCHED_TEXTURES = "Patched_Textures"
+    GAME_ASSETS = os.path.join(
+        os.getenv("LOCALAPPDATA").replace("Local", "LocalLow"),
+        "disgaearpg",
+        "DisgaeaRPG",
+        "assetbundle"
+    )
     GAME_MASTERS = os.path.join(
         os.getenv("LOCALAPPDATA").replace("Local", "LocalLow"),
         "disgaearpg",

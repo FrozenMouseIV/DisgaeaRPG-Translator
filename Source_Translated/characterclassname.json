@@ -24550,5 +24550,41 @@
     "m_character_id": 352,
     "rarity": 6,
     "class_name": "The hero of the shining beach"
+  },
+  {
+    "id": 3531,
+    "m_character_id": 353,
+    "rarity": 1,
+    "class_name": "Little devils who enjoy the extreme heat"
+  },
+  {
+    "id": 3532,
+    "m_character_id": 353,
+    "rarity": 2,
+    "class_name": "Little devils who enjoy the extreme heat"
+  },
+  {
+    "id": 3533,
+    "m_character_id": 353,
+    "rarity": 3,
+    "class_name": "Little devils who enjoy the extreme heat"
+  },
+  {
+    "id": 3534,
+    "m_character_id": 353,
+    "rarity": 4,
+    "class_name": "Little devils who enjoy the extreme heat"
+  },
+  {
+    "id": 3535,
+    "m_character_id": 353,
+    "rarity": 5,
+    "class_name": "Beautiful girl who doesn't have any sunburn"
+  },
+  {
+    "id": 3536,
+    "m_character_id": 353,
+    "rarity": 6,
+    "class_name": "The Sexy Demon of Burning"
   }
 ]
