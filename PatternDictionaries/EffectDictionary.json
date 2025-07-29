@@ -87,8 +87,21 @@
   "RESの#PER3#%を上乗せしてﾀﾞﾒｰｼﾞ計算": "#PER3#%RES added to damage calculation",
   "使用するほどさらに威力アップ": "Power increases with each use",
   "クリティカル時の技威力": "[On Critical hit] Skill power",
+  "炎属性で与えるダメージ+#PER4#%": "Fire Damage +#PER4#%",
+  "炎属性で与えるダメージ+#PER5#%": "Fire Damage +#PER5#%",
+  "炎属性で与えるダメージ+#PER6#%": "Fire Damage +#PER6#%",
+  "水属性で与えるダメージ+#PER4#%": "Water Damage +#PER4#%",
+  "水属性で与えるダメージ+#PER5#%": "Water Damage +#PER5#%",
+  "水属性で与えるダメージ+#PER6#%": "Water Damage +#PER6#%",
+  "星属性で与えるダメージ+#PER4#%": "Star Damage +#PER4#%",
+  "星属性で与えるダメージ+#PER5#%": "Star Damage +#PER5#%",
+  "星属性で与えるダメージ+#PER6#%": "Star Damage +#PER6#%",
+  "風星属性で与えるダメージ+#PER4#%": "Wind Damage +#PER4#%",
+  "風属性で与えるダメージ+#PER5#%": "Wind Damage +#PER5#%",
+  "風属性で与えるダメージ+#PER6#%": "Wind Damage +#PER6#%",
 
   "敵が少ないほど威力アップ": "Increase damage with fewer enemies",
+  "ATK+この技で倒した敵キャラ数×#PER2#%": "ATK +(No. of foes defeated by this skill)×#PER2#%",
 
   "対象のバフを#PER2#%無視してダメージ計算": "Damage calculation ignores #PER2#% of target buffs",
   "対象のバフを#PER3#%無視してダメージ計算": "Damage calculation ignores #PER3#% of target buffs",
@@ -128,6 +141,7 @@
   "潜在[キング]のキャラはさらに": "[King Characters] ",
 
   "迎撃": "Intercept",
+  "自動蘇生": "Auto Revive",
 
   "HL強奪": "Steal HL",
 
@@ -143,7 +157,7 @@
   "全属性耐性値": "All resistances",
   "[炎]": "[Fire]",
   "[星]": "[Star]",
-  "[水]": "[Star]",
+  "[水]": "[Water]",
   "[風]": "[Wind]",
 
   "[ﾗﾝﾀﾞﾑ]": "[Random]",

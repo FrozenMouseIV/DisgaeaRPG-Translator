@@ -161,6 +161,38 @@ class Translator_Util:
         elapsed = end_time - start_time
         print(f"            ├─ 🛠️ Finihed checking {filename}: {updated_count} entries updated in {elapsed:.2f}s")
  
+    def __patch_new_entries(self, new_entries_file, source_file, filename):
+        source_data_lookup = {entry["id"]: entry for entry in source_file}
+        new_entries_lookup = {entry["id"]: entry for entry in new_entries_file}
+        for id_, new_entry in new_entries_lookup.items():
+            if id_ not in source_data_lookup:
+                continue  # Entry was removed in JP (unlikely, but safe check)
+
+            #translated_entry = translated_data.get(id_, new_entry.copy())
+            source_entry = source_data_lookup[id_]
+            entry_updated = False
+            for field in Config.FIELDS_TO_TRANSLATE:
+                if field in source_entry:
+                    old_value = source_entry.get(field)
+                    new_value = new_entry.get(field)
+
+                    if old_value != new_value:
+                        source_entry[field] = new_value  # ✅ update the source entry
+                        entry_updated = True
+                          
+                        
+            # Update the entry directly in the translated_data dictionary
+            if entry_updated:                
+               source_data_lookup[id_] = source_entry  # Replace the old entry with the updated one
+
+
+        # Save updated translation file
+        patched_source = list(source_data_lookup.values())
+        out_path = os.path.join(Paths.SOURCE_TRANSLATED_DIR, f'{filename}.json')
+        # with open(out_path, 'w', encoding='utf8') as f:
+        #     json.dump(translated_data, f, ensure_ascii=False, indent=2)
+        self.helper.safe_save_json(patched_source, out_path)
+    
     # in case the initial files are not up to date. Look for new entries, translate and update our translations
     def initial_translation(self):
         print(f"\n    ℹ️ Running initial translation")
@@ -262,6 +294,36 @@ class Translator_Util:
         end_time = time.time()
         elapsed = end_time - start_time
         print(f"       ├─ ✅ Finished translating updated files in {elapsed:.2f}s.")  
+
+    # translate updated files
+    def patch_new_entries(self, filenames:List[str]):
+
+        print(f"ℹ️  Patching new entries into source file")
+        start_time = time.time()
+
+        for filename in filenames:
+            print(f"    🔁  Processing file : {filename}")
+            # Add the suffix to target the new entries file
+            new_entries_filename = f"{filename}_new_entries.json"
+            new_entries_file_path = os.path.join(Paths.NEW_ENTRIES_DIR, new_entries_filename)
+            source_filename = f"{filename}.json"
+            source_file_path = os.path.join(Paths.SOURCE_TRANSLATED_DIR, source_filename)            
+
+            if not os.path.isfile(new_entries_file_path):
+                print(f"    ⚠️  File not found: {new_entries_file_path}")
+                continue
+
+            # Load the JSON file
+            with open(new_entries_file_path, "r", encoding="utf-8") as f:
+                new_entries_file = json.load(f)
+            with open(source_file_path, "r", encoding="utf-8") as f:
+                source_file = json.load(f)
+
+            self.__patch_new_entries( new_entries_file, source_file, filename)
+
+        end_time = time.time()
+        elapsed = end_time - start_time
+        print(f"├─ ✅ Finished translating updated files in {elapsed:.2f}s.")  
 
     def find_and_translate_file_changes(self):
 

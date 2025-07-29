@@ -166,6 +166,8 @@ class UnityHelper:
         for path, env_file in self.env.files.items():
             output_path = os.path.join(Paths.TRANSLATED_FILES_DIR, os.path.basename(path))
             filename = path[path.rfind('/') + 1:]
+            if files_to_translate is not None and filename not in files_to_translate: 
+                continue
             if filename in Config.FILES_TO_TRANSLATE:
                 os.makedirs(os.path.dirname(output_path), exist_ok=True)
                 with open(output_path, "wb") as f:

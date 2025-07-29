@@ -93,7 +93,7 @@ class Config:
 
     FILES_TO_CHECK_FOR_UPDATES =  ['command', 'leaderskill']
 
-    FILES_TO_TRACK_NEW_ENTRIES =  ['command', 'leaderskill', 'character' 'item']
+    FILES_TO_TRACK_NEW_ENTRIES =  ['command', 'leaderskill', 'character', 'characterclassname', 'item']
 
     FIELDS_TO_TRANSLATE = [
         'ability_description', 'body', 'button_text', 'category', 'class_name', 'class_name_1',

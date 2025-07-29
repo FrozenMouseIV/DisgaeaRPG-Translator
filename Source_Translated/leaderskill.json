@@ -5710,7 +5710,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 303,
@@ -6990,7 +6990,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 372,
@@ -7923,7 +7923,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 433,
@@ -16685,7 +16685,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 923,
@@ -18583,7 +18583,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 1023,
@@ -19211,7 +19211,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 1053,
@@ -33658,7 +33658,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 1764,
@@ -34318,7 +34318,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 1794,
@@ -41560,7 +41560,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2065,
@@ -44544,7 +44544,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2185,
@@ -46048,7 +46048,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2244,
@@ -47086,7 +47086,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2283,
@@ -47511,7 +47511,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": ", ATK+#per#%"
+    "description": ", ATK+#PER#%"
   },
   {
     "id": 2296,
@@ -48281,7 +48281,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2325,
@@ -49433,7 +49433,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2365,
@@ -49933,7 +49933,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2385,
@@ -50800,7 +50800,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2415,
@@ -57033,7 +57033,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2634,
@@ -58194,7 +58194,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2674,
@@ -62720,7 +62720,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2834,
@@ -64038,7 +64038,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 2884,
@@ -67462,7 +67462,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 3004,
@@ -71299,7 +71299,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 3134,
@@ -77944,7 +77944,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 3364,
@@ -79104,7 +79104,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 3404,
@@ -79652,7 +79652,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 3423,
@@ -82140,7 +82140,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 3505,
@@ -104160,7 +104160,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 200673,
@@ -108222,7 +108222,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 200834,
@@ -110579,7 +110579,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 200914,
@@ -112355,7 +112355,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "All aAllies: At the start of the turn SP +#PER#"
+    "description": "All Allies: At the start of the turn SP +#PER#"
   },
   {
     "id": 200974,
@@ -143947,7 +143947,7 @@
   },
   {
     "id": 3531,
-    "name": "Ultimate most cruel sex swimsuit",
+    "name": "Ultimate Badass Sexy swimsuit",
     "unique_flg": 0,
     "lv_max": 1,
     "timing_type": 1,
@@ -144024,7 +144024,7 @@
   },
   {
     "id": 3533,
-    "name": "A demonic smile",
+    "name": "Devilish Smile",
     "unique_flg": 1,
     "lv_max": 1,
     "timing_type": 2,
@@ -144103,7 +144103,7 @@
   },
   {
     "id": 3535,
-    "name": "Ultimate most cruel sex swimsuit",
+    "name": "Ultimate Badass Sexy swimsuit",
     "unique_flg": 1,
     "lv_max": 1,
     "timing_type": 1,
@@ -144179,7 +144179,7 @@
   },
   {
     "id": 3537,
-    "name": "A demonic smile",
+    "name": "Devilish Smile",
     "unique_flg": 1,
     "lv_max": 1,
     "timing_type": 2,
