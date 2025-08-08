@@ -3729,5 +3729,68 @@
     "name": "Pringer V3",
     "description": "The ingenious Overlord Mao \nonce used his 1.8 million EQ \nto combine 3 random Prinnies \ninto a Super Alloy Robot.\nIts name is Pringer V3!\nFew who have faced off against \nPringer V3 have lived to tell the tale.",
     "color_no": 0
+  },
+  {
+    "id": 1464,
+    "img_id": 90078,
+    "name": "Swimsuit Marone",
+    "description": "A world that is different from the demon world,\nA girl from Yvoir.\nI was invited by the Piririka I met before,\nIt appears that he came to enjoy the seas of the demon world.\nAbility to control the phantom\nA user of Chartreuse.",
+    "color_no": 5
+  },
+  {
+    "id": 1465,
+    "img_id": 333,
+    "name": "Hero Ash",
+    "description": "Marone's partner,\nKind and strong sense of justice\nA boy with a phantom.\nWith Marone,\nI came to enjoy the sea of the demon world.\nPut the power of sacred evil in your fist\nIt can improve your abilities,\nA user of the Water Dragon's ability, Ecarrat.",
+    "color_no": 1
+  },
+  {
+    "id": 1466,
+    "img_id": 64,
+    "name": "Virunga",
+    "description": "Following the justice that he has set out,\nThe angel commander who protects the order of heaven.\nIt's competent, but a little\nThere are some parts of the values that are biased.",
+    "color_no": 11
+  },
+  {
+    "id": 1467,
+    "img_id": 356,
+    "name": "Urumi",
+    "description": "The extremely cold frozen soil that snows all year round.\nI lived on Shirayuki Island\nA boy with a phantom.\nHe died at a young age, and spent a long time\nHe has acquired monster powers.\nAbility to control the surrounding climate\nA user of \"Hino Sewre Glass.\"",
+    "color_no": 11
+  },
+  {
+    "id": 1468,
+    "img_id": 358,
+    "name": "Mayfair",
+    "description": "He manages a certain pirate crew\nThe female captain with her older sister's skin. Although he has a rough personality,\nAt the same time, he is kind and not a villain.\nFor better or worse, he is a man of honor.\nHe values romance and family love,\nThe crew members are called their families, and sometimes strict,\nSometimes I protect him gently.\nAwakening ability\nA user of \"Psycho Burgundy.\"",
+    "color_no": 1
+  },
+  {
+    "id": 1469,
+    "img_id": 334,
+    "name": "henna",
+    "description": "It is in \"Yvoir\"\nShe is the former princess of Hasara, the kingdom of the sand island.\nIt is a phantom,\nA member of the Argento Pirates.\nFreed from the Queen's position,\nEnjoying a free life.\nThe fascinating ability to attract others,\nA user of \"Opera Mauve.\"",
+    "color_no": 6
+  },
+  {
+    "id": 1470,
+    "img_id": 359,
+    "name": "Luan",
+    "description": "He is the vice captain of the Argento Pirates.\nA beastman was Aprico's father's right-hand man.\nAlways looking lazy and frivolous\nIt's a phantom,\nHe is human and always\nHe cares about Aprico.\nThe power of the sky\nA user of \"Cerulean Blue.\"",
+    "color_no": 8
+  },
+  {
+    "id": 1471,
+    "img_id": 20106,
+    "name": "Bottle apricot",
+    "description": "Captain of the Argento Pirates\nA phantom girl.\nPurify the phantom and soul\nAbility to soften,\nHe is a user of \"Daydream\"\nBottle mail by Burcano\nI'm trapped.",
+    "color_no": 8
+  },
+  {
+    "id": 1472,
+    "img_id": 90079,
+    "name": "Marone x Aprico",
+    "description": "Marone and Aprico\nBond confirmation appearance.\nThe soul of the aprico to Marone himself\nBy confirming,\nMore than a regular confine\nIt exerts powerful power.",
+    "color_no": 5
   }
 ]

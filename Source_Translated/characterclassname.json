@@ -24586,5 +24586,113 @@
     "m_character_id": 353,
     "rarity": 6,
     "class_name": "The Sexy Demon of Burning"
+  },
+  {
+    "id": 3561,
+    "m_character_id": 356,
+    "rarity": 1,
+    "class_name": "Ice Spirit of Despair"
+  },
+  {
+    "id": 3562,
+    "m_character_id": 356,
+    "rarity": 2,
+    "class_name": "Ice Spirit of Despair"
+  },
+  {
+    "id": 3563,
+    "m_character_id": 356,
+    "rarity": 3,
+    "class_name": "Ice Spirit of Despair"
+  },
+  {
+    "id": 3564,
+    "m_character_id": 356,
+    "rarity": 4,
+    "class_name": "Ice Spirit of Despair"
+  },
+  {
+    "id": 3565,
+    "m_character_id": 356,
+    "rarity": 5,
+    "class_name": "Angry ice spirit"
+  },
+  {
+    "id": 3566,
+    "m_character_id": 356,
+    "rarity": 6,
+    "class_name": "Ice spirit with bonds"
+  },
+  {
+    "id": 3581,
+    "m_character_id": 358,
+    "rarity": 1,
+    "class_name": "Assault Captain"
+  },
+  {
+    "id": 3582,
+    "m_character_id": 358,
+    "rarity": 2,
+    "class_name": "Assault Captain"
+  },
+  {
+    "id": 3583,
+    "m_character_id": 358,
+    "rarity": 3,
+    "class_name": "Assault Captain"
+  },
+  {
+    "id": 3584,
+    "m_character_id": 358,
+    "rarity": 4,
+    "class_name": "Assault Captain"
+  },
+  {
+    "id": 3585,
+    "m_character_id": 358,
+    "rarity": 5,
+    "class_name": "First class captain"
+  },
+  {
+    "id": 3586,
+    "m_character_id": 358,
+    "rarity": 6,
+    "class_name": "Legendary Pirate Captain"
+  },
+  {
+    "id": 201061,
+    "m_character_id": 20106,
+    "rarity": 1,
+    "class_name": "A timid bottle"
+  },
+  {
+    "id": 201062,
+    "m_character_id": 20106,
+    "rarity": 2,
+    "class_name": "A timid bottle"
+  },
+  {
+    "id": 201063,
+    "m_character_id": 20106,
+    "rarity": 3,
+    "class_name": "A timid bottle"
+  },
+  {
+    "id": 201064,
+    "m_character_id": 20106,
+    "rarity": 4,
+    "class_name": "A timid bottle"
+  },
+  {
+    "id": 201065,
+    "m_character_id": 20106,
+    "rarity": 5,
+    "class_name": "Bottled captain"
+  },
+  {
+    "id": 201066,
+    "m_character_id": 20106,
+    "rarity": 6,
+    "class_name": "Captain of the Bottled Courage"
   }
 ]

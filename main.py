@@ -8,13 +8,15 @@ def main():
     start_time = time.time()
     
     print(f"Started execution")
-    #STEP 1 - DATAMINE GAME FILES   
+    
     unity_helper = UnityHelper()
+    
+    #STEP 1 - DATAMINE GAME FILES   
     initial_setup_done = unity_helper.initial_datamine()
-
-    #STEP 2 - TRANSLATE FILES
-
     translator_helper = Translator_Util()
+
+
+    #STEP 2 - TRANSLATE FILES    
     # 2 - 1: INITIAL SETUP NEEDED. PATCH EVERYTHING FROM SOURCE_TRANSLATED
     if initial_setup_done == False:
         translator_helper.initial_translation()

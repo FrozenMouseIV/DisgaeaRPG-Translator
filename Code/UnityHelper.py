@@ -275,23 +275,35 @@ class UnityHelper:
             rect_en = en_sprite.m_RD.textureRect
 
             if (int(rect_en.width) != int(rect_jp.width)) or (int(rect_en.height) != int(rect_jp.height)):
-                mismatches.append(name)
-                continue
+                # If sizes don't match, resize the EN texture to match the JP sprite size
+                crop = en_img.crop((
+                    int(rect_en.x),
+                    en_img.height - int(rect_en.y + rect_en.height),
+                    int(rect_en.x + rect_en.width),
+                    en_img.height - int(rect_en.y)
+                ))
 
-            # Crop from EN texture
-            crop = en_img.crop((
-                int(rect_en.x),
-                en_img.height - int(rect_en.y + rect_en.height),
-                int(rect_en.x + rect_en.width),
-                en_img.height - int(rect_en.y)
-            ))
+                # Resize crop to match JP size (if mismatched)
+                crop_resized = crop.resize((int(rect_jp.width), int(rect_jp.height)))
 
-            # Paste into JP texture
-            paste_x = int(rect_jp.x)
-            paste_y = jp_img.height - int(rect_jp.y + rect_jp.height)
-            jp_img.paste(crop, (paste_x, paste_y))
+                # Paste resized crop into JP texture
+                paste_x = int(rect_jp.x)
+                paste_y = jp_img.height - int(rect_jp.y + rect_jp.height)
+                jp_img.paste(crop_resized, (paste_x, paste_y))
+                patched += 1
+            else:
+                # If sizes match, just crop and paste without resizing
+                crop = en_img.crop((
+                    int(rect_en.x),
+                    en_img.height - int(rect_en.y + rect_en.height),
+                    int(rect_en.x + rect_en.width),
+                    en_img.height - int(rect_en.y)
+                ))
 
-            patched += 1
+                paste_x = int(rect_jp.x)
+                paste_y = jp_img.height - int(rect_jp.y + rect_jp.height)
+                jp_img.paste(crop, (paste_x, paste_y))
+                patched += 1
 
         # Final save
         jp_texture.image = jp_img

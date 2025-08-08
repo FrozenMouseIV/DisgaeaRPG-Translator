@@ -4738,5 +4738,35 @@
     "name": "Etna's summer resort: defense battle",
     "open_at": "",
     "close_at": ""
+  },
+  {
+    "id": 18271,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle for the second collaboration of Phantom Brave",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18281,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "\"The Phantom Brave\" Angel Corps and the Disappeared Captain",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18282,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "\"Phantom Brave\" Angel Corps and the Disappeared Captain EXTRA",
+    "open_at": "",
+    "close_at": ""
   }
 ]
