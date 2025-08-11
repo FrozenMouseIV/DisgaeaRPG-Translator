@@ -28,7 +28,7 @@
     "condition_id": 0,
     "condition_num": 50000,
     "name": "Prinny Dealer",
-    "description": "50,000 Plinies shipped from Pliny Prison+",
+    "description": "50,000 Prinnies shipped from Prinny Prison",
     "m_award_id": 501,
     "resource": "501"
   },
@@ -38,8 +38,8 @@
     "condition_type": 2,
     "condition_id": 0,
     "condition_num": 100000,
-    "name": "Pliny Shipment King",
-    "description": "100,000 Plinies shipped from Pliny Prison+",
+    "name": "Prinny Shipment King",
+    "description": "100,000 Prinnies shipped from Prinny Prison",
     "m_award_id": 502,
     "resource": "502"
   },
@@ -50,7 +50,7 @@
     "condition_id": 0,
     "condition_num": 10,
     "name": "Mostly friends",
-    "description": "Watch 10 character episodes to the end",
+    "description": "Finish watching 10 character episodes",
     "m_award_id": 601,
     "resource": "601"
   },
@@ -61,7 +61,7 @@
     "condition_id": 0,
     "condition_num": 25,
     "name": "The evangelist of bonds",
-    "description": "Watch 25 character episodes to the end",
+    "description": "Finish watching 25 character episodes",
     "m_award_id": 602,
     "resource": "602"
   },
@@ -72,7 +72,7 @@
     "condition_id": 0,
     "condition_num": 200000,
     "name": "Workplaces for summer resorts",
-    "description": "Increases labor force in summer resorts in Etna to over 200,000",
+    "description": "Increases labor force in in Etna's summer resort to over 200,000",
     "m_award_id": 701,
     "resource": "701"
   },
@@ -83,7 +83,7 @@
     "condition_id": 0,
     "condition_num": 400000,
     "name": "Those who control labor in summer resorts",
-    "description": "Increases labor force in summer resorts in Etna to over 400,000",
+    "description": "Increases labor force in Etna's summer resort to over 400,000",
     "m_award_id": 702,
     "resource": "702"
   },
@@ -94,7 +94,7 @@
     "condition_id": 0,
     "condition_num": 250000,
     "name": "Those who develop summer resorts",
-    "description": "Increases the amount of materials in Etna's summer resorts to 250,000",
+    "description": "Increases the amount of materials in Etna's summer resort to 250,000",
     "m_award_id": 801,
     "resource": "801"
   },
@@ -104,8 +104,8 @@
     "condition_type": 5,
     "condition_id": 0,
     "condition_num": 500000,
-    "name": "The King of Rescue Rescue Rescue",
-    "description": "Increase the amount of materials in summer resorts in Etna to 500,000",
+    "name": "King of the Summer Resort",
+    "description": "Increase the amount of materials in Etna's summer resort to 500,000",
     "m_award_id": 802,
     "resource": "802"
   },
@@ -116,7 +116,7 @@
     "condition_id": 0,
     "condition_num": 2500,
     "name": "Famous fishing fleets",
-    "description": "2,500 times return to the fishing fleet",
+    "description": "Fishing fleet completed 2,500 expeditions",
     "m_award_id": 901,
     "resource": "901"
   },
@@ -127,7 +127,7 @@
     "condition_id": 0,
     "condition_num": 5000,
     "name": "The most dangerous fishing fleet in the universe",
-    "description": "Fishing fleet return 5,000 times",
+    "description": "Fishing fleet completed 5,000 expeditions",
     "m_award_id": 902,
     "resource": "902"
   },
@@ -159,7 +159,7 @@
     "condition_type": 8,
     "condition_id": 0,
     "condition_num": 30,
-    "name": "I love King",
+    "name": "King lover",
     "description": "Own 30 King-type characters",
     "m_award_id": 1101,
     "resource": "1101"
@@ -181,7 +181,7 @@
     "condition_type": 9,
     "condition_id": 0,
     "condition_num": 30,
-    "name": "I love pawns",
+    "name": "Pawn lover",
     "description": "Own 30 Pawn-type characters",
     "m_award_id": 1201,
     "resource": "1201"
@@ -203,7 +203,7 @@
     "condition_type": 10,
     "condition_id": 0,
     "condition_num": 30,
-    "name": "I love Rook",
+    "name": "Rook lover",
     "description": "Own 30 Rook-type characters",
     "m_award_id": 1301,
     "resource": "1301"
@@ -225,7 +225,7 @@
     "condition_type": 11,
     "condition_id": 0,
     "condition_num": 30,
-    "name": "I love bishops",
+    "name": "Bishop lover",
     "description": "Own 30 Bishop-type characters",
     "m_award_id": 1401,
     "resource": "1401"
@@ -247,7 +247,7 @@
     "condition_type": 12,
     "condition_id": 0,
     "condition_num": 30,
-    "name": "I love knights",
+    "name": "Knight lover",
     "description": "Own 30 Knight-type characters",
     "m_award_id": 1501,
     "resource": "1501"
@@ -269,7 +269,7 @@
     "condition_type": 13,
     "condition_id": 0,
     "condition_num": 30,
-    "name": "I love queen",
+    "name": "Queen lover",
     "description": "Own 30 Queen-type characters",
     "m_award_id": 1601,
     "resource": "1601"
@@ -292,7 +292,7 @@
     "condition_id": 0,
     "condition_num": 10000,
     "name": "Regular members of the research team",
-    "description": "Item World Research Team Maximum equipment level 10,000 times",
+    "description": "Item World Research Team has reached MAX level equipment 10,000 times",
     "m_award_id": 1701,
     "resource": "1701"
   },
@@ -303,7 +303,7 @@
     "condition_id": 0,
     "condition_num": 20000,
     "name": "Research Team VIP class specialists",
-    "description": "Item World Research Team has set the equipment level to MAX 20,000 times",
+    "description": "Item World Research Team has reached MAX level equipment 20,000 times",
     "m_award_id": 1702,
     "resource": "1702"
   },
@@ -335,8 +335,8 @@
     "condition_type": 16,
     "condition_id": 0,
     "condition_num": 50,
-    "name": "素質開花",
-    "description": "Strengthen your talent 50 times",
+    "name": "Blooming quality",
+    "description": "Enhance Quality 50 times",
     "m_award_id": 1901,
     "resource": "1901"
   },
@@ -347,7 +347,7 @@
     "condition_id": 0,
     "condition_num": 250,
     "name": "Overwhelming quality",
-    "description": "Strengthen your potential 250 times",
+    "description": "Enhance Quality 250 times",
     "m_award_id": 1902,
     "resource": "1902"
   },
@@ -390,7 +390,7 @@
     "condition_type": 18,
     "condition_id": 0,
     "condition_num": 150,
-    "name": "An enthusiastic protective gear collector",
+    "name": "An fanatic armor collector",
     "description": "Gain 150 different types of armor",
     "m_award_id": 2102,
     "resource": "2102"
@@ -402,7 +402,7 @@
     "condition_id": 0,
     "condition_num": 50,
     "name": "Sword Master",
-    "description": "Sword weapon proficiency level is 50/50",
+    "description": "Increase the proficiency level of the Sword weapon to level 50",
     "m_award_id": 2201,
     "resource": "2201"
   },
@@ -413,7 +413,7 @@
     "condition_id": 0,
     "condition_num": 50,
     "name": "Fist Master",
-    "description": "Fist weapon proficiency level is 50/50",
+    "description": "Increase the proficiency level of the Fist weapon to level 50",
     "m_award_id": 2301,
     "resource": "2301"
   },
@@ -424,7 +424,7 @@
     "condition_id": 0,
     "condition_num": 50,
     "name": "Spear Master",
-    "description": "Increase the weapon proficiency of the spear to 50/50",
+    "description": "Increase the proficiency level of the Spear weapon to level 50",
     "m_award_id": 2401,
     "resource": "2401"
   },
@@ -435,7 +435,7 @@
     "condition_id": 0,
     "condition_num": 50,
     "name": "Bow Master",
-    "description": "Bow weapon proficiency level is 50/50",
+    "description": "Increase the proficiency level of the Bow weapon to level 50",
     "m_award_id": 2501,
     "resource": "2501"
   },
@@ -446,7 +446,7 @@
     "condition_id": 0,
     "condition_num": 50,
     "name": "Gun Master",
-    "description": "Increase gun weapon proficiency to 50/50",
+    "description": "Increase the proficiency level of the Gun weapon to level 50",
     "m_award_id": 2601,
     "resource": "2601"
   },
@@ -457,7 +457,7 @@
     "condition_id": 0,
     "condition_num": 50,
     "name": "Axe Master",
-    "description": "Increase the skill level of the axe weapon to 50/50",
+    "description": "Increase the proficiency level of the Axe weapon to level 50",
     "m_award_id": 2701,
     "resource": "2701"
   },
@@ -467,8 +467,8 @@
     "condition_type": 25,
     "condition_id": 0,
     "condition_num": 50,
-    "name": "Cane Master",
-    "description": "Increase the skill level of the cane weapon to 50/50",
+    "name": "Staff Master",
+    "description": "Increase the proficiency level of the Staff weapon to level 50",
     "m_award_id": 2801,
     "resource": "2801"
   },
@@ -478,8 +478,8 @@
     "condition_type": 26,
     "condition_id": 0,
     "condition_num": 50,
-    "name": "Demon Physics Master",
-    "description": "Increase weapon proficiency in monster physics to 50/50",
+    "name": "Monster Phys Master",
+    "description": "Increase the proficiency level of the Monster Physical weapon to level 50",
     "m_award_id": 2901,
     "resource": "2901"
   },
@@ -489,8 +489,8 @@
     "condition_type": 27,
     "condition_id": 0,
     "condition_num": 50,
-    "name": "Demon Magic Master",
-    "description": "Increase the proficiency level of monster magic weapons to 50/50",
+    "name": "Monster Magic Master",
+    "description": "Increase the proficiency level of the Monster Magic weapon to level 50",
     "m_award_id": 3001,
     "resource": "3001"
   },
@@ -500,7 +500,7 @@
     "condition_type": 28,
     "condition_id": 0,
     "condition_num": 50,
-    "name": "超魔流師範代",
+    "name": "Super Magic Master Substitute Teacher",
     "description": "Unlock potential 50 times",
     "m_award_id": 3101,
     "resource": "3101"
@@ -522,8 +522,8 @@
     "condition_type": 29,
     "condition_id": 0,
     "condition_num": 1,
-    "name": "I love Pliny",
-    "description": "To level 9999 for either Pliny",
+    "name": "Prinny friend",
+    "description": "Level one prinny to level 9999",
     "m_award_id": 3201,
     "resource": "3201"
   },
@@ -533,8 +533,8 @@
     "condition_type": 29,
     "condition_id": 0,
     "condition_num": 4,
-    "name": "Pliny lovers",
-    "description": "All four types of Pliny are set to level 9999",
+    "name": "Prinny lover",
+    "description": "Level all four types of Prinny to level 9999",
     "m_award_id": 3202,
     "resource": "3202"
   },
@@ -545,7 +545,7 @@
     "condition_id": 30137,
     "condition_num": 9999,
     "name": "Yellowtail fisherman",
-    "description": "Make Space Britain Level 9999",
+    "description": "Make Space Yellowtail Level 9999",
     "m_award_id": 3301,
     "resource": "3301"
   },
@@ -556,7 +556,7 @@
     "condition_id": 0,
     "condition_num": 1,
     "name": "Contest Fighting Spirit Award",
-    "description": "Get one gold character badge at the Strongest XX Contest",
+    "description": "Get one gold character badge at the Axel Contest",
     "m_award_id": 3401,
     "resource": "3401"
   },
@@ -567,7 +567,7 @@
     "condition_id": 0,
     "condition_num": 3,
     "name": "Excellence of the contest",
-    "description": "Get 3 gold character badges at the Strongest XX Contest",
+    "description": "Get 3 gold character badges at the Axel Contest",
     "m_award_id": 3402,
     "resource": "3402"
   },
@@ -589,7 +589,7 @@
     "condition_id": 0,
     "condition_num": 50000000,
     "name": "Final boss researcher",
-    "description": "Your highest score over 50000000 at the Ultimate Last Boss Institute",
+    "description": "Your highest score over 50000000 at the Final Boss Lab",
     "m_award_id": 3701,
     "resource": "3701"
   },
@@ -600,7 +600,7 @@
     "condition_id": 0,
     "condition_num": 200000000,
     "name": "The key to researching the final boss",
-    "description": "Your highest score over 200000000 at the Ultimate Last Boss Institute",
+    "description": "Your highest score over 200000000 at the Final Boss Lab",
     "m_award_id": 3702,
     "resource": "3702"
   },
@@ -611,7 +611,7 @@
     "condition_id": 0,
     "condition_num": 500000000,
     "name": "Ultimate final boss founder",
-    "description": "Your highest score over 500000000 at the Ultimate Last Boss Institute",
+    "description": "Your highest score over 500000000 at the Final Boss Lab",
     "m_award_id": 3703,
     "resource": "3703"
   },
