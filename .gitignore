@@ -12,3 +12,6 @@ New_Entries/
 Assets_Backup/
 Patched_Textures/
 Translated_Files/
+debug.log
+.vscode/launch.json
+test.py
