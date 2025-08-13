@@ -1179,9 +1179,9 @@
   {
     "id": 60101,
     "m_episode_id": 601,
-    "name": "EXPがっぽりゲート",
+    "name": "EXP Galore Gate",
     "heading": "",
-    "description": "EXPががっぽりもらえるゲート",
+    "description": "A gate where you can earn lots of EXP",
     "bg_id": 601,
     "m_preview_id": 0,
     "area_special_type": 0,
@@ -31433,6 +31433,17 @@
     "heading": "",
     "description": "Using the BOSS key,\nLet's challenge even more powerful enemies!",
     "bg_id": 1023,
+    "m_preview_id": 0,
+    "area_special_type": 0,
+    "sort": 1
+  },
+  {
+    "id": 1832101,
+    "m_episode_id": 18321,
+    "name": "During the test fight Fuji Zesksai",
+    "heading": "",
+    "description": "",
+    "bg_id": 10004,
     "m_preview_id": 0,
     "area_special_type": 0,
     "sort": 1

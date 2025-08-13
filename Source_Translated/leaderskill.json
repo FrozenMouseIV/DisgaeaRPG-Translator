@@ -577,7 +577,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 41,
@@ -3199,7 +3199,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Action Gauge +#PER#"
+    "description": " .Additionally, All Allies: Action Gauge +#PER#"
   },
   {
     "id": 168,
@@ -5940,7 +5940,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage Taken -#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage Taken -#PER#%(2T)"
   },
   {
     "id": 311,
@@ -8075,7 +8075,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 441,
@@ -12136,7 +12136,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 691,
@@ -12607,7 +12607,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 707,
@@ -12918,7 +12918,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Action Gauge +#PER#"
+    "description": " .Additionally, All Allies: Action Gauge +#PER#"
   },
   {
     "id": 721,
@@ -13307,7 +13307,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 738,
@@ -16608,7 +16608,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 921,
@@ -18039,7 +18039,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 997,
@@ -18310,7 +18310,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 1007,
@@ -20508,7 +20508,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 1131,
@@ -22139,7 +22139,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 1218,
@@ -23502,7 +23502,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 1281,
@@ -30248,7 +30248,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Fire Damage +#PER#%"
+    "description": " .Additionally, All Allies: Fire Damage +#PER#%"
   },
   {
     "id": 1621,
@@ -30478,7 +30478,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Water Damage +#PER#%"
+    "description": " .Additionally, All Allies: Water Damage +#PER#%"
   },
   {
     "id": 1631,
@@ -31641,7 +31641,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Water Damage +#PER#%"
+    "description": " .Additionally, All Allies: Water Damage +#PER#%"
   },
   {
     "id": 1687,
@@ -33233,7 +33233,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Water Damage +#PER#%"
+    "description": " .Additionally, All Allies: Water Damage +#PER#%"
   },
   {
     "id": 1748,
@@ -35168,7 +35168,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Wind Damage +#PER#%"
+    "description": " .Additionally, All Allies: Wind Damage +#PER#%"
   },
   {
     "id": 1831,
@@ -35905,7 +35905,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, SP +#PER#"
+    "description": " .Additionally, SP +#PER#"
   },
   {
     "id": 1858,
@@ -36179,7 +36179,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies Elemental Damage +#PER#%"
+    "description": " .Additionally, All Allies Elemental Damage +#PER#%"
   },
   {
     "id": 1867,
@@ -36256,7 +36256,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, SP +#PER#"
+    "description": " .Additionally, SP +#PER#"
   },
   {
     "id": 1871,
@@ -37466,7 +37466,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 1917,
@@ -37783,7 +37783,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 1928,
@@ -38299,7 +38299,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 1951,
@@ -38533,7 +38533,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 1957,
@@ -38609,7 +38609,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, SP +#PER#"
+    "description": " .Additionally, SP +#PER#"
   },
   {
     "id": 1961,
@@ -38964,7 +38964,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "The more websites you have, the more INT, RES, and CRD is increased (INT, RES, and CRD is the maximum +#PER#%"
+    "description": "The more websites you have, the more INT, RES, CRD, and CRT upgrades (INT, RES, and CRD are the maximum +#PER#%"
   },
   {
     "id": 1974,
@@ -39079,7 +39079,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies Elemental Damage +#PER#%"
+    "description": " .Additionally, All Allies Elemental Damage +#PER#%"
   },
   {
     "id": 1977,
@@ -39117,7 +39117,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": ",CRT is maximum +#PER#%)"
+    "description": ",CRT is up to +#PER#%)"
   },
   {
     "id": 1981,
@@ -39349,7 +39349,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 1987,
@@ -39387,7 +39387,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": ",CRD+#PER#%(ATK/DEF upper limit 150%, CRD upper limit 50%)"
+    "description": ",CRD+#PER#%(ATK/DEF upper limit 150%, CRD upper limit 80%)"
   },
   {
     "id": 1988,
@@ -40196,7 +40196,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2017,
@@ -40780,7 +40780,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2038,
@@ -41678,7 +41678,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2068,
@@ -42152,7 +42152,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies Elemental Damage +#PER#%"
+    "description": " .Additionally, All Allies Elemental Damage +#PER#%"
   },
   {
     "id": 2088,
@@ -42960,7 +42960,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: SP consumption -#PER#%"
+    "description": " .Additionally, All Allies: SP consumption -#PER#%"
   },
   {
     "id": 2127,
@@ -43036,7 +43036,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2131,
@@ -43274,7 +43274,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Wind Damage +#PER#%"
+    "description": " .Additionally, All Allies: Wind Damage +#PER#%"
   },
   {
     "id": 2137,
@@ -43544,7 +43544,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies Elemental Damage +#PER#%"
+    "description": " .Additionally, All Allies Elemental Damage +#PER#%"
   },
   {
     "id": 2148,
@@ -43814,7 +43814,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2158,
@@ -44082,7 +44082,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2167,
@@ -44350,7 +44350,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2178,
@@ -44887,7 +44887,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage +#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage +#PER#%(2T)"
   },
   {
     "id": 2201,
@@ -45585,7 +45585,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2228,
@@ -45854,7 +45854,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2237,
@@ -45930,7 +45930,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Self: Damage +#PER#%(2T)"
+    "description": " .Additionally, Self: Damage +#PER#%(2T)"
   },
   {
     "id": 2241,
@@ -46359,7 +46359,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2257,
@@ -46435,7 +46435,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, SP +#PER#"
+    "description": " .Additionally, SP +#PER#"
   },
   {
     "id": 2261,
@@ -46664,7 +46664,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2267,
@@ -46969,7 +46969,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2277,
@@ -47278,7 +47278,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2288,
@@ -47322,7 +47322,7 @@
   },
   {
     "id": 2291,
-    "name": "Fire Fist Form",
+    "name": "Fire Fist Emperor Form",
     "unique_flg": 0,
     "lv_max": 1,
     "timing_type": 1,
@@ -47394,7 +47394,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Damage deals with fire attacks when you are equipped with fist weapons +#PER#%"
+    "description": "Fist-Equipped Self: Fire Damage +#PER#%"
   },
   {
     "id": 2293,
@@ -47473,11 +47473,11 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "At the start of the turn, the ATK/CRD+#PER#%(2T) is the ally character with the highest ATK."
+    "description": "At the start of the turn, Ally character with the highest ATK, ATK/CRD+#PER#%(2T)."
   },
   {
     "id": 2295,
-    "name": "Fire Fist Form",
+    "name": "Fire Fist Emperor Form",
     "unique_flg": 1,
     "lv_max": 1,
     "timing_type": 1,
@@ -47549,7 +47549,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Fire Damage +#PER#%"
+    "description": " .Additionally, All Allies: Fire Damage +#PER#%"
   },
   {
     "id": 2297,
@@ -47819,7 +47819,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Fire Damage +#PER#%"
+    "description": " .Additionally, All Allies: Fire Damage +#PER#%"
   },
   {
     "id": 2307,
@@ -48126,7 +48126,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2321,
@@ -48357,7 +48357,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2331,
@@ -48586,7 +48586,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2337,
@@ -48624,7 +48624,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: initial SP +#PER#"
+    "description": " .Additionally, All Allies: initial SP +#PER#"
   },
   {
     "id": 2338,
@@ -48893,7 +48893,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2347,
@@ -49200,7 +49200,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2357,
@@ -49509,7 +49509,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2371,
@@ -49738,7 +49738,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2377,
@@ -50009,7 +50009,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2387,
@@ -50322,7 +50322,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Fire Damage +#PER#%"
+    "description": " .Additionally, All Allies: Fire Damage +#PER#%"
   },
   {
     "id": 2397,
@@ -50597,7 +50597,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2407,
@@ -50877,7 +50877,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2417,
@@ -51182,7 +51182,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2428,
@@ -51450,7 +51450,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2437,
@@ -51488,7 +51488,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage +#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage +#PER#%(2T)"
   },
   {
     "id": 2438,
@@ -51757,7 +51757,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2447,
@@ -51795,7 +51795,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: SP consumption -#PER#%"
+    "description": " .Additionally, All Allies: SP consumption -#PER#%"
   },
   {
     "id": 2448,
@@ -52069,7 +52069,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2458,
@@ -52338,7 +52338,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2468,
@@ -52569,7 +52569,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2477,
@@ -52839,7 +52839,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2487,
@@ -53110,7 +53110,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2497,
@@ -53378,7 +53378,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2507,
@@ -53416,7 +53416,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: SP consumption -#PER#%"
+    "description": " .Additionally, All Allies: SP consumption -#PER#%"
   },
   {
     "id": 2508,
@@ -53685,7 +53685,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2518,
@@ -53952,7 +53952,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2527,
@@ -54261,7 +54261,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2537,
@@ -54568,7 +54568,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2547,
@@ -54838,7 +54838,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2557,
@@ -55145,7 +55145,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2567,
@@ -55415,7 +55415,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2577,
@@ -55723,7 +55723,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2588,
@@ -55990,7 +55990,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2597,
@@ -56300,7 +56300,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2611,
@@ -56531,7 +56531,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2617,
@@ -56842,7 +56842,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2627,
@@ -57147,7 +57147,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2638,
@@ -57416,7 +57416,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2647,
@@ -57725,7 +57725,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2657,
@@ -57763,7 +57763,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage +#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage +#PER#%(2T)"
   },
   {
     "id": 2658,
@@ -58037,7 +58037,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2668,
@@ -58312,7 +58312,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2677,
@@ -58585,7 +58585,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2687,
@@ -58623,7 +58623,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, SP +#PER#"
+    "description": " .Additionally, SP +#PER#"
   },
   {
     "id": 2688,
@@ -58854,7 +58854,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2697,
@@ -58892,7 +58892,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage +#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage +#PER#%(2T)"
   },
   {
     "id": 2698,
@@ -59161,7 +59161,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2707,
@@ -59430,7 +59430,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2717,
@@ -59701,7 +59701,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2727,
@@ -60205,7 +60205,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2747,
@@ -60243,7 +60243,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage +#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage +#PER#%(2T)"
   },
   {
     "id": 2751,
@@ -60481,7 +60481,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, you take single-target attacks aimed at other party members"
+    "description": " .Additionally, you take single-target attacks aimed at other party members"
   },
   {
     "id": 2757,
@@ -60788,7 +60788,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Fire Damage +#PER#%"
+    "description": " .Additionally, All Allies: Fire Damage +#PER#%"
   },
   {
     "id": 2768,
@@ -61057,7 +61057,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2777,
@@ -61095,7 +61095,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage Taken -#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage Taken -#PER#%(2T)"
   },
   {
     "id": 2778,
@@ -61329,7 +61329,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2787,
@@ -61367,7 +61367,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage +#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage +#PER#%(2T)"
   },
   {
     "id": 2791,
@@ -61600,7 +61600,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2797,
@@ -61907,7 +61907,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2807,
@@ -62214,7 +62214,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2817,
@@ -62528,7 +62528,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2827,
@@ -62838,7 +62838,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2837,
@@ -63109,7 +63109,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2847,
@@ -63417,7 +63417,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 2861,
@@ -63609,7 +63609,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2867,
@@ -63920,7 +63920,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2881,
@@ -64152,7 +64152,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2887,
@@ -64462,7 +64462,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2897,
@@ -64538,7 +64538,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, you take single-target attacks aimed at other party members"
+    "description": " .Additionally, you take single-target attacks aimed at other party members"
   },
   {
     "id": 2901,
@@ -64776,7 +64776,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2907,
@@ -65048,7 +65048,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2921,
@@ -65279,7 +65279,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2927,
@@ -65588,7 +65588,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2938,
@@ -65626,7 +65626,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: initial SP +#PER#"
+    "description": " .Additionally, All Allies: initial SP +#PER#"
   },
   {
     "id": 2941,
@@ -65861,7 +65861,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2947,
@@ -66175,7 +66175,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2957,
@@ -66409,7 +66409,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies Elemental Damage +#PER#%"
+    "description": " .Additionally, All Allies Elemental Damage +#PER#%"
   },
   {
     "id": 2966,
@@ -66724,7 +66724,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2978,
@@ -66999,7 +66999,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2987,
@@ -67271,7 +67271,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 2996,
@@ -67309,7 +67309,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, you take single-target attacks aimed at other party members"
+    "description": " .Additionally, you take single-target attacks aimed at other party members"
   },
   {
     "id": 2997,
@@ -67347,7 +67347,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Self: Damage +#PER#%(2T)"
+    "description": " .Additionally, Self: Damage +#PER#%(2T)"
   },
   {
     "id": 3001,
@@ -67579,7 +67579,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3007,
@@ -67895,7 +67895,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3017,
@@ -68199,7 +68199,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3027,
@@ -68469,7 +68469,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3037,
@@ -68703,7 +68703,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies Elemental Damage +#PER#%"
+    "description": " .Additionally, All Allies Elemental Damage +#PER#%"
   },
   {
     "id": 3047,
@@ -68976,7 +68976,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3057,
@@ -69014,7 +69014,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage +#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage +#PER#%(2T)"
   },
   {
     "id": 3058,
@@ -69283,7 +69283,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3067,
@@ -69591,7 +69591,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3077,
@@ -69629,7 +69629,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Self: Damage +#PER#%(2T)"
+    "description": " .Additionally, Self: Damage +#PER#%(2T)"
   },
   {
     "id": 3078,
@@ -69898,7 +69898,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3087,
@@ -70210,7 +70210,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3097,
@@ -70516,7 +70516,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3107,
@@ -70787,7 +70787,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3117,
@@ -70825,7 +70825,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: SP consumption -#PER#%"
+    "description": " .Additionally, All Allies: SP consumption -#PER#%"
   },
   {
     "id": 3118,
@@ -71092,7 +71092,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3127,
@@ -71415,7 +71415,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3137,
@@ -71684,7 +71684,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3147,
@@ -72569,7 +72569,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3177,
@@ -73109,7 +73109,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 3197,
@@ -73384,7 +73384,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3208,
@@ -73654,7 +73654,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3217,
@@ -73965,7 +73965,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3227,
@@ -74041,7 +74041,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3231,
@@ -74232,7 +74232,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3237,
@@ -74540,7 +74540,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3247,
@@ -74847,7 +74847,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3257,
@@ -75165,7 +75165,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3268,
@@ -75438,7 +75438,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3277,
@@ -75630,7 +75630,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "When the party is critical, the party's CRD/CRT+#PER#%(2T)"
+    "description": "All Allies: When any ally crits, CRD/CRT+#PER#%(2T)"
   },
   {
     "id": 3284,
@@ -75746,7 +75746,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3287,
@@ -76018,7 +76018,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3297,
@@ -76056,7 +76056,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage +#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage +#PER#%(2T)"
   },
   {
     "id": 3298,
@@ -76325,7 +76325,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3307,
@@ -76401,7 +76401,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, you take single-target attacks aimed at other party members"
+    "description": " .Additionally, you take single-target attacks aimed at other party members"
   },
   {
     "id": 3311,
@@ -76633,7 +76633,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3317,
@@ -76940,7 +76940,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3328,
@@ -77171,7 +77171,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3336,
@@ -77287,7 +77287,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, you take single-target attacks aimed at other party members"
+    "description": " .Additionally, you take single-target attacks aimed at other party members"
   },
   {
     "id": 3341,
@@ -77520,7 +77520,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3348,
@@ -77792,7 +77792,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3358,
@@ -78023,7 +78023,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3367,
@@ -78291,7 +78291,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3377,
@@ -78601,7 +78601,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3387,
@@ -78912,7 +78912,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3397,
@@ -79220,7 +79220,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3407,
@@ -79538,7 +79538,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 3417,
@@ -79773,7 +79773,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3426,
@@ -79887,7 +79887,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3431,
@@ -80118,7 +80118,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3437,
@@ -80390,7 +80390,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3448,
@@ -80701,7 +80701,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, you take single-target attacks aimed at other party members"
+    "description": " .Additionally, you take single-target attacks aimed at other party members"
   },
   {
     "id": 3458,
@@ -80856,7 +80856,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "When the party is critical, the party's ATK/CRD+#PER#%(2T)"
+    "description": "All Allies: When any ally crits, ATK/CRD+#PER#%(2T)"
   },
   {
     "id": 3464,
@@ -80972,7 +80972,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3467,
@@ -81280,7 +81280,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3477,
@@ -81597,7 +81597,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3487,
@@ -81909,7 +81909,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3497,
@@ -81989,7 +81989,7 @@
   },
   {
     "id": 3501,
-    "name": "Pure White attendees",
+    "name": "Pure White Attendee",
     "unique_flg": 0,
     "lv_max": 1,
     "timing_type": 1,
@@ -82030,7 +82030,7 @@
   },
   {
     "id": 3502,
-    "name": "Rose Boocare Law",
+    "name": " Rose Bouquet Arrow",
     "unique_flg": 1,
     "lv_max": 1,
     "timing_type": 1,
@@ -82068,7 +82068,7 @@
   },
   {
     "id": 3503,
-    "name": "Hua Married: The ghost disease crossbow leaves the ceremony",
+    "name": "B-Rule: Demonic Blindness",
     "unique_flg": 1,
     "lv_max": 1,
     "timing_type": 12,
@@ -82102,11 +82102,11 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "When a party uses a fire attribute move, all damage dealt to the party +#PER#%(2T) grants"
+    "description": "All Allies: When any ally uses a Fire Skill, Damage +#PER#%(2T)"
   },
   {
     "id": 3504,
-    "name": "A huge chorus of blessings",
+    "name": "Chorus of Blessings",
     "unique_flg": 1,
     "lv_max": 1,
     "timing_type": 2,
@@ -82144,7 +82144,7 @@
   },
   {
     "id": 3505,
-    "name": "Pure White attendees",
+    "name": "Pure White Attendee",
     "unique_flg": 1,
     "lv_max": 1,
     "timing_type": 1,
@@ -82182,7 +82182,7 @@
   },
   {
     "id": 3506,
-    "name": "Rose Boocare Law",
+    "name": "Rose Bouquet Arrow",
     "unique_flg": 1,
     "lv_max": 1,
     "timing_type": 1,
@@ -82216,11 +82216,11 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3507,
-    "name": "Hua Married: The ghost disease crossbow leaves the ceremony",
+    "name": "B-Rule: Demonic Blindness",
     "unique_flg": 1,
     "lv_max": 1,
     "timing_type": 51,
@@ -82262,7 +82262,7 @@
   },
   {
     "id": 3508,
-    "name": "A huge chorus of blessings",
+    "name": "Chorus of Blessings",
     "unique_flg": 1,
     "lv_max": 1,
     "timing_type": 2,
@@ -82296,7 +82296,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": ", if you are receiving either the ATK or INT buff effect, the party's CRT+#PER#%(2T)"
+    "description": ", ATK/INT-buffed Allies: CRT+#PER#%(2T)"
   },
   {
     "id": 3511,
@@ -82487,7 +82487,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3517,
@@ -82796,7 +82796,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3547,
@@ -83067,7 +83067,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 3557,
@@ -92626,7 +92626,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200097,
@@ -94215,7 +94215,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: initial SP +#PER#"
+    "description": " .Additionally, All Allies: initial SP +#PER#"
   },
   {
     "id": 200198,
@@ -98287,7 +98287,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200421,
@@ -99323,7 +99323,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Wind Damage +#PER#%"
+    "description": " .Additionally, All Allies: Wind Damage +#PER#%"
   },
   {
     "id": 200468,
@@ -101067,7 +101067,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200541,
@@ -101298,7 +101298,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200547,
@@ -104471,7 +104471,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200687,
@@ -104740,7 +104740,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200701,
@@ -105400,7 +105400,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200731,
@@ -105828,7 +105828,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200747,
@@ -106175,7 +106175,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: SP consumption -#PER#%"
+    "description": " .Additionally, All Allies: SP consumption -#PER#%"
   },
   {
     "id": 200761,
@@ -106637,7 +106637,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200777,
@@ -106713,7 +106713,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage Taken -#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage Taken -#PER#%(2T)"
   },
   {
     "id": 200781,
@@ -106917,7 +106917,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200791,
@@ -107453,7 +107453,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200808,
@@ -107491,7 +107491,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Action Gauge +#PER#"
+    "description": " .Additionally, All Allies: Action Gauge +#PER#"
   },
   {
     "id": 200811,
@@ -107721,7 +107721,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200817,
@@ -108029,7 +108029,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200827,
@@ -108338,7 +108338,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200837,
@@ -108648,7 +108648,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies Elemental Damage +#PER#%"
+    "description": " .Additionally, All Allies Elemental Damage +#PER#%"
   },
   {
     "id": 200847,
@@ -108918,7 +108918,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200857,
@@ -109227,7 +109227,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200867,
@@ -109537,7 +109537,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200877,
@@ -109807,7 +109807,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200887,
@@ -110119,7 +110119,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies Elemental Damage +#PER#%"
+    "description": " .Additionally, All Allies Elemental Damage +#PER#%"
   },
   {
     "id": 200897,
@@ -110424,7 +110424,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200907,
@@ -110695,7 +110695,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200917,
@@ -111002,7 +111002,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200927,
@@ -111310,7 +111310,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200937,
@@ -111622,7 +111622,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200948,
@@ -111896,7 +111896,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200957,
@@ -112203,7 +112203,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200967,
@@ -112433,7 +112433,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200977,
@@ -112738,7 +112738,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 200987,
@@ -113051,7 +113051,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 200997,
@@ -113329,7 +113329,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 201007,
@@ -113367,7 +113367,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage +#PER#%(2T)"
+    "description": " .Additionally, All Allies: Damage +#PER#%(2T)"
   },
   {
     "id": 201008,
@@ -113641,7 +113641,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Skill Damage +#PER#%"
+    "description": " .Additionally, All Allies: Skill Damage +#PER#%"
   },
   {
     "id": 201017,
@@ -113911,7 +113911,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 201027,
@@ -114217,7 +114217,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 201037,
@@ -114524,7 +114524,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 201047,
@@ -114841,7 +114841,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 201057,
@@ -143355,7 +143355,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, All Allies: Damage +#PER#%"
+    "description": " .Additionally, All Allies: Damage +#PER#%"
   },
   {
     "id": 3527,
@@ -143431,7 +143431,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, you take single-target attacks aimed at other party members"
+    "description": " .Additionally, you take single-target attacks aimed at other party members"
   },
   {
     "id": 20000078,
@@ -144175,7 +144175,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3537,
@@ -144449,7 +144449,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3566,
@@ -144799,7 +144799,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 3587,
@@ -145118,7 +145118,7 @@
       0
     ],
     "bad_effect_value": 0,
-    "description": "Additionally, Party: Damage +#PER#%"
+    "description": " .Additionally, Party: Damage +#PER#%"
   },
   {
     "id": 201067,
@@ -145157,5 +145157,318 @@
     ],
     "bad_effect_value": 0,
     "description": "Furthermore, allies with low HP will recover to exceed #PER#% of their maximum HP."
+  },
+  {
+    "id": 3591,
+    "name": "Vanguard",
+    "unique_flg": 0,
+    "lv_max": 1,
+    "timing_type": 1,
+    "trigger_target": 0,
+    "trigger_status": 0,
+    "trigger_param": 0,
+    "trigger_param2": 0,
+    "target_type": 1,
+    "target_params": [
+      0
+    ],
+    "effect_type": 1,
+    "effect_type_params": [
+      1,
+      2
+    ],
+    "limit_damage": 0,
+    "limit_characters": [
+      0
+    ],
+    "effect_correct_type": 0,
+    "effect_correct_characters": [
+      0
+    ],
+    "effect_value_min": 18,
+    "effect_value_max": 18,
+    "effect_turn": [
+      0
+    ],
+    "bad_effect_type": 0,
+    "bad_effect_params": [
+      0
+    ],
+    "bad_effect_value": 0,
+    "description": "All Allies: HP and ATK +#PER#%"
+  },
+  {
+    "id": 3592,
+    "name": "Sniper on board",
+    "unique_flg": 1,
+    "lv_max": 1,
+    "timing_type": 1,
+    "trigger_target": 1,
+    "trigger_status": 3,
+    "trigger_param": 5,
+    "trigger_param2": 0,
+    "target_type": 9,
+    "target_params": [
+      0
+    ],
+    "effect_type": 3,
+    "effect_type_params": [
+      1
+    ],
+    "limit_damage": 0,
+    "limit_characters": [
+      0
+    ],
+    "effect_correct_type": 0,
+    "effect_correct_characters": [
+      0
+    ],
+    "effect_value_min": 50,
+    "effect_value_max": 50,
+    "effect_turn": [
+      0
+    ],
+    "bad_effect_type": 0,
+    "bad_effect_params": [
+      0
+    ],
+    "bad_effect_value": 0,
+    "description": "Gun-Equipped Self, Damage +#PER#%"
+  },
+  {
+    "id": 3593,
+    "name": "Fighting Spirit",
+    "unique_flg": 1,
+    "lv_max": 1,
+    "timing_type": 16,
+    "trigger_target": 0,
+    "trigger_status": 0,
+    "trigger_param": 0,
+    "trigger_param2": 0,
+    "target_type": 1,
+    "target_params": [
+      0
+    ],
+    "effect_type": 23,
+    "effect_type_params": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "limit_damage": 0,
+    "limit_characters": [
+      0
+    ],
+    "effect_correct_type": 0,
+    "effect_correct_characters": [
+      0
+    ],
+    "effect_value_min": 20,
+    "effect_value_max": 20,
+    "effect_turn": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "bad_effect_type": 0,
+    "bad_effect_params": [
+      0
+    ],
+    "bad_effect_value": 0,
+    "description": "All Allies: When any ally crits, Non-HP Basic Stats +#PER#%(2T)"
+  },
+  {
+    "id": 3594,
+    "name": "Princess' Attendant",
+    "unique_flg": 1,
+    "lv_max": 1,
+    "timing_type": 1,
+    "trigger_target": 2,
+    "trigger_status": 25,
+    "trigger_param": 17,
+    "trigger_param2": 2,
+    "target_type": 1,
+    "target_params": [
+      0
+    ],
+    "effect_type": 1,
+    "effect_type_params": [
+      2,
+      8
+    ],
+    "limit_damage": 0,
+    "limit_characters": [
+      0
+    ],
+    "effect_correct_type": 0,
+    "effect_correct_characters": [
+      0
+    ],
+    "effect_value_min": 30,
+    "effect_value_max": 30,
+    "effect_turn": [
+      0
+    ],
+    "bad_effect_type": 0,
+    "bad_effect_params": [
+      0
+    ],
+    "bad_effect_value": 0,
+    "description": "All Allies: If 2+ [Sword/Gun] Allies, ATK/CRD+#PER#%"
+  },
+  {
+    "id": 3595,
+    "name": "Vanguard",
+    "unique_flg": 1,
+    "lv_max": 1,
+    "timing_type": 1,
+    "trigger_target": 0,
+    "trigger_status": 0,
+    "trigger_param": 0,
+    "trigger_param2": 0,
+    "target_type": 1,
+    "target_params": [
+      0
+    ],
+    "effect_type": 1,
+    "effect_type_params": [
+      6,
+      7
+    ],
+    "limit_damage": 0,
+    "limit_characters": [
+      0
+    ],
+    "effect_correct_type": 0,
+    "effect_correct_characters": [
+      0
+    ],
+    "effect_value_min": 5,
+    "effect_value_max": 5,
+    "effect_turn": [
+      0
+    ],
+    "bad_effect_type": 0,
+    "bad_effect_params": [
+      0
+    ],
+    "bad_effect_value": 0,
+    "description": ",SPD and CRT +#PER#%"
+  },
+  {
+    "id": 3596,
+    "name": "Sniper on board",
+    "unique_flg": 1,
+    "lv_max": 1,
+    "timing_type": 1,
+    "trigger_target": 1,
+    "trigger_status": 3,
+    "trigger_param": 5,
+    "trigger_param2": 0,
+    "target_type": 1,
+    "target_params": [
+      0
+    ],
+    "effect_type": 3,
+    "effect_type_params": [
+      1
+    ],
+    "limit_damage": 0,
+    "limit_characters": [
+      0
+    ],
+    "effect_correct_type": 0,
+    "effect_correct_characters": [
+      0
+    ],
+    "effect_value_min": 25,
+    "effect_value_max": 25,
+    "effect_turn": [
+      0
+    ],
+    "bad_effect_type": 0,
+    "bad_effect_params": [
+      0
+    ],
+    "bad_effect_value": 0,
+    "description": " .Additionally, Party: Damage +#PER#%"
+  },
+  {
+    "id": 3597,
+    "name": "Fighting Spirit",
+    "unique_flg": 1,
+    "lv_max": 1,
+    "timing_type": 16,
+    "trigger_target": 0,
+    "trigger_status": 0,
+    "trigger_param": 0,
+    "trigger_param2": 0,
+    "target_type": 1,
+    "target_params": [
+      0
+    ],
+    "effect_type": 49,
+    "effect_type_params": [
+      1
+    ],
+    "limit_damage": 0,
+    "limit_characters": [
+      0
+    ],
+    "effect_correct_type": 0,
+    "effect_correct_characters": [
+      0
+    ],
+    "effect_value_min": 10,
+    "effect_value_max": 10,
+    "effect_turn": [
+      2
+    ],
+    "bad_effect_type": 0,
+    "bad_effect_params": [
+      0
+    ],
+    "bad_effect_value": 0,
+    "description": ",All damage dealt +#PER#%(2T)"
+  },
+  {
+    "id": 3598,
+    "name": "Princess' Attendant",
+    "unique_flg": 1,
+    "lv_max": 1,
+    "timing_type": 1,
+    "trigger_target": 2,
+    "trigger_status": 25,
+    "trigger_param": 17,
+    "trigger_param2": 2,
+    "target_type": 1,
+    "target_params": [
+      0
+    ],
+    "effect_type": 1,
+    "effect_type_params": [
+      7
+    ],
+    "limit_damage": 0,
+    "limit_characters": [
+      0
+    ],
+    "effect_correct_type": 0,
+    "effect_correct_characters": [
+      0
+    ],
+    "effect_value_min": 5,
+    "effect_value_max": 5,
+    "effect_turn": [
+      0
+    ],
+    "bad_effect_type": 0,
+    "bad_effect_params": [
+      0
+    ],
+    "bad_effect_value": 0,
+    "description": ",CRT +#PER#%"
   }
 ]
